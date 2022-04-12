@@ -1,0 +1,13 @@
+<head>
+    <meta charset="utf-8">
+    <title><%= config.title %> – <%= config.subtitle %> </title>
+    <meta name="author" content="<%= config.author %>">
+    <% if (page.description){ %>
+        <meta name="description" content="<%= page.description %>">
+    <% } %>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta property="og:site_name" content="Règles de l'Ultimate">
+    <meta property="og:image" content="">
+    <%- css('modern-normalize.min.css') %>
+    <%- css('style.css') %>
+</head>

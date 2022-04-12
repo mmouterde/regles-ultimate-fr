@@ -1,0 +1,9 @@
+menu:
+  - label: Règles
+    path: index
+  - label: Annotations
+    path: annotations
+  - label: Annexes
+    path: annexes
+  - label: Gestes
+    path: gestes

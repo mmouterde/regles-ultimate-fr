@@ -1,0 +1,29 @@
+{
+  "name": "regles-ultimate-fr",
+  "version": "1.0.0",
+  "description": "Règles de l'Ultimate en Français",
+  "main": "index.html",
+  "hexo": {
+    "version": "5.4.2"
+  },
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server",
+    "help": "hexo help server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mmouterde/regles-ultimate-fr.git"
+  },
+  "author": "Martin Mouterde",
+  "private": true,
+  "dependencies": {
+    "hexo": "^5.4.2",
+    "hexo-generator-index": "^2.0.0",
+    "hexo-renderer-marked": "^5.0.0",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-server": "^3.0.0"
+  }
+}

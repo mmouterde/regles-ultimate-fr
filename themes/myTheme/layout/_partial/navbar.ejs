@@ -1,0 +1,12 @@
+<div>
+    <div>
+        <h1>Règles de l'ultimate</h1>
+    </div>
+    <nav>
+        <ul>
+            <% theme.menu.forEach(function(item){ %>
+                <li><a href="<%- url_for(item.path) %>" class="<% if(is_current(item.path)){%>current<%}%>"><%= item.label %></a></li>
+            <% }) %>
+        </ul>
+    </nav>
+</div>

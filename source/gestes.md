@@ -1,1 +1,0 @@
-- ![Accepté](/images/handSignals/accepted.png) Accepté

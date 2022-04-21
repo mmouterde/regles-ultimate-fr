@@ -5,5 +5,5 @@ menu:
     path: annotations
   - label: Annexes
     path: annexes
-  - label: Gestes
-    path: gestes
+  - label: Signaux visuels
+    path: signaux

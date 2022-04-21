@@ -10,6 +10,18 @@
     li a[href] {
         text-decoration: underline;
     }
+
+    table, th, tr, td {
+        border-style: solid;
+        border-width: 1px;
+        border-collapse: collapse;
+        padding: 0.5em;
+    }
+
+    th {
+        vertical-align: top;
+        text-align: right;
+    }
 </style>
 <article>
     <h2>WFDF Rules of Ultimate 2021-2024</h2>
@@ -2133,178 +2145,344 @@
                 </p></li>
             </ul>
         </li>
+        <li>
+            <h4><a id="definitions">Définitions</a></h4>
+            <table>
+                <tr>
+                    <th role="rowheader">Aire de Jeu</th>
+                    <td>La zone incluant la zone centrale et les zones d’en-but mais excluant les lignes
+                        de périmètre.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Affecter le Jeu</th>
+                    <td>
+                        Une infraction affecte le jeu s'il est raisonnable de penser que le résultat de
+                        l'action aurait été significativement différent sans cette infraction.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Attaquant</th>
+                    <td>
+                        Un joueur dont l’équipe est en possession du disque.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Call</th>
+                    <td>
+                        Un appel clairement communiqué qu’une faute, infraction, violation,
+                        <i>turnover</i> ou blessure s’est produit. Les termes suivants peuvent être utilisés:
+                        <i>foul</i> (<i>faute</i>), <i>travel</i>, le nom spécifique d’une infraction de marquage,
+                        <i>violation</i> (ou le nom spécifique de la violation), le nom spécifique d’un
+                        <i>turnover</i>, <i>technical</i> et <i>injury</i>.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Catch</th>
+                    <td>
+                        Un disque sans rotation coincé entre au moins deux parties du corps.
+                        Si un joueur attrape initialement une passe puis, avant d'établir la possession, il
+                        ne maintient pas la prise (<i>maintenir la prise</i> signifie continuer à avoir un
+                        disque qui ne tourne pas coincé entre au moins deux parties du corps), ce
+                        <i>catch</i> initial est considéré comme terminé.
+
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Contact avec le Sol</th>
+                    <td>
+                        Réfère à tout joueur touchant le sol suite à un événement ou une action
+                        incluant l’atterrissage ou la reprise d’appui après une perte d’équilibre (i.e.
+                        sauter, plonger, se pencher ou tomber).
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Contact mineur</th>
+                    <td>
+                        Un contact qui implique une force physique minimale et ne modifie pas les
+                        mouvements ou la position d'un autre joueur.
+                        Le contact avec les bras tendus ou les mains d'un adversaire qui sont sur le
+                        point ou qui sont déjà en contact avec le disque, ou en contact avec la main du
+                        lanceur pendant le mouvement de lancer, n'est pas considéré comme un contact
+                        mineur.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Défenseur</th>
+                    <td>
+                        Un joueur dont l’équipe n’est pas en possession du disque.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">En-but</th>
+                    <td>
+                        L’une des deux zones à chaque extrémité du terrain où les équipes peuvent
+                        marquer un point en y attrapant le disque.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">En-but Attaqué</th>
+                    <td>
+                        Zone d’en-but dans laquelle l’équipe concernée est en train d’essayer de
+                        marquer.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">En-but Défendu</th>
+                    <td>
+                        Zone d’en-but dans laquelle l’équipe concernée est en train d’essayer
+                        d’empêcher les adversaires de marquer.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Endroit du Pivot</th>
+                    <td>
+                        Le point de l’aire de jeu où le lanceur doit établir un point pivot après un
+                        <i>turnover</i>, après le <i>pull</i>, après un temps-mort, après être sorti de la zone
+                        centrale ou là où le point pivot a déjà été établi.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Faire action sur le disque</th>
+                    <td>
+                        Quand le disque est en l'air et qu'un joueur tente de rentrer en contact avec le
+                        disque de quelque manière que ce soit, pour l'attraper ou le bloquer. Ceci inclut
+                        la course vers le lieu où il pense entrer en contact avec le disque.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Garder</th>
+                    <td>
+                        Un défenseur garde un attaquant quand il se situe à moins de trois mètres de
+                        celui-ci et réagit en fonction de cet attaquant.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Hors-limites</th>
+                    <td>
+                        Tout ce qui ne fait pas partie de l’aire de jeu, incluant les lignes de périmètre.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Interception</th>
+                    <td>
+                        Quand un joueur de l’équipe défensive établit la possession d’un lancer d’un
+                        joueur de l’équipe attaquante.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Interruption de jeu</th>
+                    <td>
+                        Tout arrêt de jeu dû à une faute, violation, discussion, appel contesté, blessure
+                        ou temps-mort qui nécessite un <i>check</i> pour relancer le jeu.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Jeu</th>
+                    <td>
+                        Le temps après que le pull a commencé et avant qu’un point ne soit marqué. Le
+                        jeu peut ensuite être arrêté par un appel et dans ce cas il reprend par un
+                        <i>check</i>.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Joueur</th>
+                    <td>
+                        Les personnes qui participent effectivement au point en cours.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Lancer</th>
+                    <td>
+                        Un disque en vol après un mouvement du lancer, incluant la perte de contact
+                        entre le lanceur et le disque après une feinte ou une perte intentionnelle de
+                        disque. Une passe est l’équivalent d’un lancer.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Lanceur</th>
+                    <td>
+                        L’attaquant en possession du disque ou le joueur qui vient de lancer le disque
+                        avant que le résultat du lancer ne soit déterminé.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Ligne</th>
+                    <td>
+                        Une limite définissant les aires de jeu. Sur un terrain sans tracé, les limites sont
+                        définies par des lignes imaginaires entre les marqueurs ayant la largeur des dits
+                        marqueurs. Les segments de ligne ne sont pas étendus au-delà des marqueurs.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Ligne de But</th>
+                    <td>
+                        La ligne séparant la zone centrale de chaque zone d’en-but. Elle ne fait pas partie
+                        de l’en-but.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Lignes de Périmètre</th>
+                    <td>
+                        Lignes séparant la zone centrale ou l’en-but de la zone hors-limites. Elles ne font
+                        pas partie de l’aire de jeu.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Marqueur</th>
+                    <td>
+                        Le défenseur qui peut énoncer le compte sur le lanceur.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Meilleure Perspective</th>
+                    <td>
+                        Le point de vue disponible et le plus complet d’un joueur englobant les positions
+                        relatives du disque, du sol, des joueurs et des lignes impliqués sur l’action.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Mouvement du Lancer</th>
+                    <td>
+                        Le mouvement du lancer est le mouvement qui transfère un déplacement du
+                        lanceur au disque dans une direction de vol et finit en lancer. Les pivots et les
+                        déplacements d’air ne font pas partie du mouvement du lancer.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Non-joueur</th>
+                    <td>
+                        Toute personne, incluant un membre d’équipe, qui n’est pas joueur à ce moment.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Où le disque s’arrête</th>
+                    <td>
+                        Réfère à l’endroit où un joueur établit possession, le disque s’arrête
+                        naturellement ou le disque est empêché de rouler ou glisser.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Pivoter</th>
+                    <td>
+                        Quand le lanceur se déplace dans n’importe quelle direction tout en gardant
+                        une partie du corps en contact constant avec un point spécifique au sol appelé
+                        le point pivot.
+                        Un joueur établit un point pivot en plaçant, ou en gardant, une partie
+                        particulière de son corps en un point spécifique, qu'il a l'intention d'utiliser
+                        comme point pivot. Si un lanceur a plusieurs options pour un point pivot, le
+                        point pivot n'est pas déterminé tant qu'il n'a pas pivoté.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Position Légitime</th>
+                    <td>
+                        La position stationnaire ou en mouvement établie par un joueur qui n’est en
+                        infraction avec aucune règle.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Possession du disque</th>
+                    <td>
+                        Un joueur établit la possession d’une passe quand:
+                        - il attrape une passe et ensuite maintient cette prise pendant plus d'un
+                        instant perceptible, et
+                        - il maintient la prise tout au long du contact avec le sol lié à ce <i>catch</i>,
+                        ou jusqu’à ce qu’il lance le disque.
+                        Un joueur peut également établir la possession lorsqu'un disque qui a déjà
+                        touché le sol est ramassé, ou lui est donné, après un <i>turnover</i>, un <i>pull</i>
+                        ou une interruption.
+                        Une fois qu'un joueur a établi la possession, il peut changer sa prise sur le
+                        disque et cela n'affecte pas sa possession, tant qu'il reste en contact avec le
+                        disque.
+                        Un disque en possession d’un joueur, ou attrapé par un joueur est considéré
+                        comme faisant partie de ce joueur.
+                        L’équipe dont le joueur est en possession ou dont les joueurs peuvent ramasser
+                        le disque est considérée en possession.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Pré-compte (Pre- stall)</th>
+                    <td>
+                        Un avertissement concernant les délais pour reprendre le jeu, émis en donnant
+                        des avertissements à vingt (20), dix (10) et cinq (5) secondes (selon le cas).
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Pull</th>
+                    <td>
+                        Le lancer par la défense vers l’attaque qui commence le jeu au début d’une mi-
+                        temps ou après un point. Le <i>pull</i> n'est pas considéré comme une passe
+                        légitime.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Réceptionneurs</th>
+                    <td>
+                        Tous les attaquants qui ne sont pas le lanceur.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Sol</th>
+                    <td>
+                        Le sol est constitué de tout objet substantiellement solide incluant l’herbe, les
+                        cônes de marquage, l’équipement, l’eau et les non-joueurs mais excluant tous
+                        les joueurs et les vêtements qu’ils portent, les particules aériennes et les
+                        précipitations.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Turnover</th>
+                    <td>
+                        Tout événement qui produit un changement de l’équipe en possession. Un
+                        <i>turnover</i> n'est pas considéré comme une violation.
+                    </td>
+                </tr>
+                <tr>
+                    <th role="rowheader">Zone centrale</th>
+                    <td>
+                        La zone de l’aire de jeu incluant les lignes de but mais excluant les zones d’en-
+                        but et les lignes de périmètre.
+                    </td>
+                </tr>
+            </table>
+        </li>
+        <li>
+            <h4><a id="legals">License Légale</a></h4>
+            <p>
+                Ce travail ("WFDF Rules of Ultimate 2021-2024") et tous les documents relatifs aux règles WFDF ont
+                une licence Creative Commons Attribution 4.0. L’exploitant et auteur original de ce travail est la <i>
+                World Flying Disc Federation</i>, une organisation à but non lucratif enregistrée dans le Colorado
+                (Etats-
+                Unis). Ceci est un résumé du code légal (la licence complète peut être trouvée dans l’Appendix G)
+            </p>
+            <p> Vous êtes libre de:</p>
+            <ul>
+                <li>- copier, distribuer, montrer et d’appliquer ce travail</li>
+                <li>- d’en faire des dérivés</li>
+                <li>- d’en faire un usage commercial</li>
+            </ul>
+            <p>
+                Sous les conditions suivantes:</p>
+            <ul>
+                <li>- vous devez attribuer le travail selon les spécifications de l’auteur ou exploitant.</li>
+                <li>- pour toute réutilisation ou distribution vous devez présenter clairement les termes de licence de
+                    ce travail.
+                </li>
+                <li>- toutes ces conditions peuvent être levées si vous recevez la permission de la WFDF.</li>
+            </ul>
+            <p>
+                Vos droits d’utilisation ne sont en aucun cas affectés par ce qui précède.
+            </p>
+            <p>
+                Note du traducteur: dans ce document, l’emploi du masculin pour désigner des personnes n’a d’autres fins
+                que celle d’alléger le texte. L’Ultimate est un sport inclusif et ses règles s’appliquent à tous les
+                genres.
+            </p>
+            <p>
+                Traduction : Cyril Cayla<br/>
+                Relecture : John Kofi, Benjamin Bismuth
+            </p>
+        </li>
     </ul>
 </article>
-
-15Définitions
-Aire de Jeu
-Affecter le Jeu
-Attaquant
-La zone incluant la zone centrale et les zones d’en-but mais excluant les lignes
-de périmètre.
-Une infraction affecte le jeu s'il est raisonnable de penser que le résultat de
-l'action aurait été significativement différent sans cette infraction.
-Un joueur dont l’équipe est en possession du disque.
-Un appel clairement communiqué qu’une faute, infraction, violation,
-<i>turnover</i> ou blessure s’est produit. Les termes suivants peuvent être utilisés:
-Call
-<i>foul</i> (<i>faute</i>), <i>travel</i>, le nom spécifique d’une infraction de marquage,
-<i>violation</i> (ou le nom spécifique de la violation), le nom spécifique d’un
-<i>turnover</i>, <i>technical</i> et <i>injury</i>.
-Un disque sans rotation coincé entre au moins deux parties du corps.
-Si un joueur attrape initialement une passe puis, avant d'établir la possession, il
-Catch
-ne maintient pas la prise (<i>maintenir la prise</i> signifie continuer à avoir un
-disque qui ne tourne pas coincé entre au moins deux parties du corps), ce
-<i>catch</i> initial est considéré comme terminé.
-Réfère à tout joueur touchant le sol suite à un événement ou une action
-Contact avec le Sol incluant l’atterrissage ou la reprise d’appui après une perte d’équilibre (i.e.
-sauter, plonger, se pencher ou tomber).
-Un contact qui implique une force physique minimale et ne modifie pas les
-mouvements ou la position d'un autre joueur.
-Le contact avec les bras tendus ou les mains d'un adversaire qui sont sur le
-Contact mineur
-point ou qui sont déjà en contact avec le disque, ou en contact avec la main du
-lanceur pendant le mouvement de lancer, n'est pas considéré comme un contact
-mineur.
-Défenseur
-En-but
-En-but Attaqué
-En-but Défendu
-Endroit du Pivot
-Faire action sur le
-disque
-Garder
-Hors-limites
-Interception
-Interruption de jeu
-Jeu
-Joueur
-Un joueur dont l’équipe n’est pas en possession du disque.
-L’une des deux zones à chaque extrémité du terrain où les équipes peuvent
-marquer un point en y attrapant le disque.
-Zone d’en-but dans laquelle l’équipe concernée est en train d’essayer de
-marquer.
-Zone d’en-but dans laquelle l’équipe concernée est en train d’essayer
-d’empêcher les adversaires de marquer.
-Le point de l’aire de jeu où le lanceur doit établir un point pivot après un
-<i>turnover</i>, après le <i>pull</i>, après un temps-mort, après être sorti de la zone
-centrale ou là où le point pivot a déjà été établi.
-Quand le disque est en l'air et qu'un joueur tente de rentrer en contact avec le
-disque de quelque manière que ce soit, pour l'attraper ou le bloquer. Ceci inclut
-la course vers le lieu où il pense entrer en contact avec le disque.
-Un défenseur garde un attaquant quand il se situe à moins de trois mètres de
-celui-ci et réagit en fonction de cet attaquant.
-Tout ce qui ne fait pas partie de l’aire de jeu, incluant les lignes de périmètre.
-Quand un joueur de l’équipe défensive établit la possession d’un lancer d’un
-joueur de l’équipe attaquante.
-Tout arrêt de jeu dû à une faute, violation, discussion, appel contesté, blessure
-ou temps-mort qui nécessite un <i>check</i> pour relancer le jeu.
-Le temps après que le pull a commencé et avant qu’un point ne soit marqué. Le
-jeu peut ensuite être arrêté par un appel et dans ce cas il reprend par un
-<i>check</i>.
-Les personnes qui participent effectivement au point en cours.
-16Un disque en vol après un mouvement du lancer, incluant la perte de contact
-Lancer
-entre le lanceur et le disque après une feinte ou une perte intentionnelle de
-disque. Une passe est l’équivalent d’un lancer.
-L’attaquant en possession du disque ou le joueur qui vient de lancer le disque
-Lanceur
-avant que le résultat du lancer ne soit déterminé.
-Une limite définissant les aires de jeu. Sur un terrain sans tracé, les limites sont
-Ligne
-définies par des lignes imaginaires entre les marqueurs ayant la largeur des dits
-marqueurs. Les segments de ligne ne sont pas étendus au-delà des marqueurs.
-La ligne séparant la zone centrale de chaque zone d’en-but. Elle ne fait pas partie
-Ligne de But
-de l’en-but.
-Lignes séparant la zone centrale ou l’en-but de la zone hors-limites. Elles ne font
-Lignes de Périmètre
-pas partie de l’aire de jeu.
-Marqueur Le défenseur qui peut énoncer le compte sur le lanceur.
-Meilleure
-Perspective Le point de vue disponible et le plus complet d’un joueur englobant les positions
-relatives du disque, du sol, des joueurs et des lignes impliqués sur l’action.
-Le mouvement du lancer est le mouvement qui transfère un déplacement du
-lanceur au disque dans une direction de vol et finit en lancer. Les pivots et les
-déplacements d’air ne font pas partie du mouvement du lancer.
-Toute personne, incluant un membre d’équipe, qui n’est pas joueur à ce
-moment.
-Réfère à l’endroit où un joueur établit possession, le disque s’arrête
-naturellement ou le disque est empêché de rouler ou glisser.
-Quand le lanceur se déplace dans n’importe quelle direction tout en gardant
-une partie du corps en contact constant avec un point spécifique au sol appelé
-le point pivot.
-Un joueur établit un point pivot en plaçant, ou en gardant, une partie
-particulière de son corps en un point spécifique, qu'il a l'intention d'utiliser
-comme point pivot. Si un lanceur a plusieurs options pour un point pivot, le
-point pivot n'est pas déterminé tant qu'il n'a pas pivoté .
-La position stationnaire ou en mouvement établie par un joueur qui n’est en
-infraction avec aucune règle.
-Un joueur établit la possession d’une passe quand:
-- il attrape une passe et ensuite maintient cette prise pendant plus d'un
-instant perceptible, et
-- il maintient la prise tout au long du contact avec le sol lié à ce <i>catch</i>,
-ou jusqu’à ce qu’il lance le disque.
-Un joueur peut également établir la possession lorsqu'un disque qui a déjà
-touché le sol est ramassé, ou lui est donné, après un <i>turnover</i>, un <i>pull</i>
-ou une interruption.
-Une fois qu'un joueur a établi la possession, il peut changer sa prise sur le
-disque et cela n'affecte pas sa possession, tant qu'il reste en contact avec le
-disque.
-Un disque en possession d’un joueur, ou attrapé par un joueur est considéré
-comme faisant partie de ce joueur.
-L’équipe dont le joueur est en possession ou dont les joueurs peuvent ramasser
-le disque est considérée en possession.
-Un avertissement concernant les délais pour reprendre le jeu, émis en donnant
-des avertissements à vingt (20), dix (10) et cinq (5) secondes (selon le cas).
-Le lancer par la défense vers l’attaque qui commence le jeu au début d’une mi-
-temps ou après un point. Le <i>pull</i> n'est pas considéré comme une passe
-légitime.
-Mouvement du
-Lancer
-Non-joueur
-Où le disque
-s’arrête
-Pivoter
-Position Légitime
-Possession du
-disque
-Pré-compte (Pre-
-stall)
-Pull
-17Réceptionneurs
-Sol
-Turnover
-Zone centrale
-Tous les attaquants qui ne sont pas le lanceur.
-Le sol est constitué de tout objet substantiellement solide incluant l’herbe, les
-cônes de marquage, l’équipement, l’eau et les non-joueurs mais excluant tous
-les joueurs et les vêtements qu’ils portent, les particules aériennes et les
-précipitations.
-Tout événement qui produit un changement de l’équipe en possession. Un
-<i>turnover</i> n'est pas considéré comme une violation.
-La zone de l’aire de jeu incluant les lignes de but mais excluant les zones d’en-
-but et les lignes de périmètre.
-- Fin -
-18License Légale
-Ce travail ("WFDF Rules of Ultimate 2021-2024") et tous les documents relatifs aux règles WFDF ont
-une licence Creative Commons Attribution 4.0. L’exploitant et auteur original de ce travail est la <i>
-    World Flying Disc Federation</i>, une organisation à but non lucratif enregistrée dans le Colorado (Etats-
-Unis). Ceci est un résumé du code légal (la licence complète peut être trouvée dans l’Appendix G)
-Vous êtes libre de:
-- copier, distribuer, montrer et d’appliquer ce travail
-- d’en faire des dérivés
-- d’en faire un usage commercial
-Sous les conditions suivantes:
-- vous devez attribuer le travail selon les spécifications de l’auteur ou exploitant.
-- pour toute réutilisation ou distribution vous devez présenter clairement les termes de licence de ce
-travail.
-- toutes ces conditions peuvent être levées si vous recevez la permission de la WFDF.
-Vos droits d’utilisation ne sont en aucun cas affectés par ce qui précède.
-Note du traducteur: dans ce document, l’emploi du masculin pour désigner des personnes n’a d’autres fins que
-celle
-d’alléger le texte. L’Ultimate est un sport inclusif et ses règles s’appliquent à tous les genres.
-Traduction : Cyril Cayla
-Relecture : John Kofi, Benjamin Bismuth
-19

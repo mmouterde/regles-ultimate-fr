@@ -265,3 +265,7 @@ blockquote{
     padding: 15px 0 15px 25px;
     font-style: italic;
 }
+html{
+    scroll-padding-top: 100px;
+    overflow: auto;
+}

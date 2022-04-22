@@ -265,7 +265,14 @@ blockquote{
     padding: 15px 0 15px 25px;
     font-style: italic;
 }
-html{
-    scroll-padding-top: 100px;
+
+html {
     overflow: auto;
+    scroll-padding-top: 0;
+}
+
+@media (min-width: 768px) {
+    html {
+        scroll-padding-top: 100px;
+    }
 }

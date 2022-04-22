@@ -141,13 +141,11 @@ h1 {
 
 a {
     text-decoration: none;
-    color: black;
+    color:black;
 }
-
 a:visited {
     color: black;
 }
-
 a.current {
     color: #429b30;
 }
@@ -167,7 +165,6 @@ header {
         position: sticky;
     }
 }
-
 header > div {
     max-width: 85vw;
     margin: auto;
@@ -180,7 +177,6 @@ header > div {
         justify-content: space-between;
     }
 }
-
 header nav {
     padding: 5px;
 }
@@ -229,12 +225,11 @@ aside {
     line-height: 1.5em;
     font-size: 14px;
     color: #626262;
-    font-family: Open Sans, sans-serif;
+    font-family: Open Sans,sans-serif;
 }
 
 aside h3 {
-    color: black;
-    font-weight: 500;
+    color: black;font-weight: 500;
 }
 
 footer {
@@ -249,26 +244,22 @@ footer {
 article {
     color: #626262;
     font-size: 14px;
-    font-family: Open Sans, sans-serif;
+    font-family: Open Sans,sans-serif;
     line-height: 1.7333;
     max-width: 825px;
     flex-grow: 1;
 }
-
-article h1 {
+article h1{
     color: #2d2d2d;
-    font-family: Montserrat, sans-serif;
-    font-weight: 600;
-    font-size: 23px;
+    font-family: Montserrat,sans-serif;
+    font-weight: 600;    font-size: 23px;
 }
-
-article p img {
+article p img{
     margin: auto;
     display: block;
     max-width: 80vw;
 }
-
-blockquote {
+blockquote{
     border-left: #429b30 solid medium;
     margin: 0 0 26px;
     padding: 15px 0 15px 25px;

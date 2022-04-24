@@ -43,57 +43,20 @@ permettent de guider dans la résolution du problème :
   distance et le temps.
 - Personne ne voit les situations de la même manière. Deux joueurs avec une bonne perspective sur la situation peuvent
   toujours voir les évènements très différemment. La perception humaine n'est pas parfaite. Les joueurs doivent en être
-  conscient au moment de résoudre les appels.
-- Si un appel ne peut être résolu, le disque doit être retourné à l'endroit du dernier lanceur non contesté et le jeu
-  doit reprendre comme avant l'appel.
+  conscient au moment de résoudre les appels (*calls*).
+- Si un appel (*call*) ne peut être résolu, le disque doit être retourné à l'endroit du dernier lanceur non contesté et
+  le jeu
+  doit reprendre comme avant l'appel (*call*).
 
 Note : Certaines de ces annotations ont été extraites de "2020-21 USA Ultimate Official Rules of Ultimate" avec la
 permission de USA Ultimate. Elles sont indiquées par un symbol +.
 
 ## Annotations officielles
 
-<<<<<<< HEAD:src/annotations.md
-### 1. Esprit du jeu
-
-#### 1.1 transgression délibérée ou flagrante des règles (1.2.1.)
-
-Pour qu'une infraction soit considérée comme flagrante il faut qu'il s'agisse d'une infraction qui ne devrait pas se produire dans un jeu standard d'Ultimate, ou une pour laquelle il n'y a pas de justification raisonnable dans les règles.
-	
-- Exemple : Un défenseur commet un jeu dangereux flagrant entrainant une faute sur un receveur qui s’apprêtait à recevoir le disque dans la zone d'en-but qu'il attaquait.
-
-Résultat : Les capitaines peuvent choisir d'accepter le point ou que le receveur gagne la possession et reprenne depuis la ligne de la zone d'en-but.
-
-- Exemple: Un lanceur marche délibérément pour contourner sont défenseurs et gagner du terrain face au vent lors du revirement (*turnover*).
-
-Résultat: les capitaines peuvent décider que l'endroit du revirement (*turnover*) se trouve à l'endroit du lancer. 
-
-- Exemple : Un défenseur commet intentionnellement un double marquage (*double team*) non justifié par un autre joueur offensif et fait une interception du disque au lancé (*block*).
-
-Résultat: Les capitaines peuvent choisir de retourner le disque au lanceur.
-
-#### 1.2 Expliquer leur point de vue clairement et brièvement (1.3.4)
-
-C'est essentiel, pour un bon esprit du jeu, qu'un joueur soit préparé à expliquer brièvement, si besoin, la raison objective de son appel ou de sa contestation. 
-
-Exemple : Après avoir appeler un marché (*travel*), si on lui demande, le défenseur pourrait expliquer : "J'ai vu ton pied de pivot bouger alors que tu avais encore le disque en main."
-
-Pourquoi: La raison objective est une raison qui peut être soumis à validation. Il est clair que l'appel n'est pas basé sur une émotion ou sur ce que le joueur espérait ou attendait, mais sur ce qu'il a effectivement observé.
-Si un joueur n'est pas raisonnablement certain de la raison objective, il ne doit pas faire l'appel.
-
-Extra : Les joueurs doivent être attentif et compréhensif aux problèmes de langues associées aux matchs internationaux, cependant, les opposants doivent quand même être capables de communiquer, même par gestes, ce qu'ils ont vu. Les capitaines d'équipe et les autres joueurs devraient s'impliquer s'ils pensent que le joueur de leur équipe a tort ou ne se comporte pas correctement.
-
-#### 1.3 Faire des appels à la faute (« call ») d'une manière cohérente au long d'un match (1.3.9.)
-
-Les joueurs doivent faire des appels sans tenir compte du contexte du match. Ceci implique que les joueurs ne doivent pas commencer à faire plus d'appels simplement parce que la fin du match approche et que le score est serré.  
-
-Exemple: Si au début du match les marchés (*travel*) mineurs ne sont pas appelés, ils ne doivent pas être appelés plu-tard dans le match.
-
-
-=======
 1. Esprit du jeu
 
 1.1 transgression délibérée ou flagrante des règles (1.2.1.)
-Note : Pour qu'une infraction soit considérée comme flagrante il faut qu'il s'agisse d'une infraction qui ne devrait
+Pour qu'une infraction soit considérée comme flagrante il faut qu'il s'agisse d'une infraction qui ne devrait
 pas se produire dans un jeu standard d'Ultimate, ou une pour laquelle il n'y a pas de justification raisonnable dans
 les règles.
 
@@ -112,13 +75,13 @@ offensif et fait une interception du disque au lancé (*block*).
 Résultat: Les capitaines peuvent choisir de retourner le disque au lanceur.
 
 1.2 Expliquer leur point de vue clairement et brièvement (1.3.4)
-Objet : c'est essentiel, pour un bon esprit du jeu, qu'un joueur soit préparé à expliquer brièvement, si besoin, la
-raison objective de son appel ou de sa contestation.
+C'est essentiel, pour un bon esprit du jeu, qu'un joueur soit préparé à expliquer brièvement, si besoin, la
+raison objective de son appel (*call*) ou de sa contestation.
 Exemple : Après avoir appelé un marché (*travel*), si on lui demande, le défenseur pourrait expliquer : "J'ai vu ton
 pied de pivot bouger alors que tu avais encore le disque en main."
-Pourquoi: La raison objective est une raison qui peut être soumis à validation. Il est clair que l'appel n'est pas basé
-sur une émotion ou sur ce que le joueur espérait ou attendait, mais sur ce qu'il a effectivement observé.
-Si un joueur n'est pas raisonnablement certain de la raison objective, il ne doit pas faire l'appel.
+Pourquoi: La raison objective est une raison qui peut être soumis à validation. Il est clair que l'appel (*call*) n'est
+pas basé sur une émotion ou sur ce que le joueur espérait ou attendait, mais sur ce qu'il a effectivement observé.
+Si un joueur n'est pas raisonnablement certain de la raison objective, il ne doit pas faire l'appel (*call*).
 Extra : Les joueurs doivent être attentifs et compréhensifs aux problèmes de langues associées aux matchs
 internationaux,
 cependant, les adversaires doivent quand même être capables de communiquer, même par gestes, ce qu'ils ont vu. Les
@@ -126,17 +89,83 @@ capitaines d'équipe et les autres joueurs devraient s'impliquer s'ils pensent q
 se comporte pas correctement.
 
 1.3 Faire des appels à la faute (« call ») d'une manière cohérente au long d'un match (1.3.9.)
-Objet : Les joueurs doivent faire des appels sans tenir compte du contexte du match. Ceci implique que les joueurs ne
+Les joueurs doivent faire des appels sans tenir compte du contexte du match. Ceci implique que les joueurs ne
 doivent pas commencer à faire plus d'appels simplement parce que la fin du match approche et que le score est serré.  
 Exemple: Si au début du match les marchés (*travels*) mineurs ne sont pas appelés, ils ne doivent pas être d'avantage
 appelés, plus tard dans le match.
 
 1.4 N'appeler que les infractions significative (1.3.10.)
-Object: Les joueurs doivent avoir un degrés raisonnable de tolérance envers les infractions mineures impliquant des
+Les joueurs doivent avoir un degrés raisonnable de tolérance envers les infractions mineures impliquant des
 légères variations sur la distance et le temps.
 Exemple : Si un lanceur etablit un point pivot à un centimètre du l'endroit approprié alors le marché (*travel*) ne
 doit pas être appelé.
 
 1.5 Intimidation (1.6.3.)
-Object: 
->>>>>>> fix typo:source/annotations.md
+Un joueur pourrait être considéré comme se livrant à un comportement intimidant si, par exemple,
+ils crient fort à un adversaire avec l'intention de distraire l'adversaire pendant qu'ils
+sont sur le point de attraper le disque. Entreprendre simplement une action normale dans le match, comme
+faire une injonction à quelqu'un, ne doit pas être considéré comme de l'intimidation.
+
+1.6 célébrer un point de façon irrespectueuse (1.6.4.)
+Cela comprend le smash dirigé vers un adversaire et la raillerie de l'adversaire en leur "montrant" le disque. Ces
+actions doivent être évitées.
+
+1.7 Demander l'avis d'un non joueur (1.10.2.)
+C'est toujours aux joueurs de faire l'appel. Les non joueurs ne doivent pas intervenir tant que les joueurs
+concerné ne le demande pas.
+Si le jeu a été arrêté et qu'un joueur n'est pas en mesure d'appeler la faute, par exemple à cause d'une blessure ou de
+la barrière de la langue, alors un coéquipier peut faire l'appel (*call*) à sa place.
+Les équipes peuvent faire intervenir un non joueur comme interprete pour aider à la communication pendant une
+interruption.
+
+1.8 Usage de technologie (1.10.)
+Les joueurs peuvent visionner des photos ou des vidéos d'un appel si cela est disponible.
+Cependant, le jeu ne peut pas être trop retarder pour cela. Voir l'*Annexe* pour plus de détails.
+
+Par exemple, une redifussion instantatnée du jeu par les équipements du stade peut être utilisé par les joueurs
+pour résoudre un appel à la faute contesté.
+Les joueurs ne peuvent cependant pas demander qu'un extrait specifique soit repasser à l'écran.
+Si, après le visionnage de la video, le desaccord persiste, les joueurs ne doivent pas retarder davantage le match en
+visionnant plusieurs fois la vidéo. Dans ce cas, le match doir reprendre comme dans le cas normal d'une faute
+contestée. (+)
+
+1.9 Les appels par les capitaines (1.11.)
+Un capitaine ne doit pas faire d'appel qui arrête le jeu si il n'est pas directement dans le jeu.
+Cependant un capitaine peut intervenir pour résoudre un appel qui a déjà arrété le jeu.
+
+1.10 Discussion autour d'un fait de jeu (1.12.)
+
+Avant que le disque ne retourne au lanceur quand les joueurs ne sont pas d'accord, ils doivent
+discuter de ce qu'il s'est passé. Tous les joueurs concernés doivent expliquer clairement ce qu'ils pensent s'être
+passé,
+et écouter le point de vue de l'adversaire ou des autres joueurs avec une bonne perspective sur l'action.
+
+Si la discussion est rendu difficile du fait de la barrière de la langue alors les gestes ou une reconstitution de
+l'incident peut être utilisés pour illustrer ce qu'il s'est passé lors de l'incident. (par exemple, tapper sa propre
+main pour montrer qu'on a subi un contact sur celle-ci au moment d'attraper le disque).
+Les équipes peuvent faire appel à un non joueur comme interprete pour aider à la communication pendant l'interruption.
+
+Parfois il n'est pas possible d'être raisonnablement certain de ce qu'il s'est produit. (par exemple si personne n'a de
+bonne perspective, ou si cela s'est passé trop vite). Parfois, il est difficile de savoir si quelque chose à affecter le
+jeu. Dans ces circonstances, le disque doit être retourné au dernier lanceur non contesté.
+
+Les discussions doivent être aussi brèves que possible et se finir sur un appel accepté ou contesté.
+Cependant s'il devient clair qu'une telle résolution n'arrivera pas, le disque doit revenir au dernier lanceur non
+contesté. La durée maximum suggérée pour une discussion lors d'une interuption est de quarante-cinq (45) secondes.
+Voir l'*Annexe* pour des compléments sur les règles concernant les durées.
+
+2. Le terrain
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+

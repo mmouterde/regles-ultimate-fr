@@ -1,3 +1,6 @@
+---
+layout: mainLayout.njk
+---
 WFDF Rules of Ultimate 2021-2024
 -Official Annotations-
 Official Version effective 2021-01-01

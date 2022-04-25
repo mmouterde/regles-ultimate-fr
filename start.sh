@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-npm install && npx hexo server
+npm install && npx @11ty/eleventy --serve

@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Règles de l'Ultimate – Règles, annotations et annexes, en Français </title>
+    <meta name="author" content="Martin Mouterde">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta property="og:site_name" content="Règles de l'Ultimate">
+    <meta property="og:image" content="">
+    <link rel="stylesheet" href="{{ '/modern-normalize.min.css' | url }}">
+    <link rel="stylesheet" href="{{ '/style.css' | url }}">
+</head>
+<body>
+<header>
+    <div>
+        <div>
+            <h1>Règles de l'ultimate</h1>
+        </div>
+        <nav>
+            <ul>
+                {% for item in menu %}
+                    <li><a href="{{ item.path | url }}" class="{% if page.url === item.path or page.url === item.path+'/' %}current{%endif%}">{{ item.label }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </div>
+</header>
+<main>
+    <article>{{ content | safe }}</article>
+</main>
+<footer id="footer" class="inner">
+    <div>
+        &copy; 2022 Utimate Thorigné Fouillard - Les Thortles
+    </div>
+</footer>
+</body>
+
+</html>

@@ -70,8 +70,8 @@ layout: mainLayout.njk
     <h4><a id="definitions">Définitions</a></h4>
     <table>
         {% import "definitionMacro.njk" as definitionMacro %}
-        {% for term,definition in  definitions %}
-        {{ definitionMacro.render(term,definition) | safe }}
+        {% for definition in  definitions %}
+        {{ definitionMacro.render(definition) | safe }}
         {% endfor %}
     </table>
 

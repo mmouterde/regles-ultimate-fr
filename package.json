@@ -7,12 +7,9 @@
     "version": "5.4.2"
   },
   "scripts": {
-    "build": "hexo generate",
-    "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server",
-    "help": "hexo help server",
-    "watch": "hexo generate --watch"
+    "build": "npx @11ty/eleventy --input=src --output=docs",
+    "server": "npx @11ty/eleventy --input=src --output=docs --serve",
+    "watch": "npx @11ty/eleventy --input=src --output=docs --watch"
   },
   "repository": {
     "type": "git",
@@ -21,11 +18,7 @@
   "author": "Martin Mouterde",
   "private": true,
   "dependencies": {
-    "hexo": "^5.4.2",
-    "hexo-generator-index": "^2.0.0",
-    "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^5.0.0",
-    "hexo-server": "^3.0.0",
+    "@11ty/eleventy": "^1.0.1",
     "prettier": "^2.6.2"
   }
 }

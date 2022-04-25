@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/",
+    "label": "Règles"
+  },
+  {
+    "path": "/annotations",
+    "label": "Annotations Officielles"
+  },
+  {
+    "path": "/annexes",
+    "label": "Annexes"
+  },
+  {
+    "path": "/signaux",
+    "label": "Signaux Visuels"
+  }
+]

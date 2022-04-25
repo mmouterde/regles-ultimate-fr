@@ -9,6 +9,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/images");
     eleventyConfig.addPassthroughCopy("src/*.css");
     eleventyConfig.addPassthroughCopy({"src/_data/(rules|definitions).json": "data"});
+    eleventyConfig.addPassthroughCopy({"src/_data/facts/*.json": "data/facts"});
     eleventyConfig.addNunjucksFilter("markdown", function (value) {
         return markdownIt.render(value);
     });

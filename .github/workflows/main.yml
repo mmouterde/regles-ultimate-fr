@@ -1,0 +1,21 @@
+name: "MM BOT"
+
+on:
+  schedule:
+  # monday and thursday @7:00 am
+  #- cron: "0 7 * * 1,4"
+  # every day @7:00 am UTC
+  - cron: "0 7 * * *"
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fire webhook
+        run: |
+          pip install -r mm/requirements.txt
+          make mm_extract
+          cd mm
+          MM_WEBHOOK_TOKEN=${{secrets.MM_WEBHOOK_TOKEN}} ./mm_publish.sh

@@ -1,0 +1,116 @@
+---
+layout: mainLayout.njk
+---
+<style>
+    li {
+        list-style: none;
+    }
+
+    li a {
+        margin-right: 0.8em;
+    }
+
+    li a[href] {
+        text-decoration: underline;
+    }
+
+    table, th, tr, td {
+        border-style: solid;
+        border-width: 1px;
+        border-collapse: collapse;
+        padding-right: 0.5em;
+        padding-left: 0.5em;
+    }
+
+    th {
+        vertical-align: top;
+        text-align: right;
+    }
+
+    li.rule p {
+        display: inline
+    }
+</style>
+<article>
+    <h2>WFDF Rules of Ultimate 2021-2024</h2>
+    <h3>
+        Version officielle effective au 01-01-2021<br/>
+        Produit par le WFDF Ultimate Rules Sub-Committee
+    </h3>
+    <h4>Table des matières</h4>
+    <ul class="index">
+        <li><a href="#introduction">Introduction</a></li>
+        {% for rule in rules %}
+        <li class="rule"><a href="#rule-{{ rule.id }}" style>{{ rule.id }} {{ rule.text | markdown | safe }}</a>
+        </li>
+        {% endfor %}
+        <li><a href="#definitions">Définitions</a></li>
+        <li><a href="#legals">License Légale</a></li>
+    </ul>
+
+    <h4><a id="introduction">Introduction</a></h4>
+    <p>L’Ultimate est un sport qui se joue à 7 par équipe avec un disque volant. Il est pratiqué sur un terrain
+        rectangulaire d’environ la moitié de la largeur d’un terrain de football avec une zone d’en-but à chaque
+        extrémité. Le but de chaque équipe est de marquer un point en ayant un joueur qui attrape une passe dans
+        l’en-but qu’elles attaquent. Un lanceur ne peut pas courir avec le disque mais il peut le passer dans toutes les
+        directions à n’importe quel coéquipier. Si une passe est incomplète il y a <i>turnover</i> et l’autre équipe
+        prend possession du disque et tente de marquer dans l’en-but opposé. Les matchs sont typiquement joués en 15
+        points ou durent autour de 100 minutes. L’Ultimate est auto-arbitré et sans contact. L’Esprit du jeu guide les
+        joueurs sur leur façon d’arbitrer le match et de se comporter sur le terrain.</p>
+    <p>Beaucoup de ces règles sont de nature générale et couvrent la plupart des situations, mais certaines
+        règles couvrent des situations spécifiques et outrepassent le cas général.</p>
+    <p>Des variations de la structure de base et des règles peuvent être utilisées pour s’adapter à des
+        compétitions spéciales, au nombre de joueurs, à l'âge des joueurs ou à l'espace disponible. Reportez-vous à
+        l'Annexe correspondante pour les règles supplémentaires qui s'appliquent à des types spécifiques d'événements de
+        la World Flying Disc Federation
+        (WFDF).</p>
+    <ul>
+        {% import "ruleMacro.njk" as ruleMacro %}
+        {% for rule in  rules %}
+        {{ ruleMacro.render(rule) | safe }}
+        {% endfor %}
+    </ul>
+    <h4><a id="definitions">Définitions</a></h4>
+    <table>
+        {% import "definitionMacro.njk" as definitionMacro %}
+        {% for term,definition in  definitions %}
+        {{ definitionMacro.render(term,definition) | safe }}
+        {% endfor %}
+    </table>
+
+    <h4><a id="legals">License Légale</a></h4>
+    <p>
+        Ce travail ("WFDF Rules of Ultimate 2021-2024") et tous les documents relatifs aux règles WFDF ont
+        une licence Creative Commons Attribution 4.0. L’exploitant et auteur original de ce travail est la <i>
+        World Flying Disc Federation</i>, une organisation à but non lucratif enregistrée dans le Colorado
+        (Etats-
+        Unis). Ceci est un résumé du code légal (la licence complète peut être trouvée dans l’Appendix G)
+    </p>
+    <p> Vous êtes libre de:</p>
+    <ul>
+        <li>- copier, distribuer, montrer et d’appliquer ce travail</li>
+        <li>- d’en faire des dérivés</li>
+        <li>- d’en faire un usage commercial</li>
+    </ul>
+    <p>
+        Sous les conditions suivantes:</p>
+    <ul>
+        <li>- vous devez attribuer le travail selon les spécifications de l’auteur ou exploitant.</li>
+        <li>- pour toute réutilisation ou distribution vous devez présenter clairement les termes de licence de
+            ce travail.
+        </li>
+        <li>- toutes ces conditions peuvent être levées si vous recevez la permission de la WFDF.</li>
+    </ul>
+    <p>
+        Vos droits d’utilisation ne sont en aucun cas affectés par ce qui précède.
+    </p>
+    <p>
+        Note du traducteur: dans ce document, l’emploi du masculin pour désigner des personnes n’a d’autres fins
+        que celle d’alléger le texte. L’Ultimate est un sport inclusif et ses règles s’appliquent à tous les
+        genres.
+    </p>
+    <p>
+        Traduction : Cyril Cayla<br/>
+        Relecture : John Kofi, Benjamin Bismuth
+    </p>
+</article>

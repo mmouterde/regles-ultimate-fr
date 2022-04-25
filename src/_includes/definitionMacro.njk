@@ -1,0 +1,6 @@
+{% macro render(term,definition) %}
+    <tr>
+        <th role="rowheader">{{term  | markdown | safe}}</th>
+        <td>{{definition | markdown | safe}}</td>
+    </tr>
+{% endmacro %}

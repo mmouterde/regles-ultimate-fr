@@ -1,0 +1,22 @@
+{% macro render(rule) %}
+    <li class="rule">
+        <div>
+            <a id="rule-{{ rule.id }}" href="#rule-{{ rule.id }}">{{ rule.id }}</a>
+            {{ rule.text | markdown | safe}}
+        </div>
+        {% if rule.pictures.length > 0 %}
+            <div style="display: flex; flex-wrap: wrap;justify-content: center;align-content: center">
+        {% for picture in  rule.pictures %}
+            <img alt="{{picture.alt}}" style="max-width: 100%" src="{{picture.url | url}}">
+        {% endfor %}
+            </div>
+        {% endif %}
+        {% if rule.children.length > 0 %}
+        <ul>
+            {% for subRule in  rule.children %}
+            {{ render(subRule) }}
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </li>
+{% endmacro %}

@@ -1,4 +1,5 @@
 const MarkdownIt = require("markdown-it");
+const htmlmin = require("html-minifier");
 const markdownIt = new MarkdownIt({
     html: true,
     linkify: true,
@@ -7,6 +8,7 @@ const markdownIt = new MarkdownIt({
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/images");
     eleventyConfig.addPassthroughCopy("src/*.css");
+    eleventyConfig.addPassthroughCopy({ "src/_data/(rules|definitions).json": "data" });
     eleventyConfig.addNunjucksFilter("markdown", function(value) {
         return markdownIt.render(value); });
     eleventyConfig.addTransform("htmlmin", function(content, outputPath) {

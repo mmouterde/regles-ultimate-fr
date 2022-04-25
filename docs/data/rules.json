@@ -5,11 +5,11 @@
     "children": [
       {
         "id": "1.1.",
-        "text": "L’Ultimate est un sport sans contact et auto-arbitré. Tous les joueurs sont responsables de l’application et de l’adhésion aux règles. L’Ultimate repose sur l’Esprit du jeu qui place la responsabilité du fair-play en chaque joueur."
+        "text": "L’Ultimate est un sport sans contact et auto-arbitré. Tous les [joueurs](#definitions-joueur) sont responsables de l’application et de l’adhésion aux règles. L’Ultimate repose sur l’Esprit du jeu qui place la responsabilité du fair-play en chaque [joueur](#definitions-joueur)."
       },
       {
         "id": "1.2.",
-        "text": "Il est convenu qu’aucun joueur n'enfreindra intentionnellement les règles; de fait il n’y a pas de pénalité sévère pour des infractions involontaires mais plutôt une méthode pour reprendre le jeu d’une manière qui simule ce qui se serait probablement passé si aucune infraction ne s’était produite.",
+        "text": "Il est convenu qu’aucun [joueur](#definitions-joueur) n'enfreindra intentionnellement les règles; de fait il n’y a pas de pénalité sévère pour des infractions involontaires mais plutôt une méthode pour reprendre le [jeu](#definitions-jeu) d’une manière qui simule ce qui se serait probablement passé si aucune infraction ne s’était produite.",
         "children": [
           {
             "id": "1.2.1.",
@@ -19,7 +19,7 @@
       },
       {
         "id": "1.3.",
-        "text": "Les joueurs doivent avoir à l’esprit qu’ils ont un rôle d’arbitre en toutes situations d’arbitrage entre équipes. Les joueurs doivent:",
+        "text": "Les [joueurs](#definitions-joueur) doivent avoir à l’esprit qu’ils ont un rôle d’arbitre en toutes situations d’arbitrage entre équipes. Les [joueurs](#definitions-joueur) doivent:",
         "children": [
           {
             "id": "1.3.4.",
@@ -43,17 +43,17 @@
           },
           {
             "id": "1.3.9.",
-            "text": "faire des appels à la faute (*call*) d'une manière cohérente au long d'un match, et"
+            "text": "faire des [appels](#definitions-call) à la faute (*[call](#definitions-call)*) d'une manière cohérente au long d'un match, et"
           },
           {
             "id": "1.3.10.",
-            "text": "faire un appel à une faute uniquement si une infraction est assez significative pour changer le résultat d'une action."
+            "text": "faire un [appel](#definitions-call) à une faute uniquement si une infraction est assez significative pour changer le résultat d'une action."
           }
         ]
       },
       {
         "id": "1.4.",
-        "text": "La haute compétition est encouragée mais jamais au détriment du respect mutuel entre joueurs, de l’adhérence aux règles du jeu, de la sécurité des joueurs ou du simple plaisir de jouer."
+        "text": "La haute compétition est encouragée mais jamais au détriment du respect mutuel entre [joueurs](#definitions-joueur), de l’adhérence aux règles du jeu, de la sécurité des [joueurs](#definitions-joueur) ou du simple plaisir de jouer."
       },
       {
         "id": "1.5.",
@@ -61,11 +61,11 @@
         "children": [
           {
             "id": "1.5.1.",
-            "text": "se rétracter après un appel d’une faute dont on se rend compte qu’il n’était pas correct;"
+            "text": "se rétracter après un [appel](#definitions-call) d’une faute dont on se rend compte qu’il n’était pas correct;"
           },
           {
             "id": "1.5.2.",
-            "text": "vérifier avec un adversaire sur la ligne de touche après une interaction litigieuse;"
+            "text": "vérifier avec un adversaire sur la [ligne](#definitions-ligne) de touche après une interaction litigieuse;"
           },
           {
             "id": "1.5.3.",
@@ -95,7 +95,7 @@
           },
           {
             "id": "1.6.3.",
-            "text": "provoquer ou intimider un joueur adverse;"
+            "text": "provoquer ou intimider un [joueur](#definitions-joueur) adverse;"
           },
           {
             "id": "1.6.4.",
@@ -103,11 +103,11 @@
           },
           {
             "id": "1.6.5.",
-            "text": "appeler une faute en réponse à un appel d’un adversaire;"
+            "text": "appeler une faute en réponse à un [appel](#definitions-call) d’un adversaire;"
           },
           {
             "id": "1.6.6.",
-            "text": "demander une passe à un joueur adverse; et"
+            "text": "demander une passe à un [joueur](#definitions-joueur) adverse; et"
           },
           {
             "id": "1.6.7.",
@@ -121,7 +121,7 @@
         "children": [
           {
             "id": "1.7.1.",
-            "text": "prendre la responsabilité d'enseigner à leurs joueurs les règles et le bon Esprit;"
+            "text": "prendre la responsabilité d'enseigner à leurs [joueurs](#definitions-joueur) les règles et le bon Esprit;"
           },
           {
             "id": "1.7.2.",
@@ -133,47 +133,47 @@
           },
           {
             "id": "1.7.4.",
-            "text": "appeler une interruption *Spirit Stoppage* pour résoudre les problèmes d’Esprit du jeu, le cas échéant. "
+            "text": "appeler une [interruption](#definitions-interruption_de_jeu) *Spirit Stoppage* pour résoudre les problèmes d’Esprit du jeu, le cas échéant. "
           }
         ]
       },
       {
         "id": "1.8.",
-        "text": "Dans le cas où un joueur débutant est impliqué dans une transgression des règles et ne connait pas les règles, les joueurs expérimentés devraient aider à expliquer la transgression."
+        "text": "Dans le cas où un [joueur](#definitions-joueur) débutant est impliqué dans une transgression des règles et ne connait pas les règles, les [joueurs](#definitions-joueur) expérimentés devraient aider à expliquer la transgression."
       },
       {
         "id": "1.9.",
-        "text": "Un joueur expérimenté, qui offre des conseils sur les règles et guide l'arbitrage sur le terrain, peut superviser des matchs avec des débutants ou des jeunes joueurs."
+        "text": "Un [joueur](#definitions-joueur) expérimenté, qui offre des conseils sur les règles et guide l'arbitrage sur le terrain, peut superviser des matchs avec des débutants ou des jeunes [joueurs](#definitions-joueur)."
       },
       {
         "id": "1.10.",
-        "text": "Les appels doivent être discutés par les joueurs directement impliqués dans l’action de jeu et par les joueurs qui ont eu la meilleure perspective sur l’action.",
+        "text": "Les [appels](#definitions-call) doivent être discutés par les [joueurs](#definitions-joueur) directement impliqués dans l’[action de jeu](#definitions-faire_action_sur_le_disque) et par les [joueurs](#definitions-joueur) qui ont eu la [meilleure perspective](#definitions-meilleure_perspective) sur l’action.",
         "children": [
           {
             "id": "1.10.1.",
-            "text": "Si un joueur qui n’était pas directement impliqué croit qu’un coéquipier a fait un appel incorrect ou a causé une faute ou une violation, il devrait informer son coéquipier. "
+            "text": "Si un [joueur](#definitions-joueur) qui n’était pas directement impliqué croit qu’un coéquipier a fait un [appel](#definitions-call) incorrect ou a causé une faute ou une violation, il devrait informer son coéquipier. "
           },
           {
             "id": "1.10.2.",
-            "text": "Les non-joueurs, indépendamment des capitaines, doivent s’abstenir d’intervenir.Cependant les joueurs peuvent prendre l’avis d’autres personnes pour clarifier les règles et aider les joueurs à faire l'appel approprié. "
+            "text": "Les [non-joueurs](#definitions-non-joueur), indépendamment des capitaines, doivent s’abstenir d’intervenir.Cependant les [joueurs](#definitions-joueur) peuvent prendre l’avis d’autres personnes pour clarifier les règles et aider les [joueurs](#definitions-joueur) à faire l'[appel](#definitions-call) approprié. "
           }
         ]
       },
       {
         "id": "1.11.",
-        "text": "Les joueurs et les capitaines sont seuls responsables pour faire et résoudre tous les appels."
+        "text": "Les [joueurs](#definitions-joueur) et les capitaines sont seuls responsables pour faire et résoudre tous les appels."
       },
       {
         "id": "1.12.",
-        "text": "Si, après une discussion, les joueurs ne trouvent pas d’accord ou que ce n’est pas clair et évident:",
+        "text": "Si, après une discussion, les [joueurs](#definitions-joueur) ne trouvent pas d’accord ou que ce n’est pas clair et évident:",
         "children": [
           {
             "id": "1.12.1.",
-            "text": "ce qui s'est produit lors d'une action de jeu, ou"
+            "text": "ce qui s'est produit lors d'une [action de jeu](#definitions-faire_action_sur_le_disque), ou"
           },
           {
             "id": "1.12.2.",
-            "text": "ce qui se serait le plus probablement passé lors d'une action de jeu, le disque doit être retourné au lanceur précédent."
+            "text": "ce qui se serait le plus probablement passé lors d'une [action de jeu](#definitions-faire_action_sur_le_disque), le disque doit être retourné au lanceur précédent."
           }
         ]
       }
@@ -181,35 +181,35 @@
   },
   {
     "id": "2.",
-    "text": "Aire de Jeu",
+    "text": "[Aire de Jeu](#definitions-aire_de_jeu)",
     "children": [
       {
         "id": "2.1.",
-        "text": "L’aire de jeu est une zone rectangulaire telle que montré sur la Figure 1 et doit être essentiellement plat, libre d'obstacles et offrir une sécurité raisonnable aux joueurs"
+        "text": "L’[aire de Jeu](#definitions-aire_de_jeu) est une zone rectangulaire telle que montré sur la Figure 1 et doit être essentiellement plat, libre d'obstacles et offrir une sécurité raisonnable aux [joueurs](#definitions-joueur)"
       },
       {
         "id": "2.2.",
-        "text": "Les lignes de périmètre entourent l’aire de jeu et se composent des deux (2) lignes de touche sur la longueur et des deux (2) lignes de fond sur la largeur."
+        "text": "Les [lignes de périmètre](#definitions-lignes_de_perimetre) entourent l’[aire de Jeu](#definitions-aire_de_jeu) et se composent des deux (2) [lignes](#definitions-ligne) de touche sur la longueur et des deux (2) [lignes](#definitions-ligne) de fond sur la largeur."
       },
       {
         "id": "2.3.",
-        "text": "Les lignes de périmètre ne font pas partie de l’aire de jeu."
+        "text": "Les [lignes de périmètre](#definitions-lignes_de_perimetre) ne font pas partie de l’[aire de Jeu](#definitions-aire_de_jeu)."
       },
       {
         "id": "2.4.",
-        "text": "Les lignes de but sont les lignes qui séparent la zone centrale des zones d’en-but et font partie de la zone centrale. "
+        "text": "Les [lignes de but](#definitions-ligne_de_but) sont les [lignes](#definitions-ligne) qui séparent la [zone centrale](#definitions-zone_centrale) des zones d’[en-but](#definitions-en-but) et font partie de la [zone centrale](#definitions-zone_centrale). "
       },
       {
         "id": "2.5.",
-        "text": "Les marques de *brick* sont l'intersection de deux (2) lignes de un (1) mètre dans la zone centrale positionnées depuis chaque ligne d’en-but à une distance égale à la profondeur de l’en-but à mi-chemin entre les lignes de touche. "
+        "text": "Les marques de *brick* sont l'intersection de deux (2) [lignes](#definitions-ligne) de un (1) mètre dans la [zone centrale](#definitions-zone_centrale) positionnées depuis chaque [ligne](#definitions-ligne) d’[en-but](#definitions-en-but) à une distance égale à la profondeur de l’[en-but](#definitions-en-but) à mi-chemin entre les [lignes](#definitions-ligne) de touche. "
       },
       {
         "id": "2.6.",
-        "text": "Huit objets flexibles de couleur voyante (tels que des cônes en plastique) marquent les coins de la zone centrale et des zones d’en-but."
+        "text": "Huit objets flexibles de couleur voyante (tels que des cônes en plastique) marquent les coins de la [zone centrale](#definitions-zone_centrale) et des zones d’[en-but](#definitions-en-but)."
       },
       {
         "id": "2.7.",
-        "text": "Les environs immédiats de l’aire de jeu seront gardés dégagés d’objets mobiles.Si le jeu est obstrué par des non-joueurs ou des objets à moins de trois (3) mètres des lignes de périmètre, n'importe quel joueur ou lanceur en possession qui est gêné peut appeler une *violation*.",
+        "text": "Les environs immédiats de l’[aire de Jeu](#definitions-aire_de_jeu) seront gardés dégagés d’objets mobiles. Si le jeu est obstrué par des [non-joueurs](#definitions-non-joueur) ou des objets à moins de trois (3) mètres des [lignes de périmètre](#definitions-lignes_de_perimetre), n'importe quel [joueur](#definitions-joueur) ou lanceur en [possession](#definitions-possession_du_disque) qui est gêné peut appeler une *violation*.",
         "pictures": [
           {
             "url": "/images/air-de-jeu.png",
@@ -233,11 +233,11 @@
       },
       {
         "id": "3.3.",
-        "text": "Chaque joueur doit porter une tenue qui distingue son équipe."
+        "text": "Chaque [joueur](#definitions-joueur) doit porter une tenue qui distingue son équipe."
       },
       {
         "id": "3.4.",
-        "text": "Aucun joueur ne peut porter de vêtement ou d'équipement qui pourrait nuire à son porteur ou d'autres joueurs, ou empêcher la capacité d'un adversaire à jouer."
+        "text": "Aucun [joueur](#definitions-joueur) ne peut porter de vêtement ou d'équipement qui pourrait nuire à son porteur ou d'autres [joueurs](#definitions-joueur), ou empêcher la capacité d'un adversaire à jouer."
       }
     ]
   },
@@ -255,7 +255,7 @@
       },
       {
         "id": "4.3.",
-        "text": "Un match est séparé en deux (2) périodes de jeu appelées mi-temps. La mi-temps intervient quand une première équipe marque huit (8) points."
+        "text": "Un match est séparé en deux (2) périodes de [jeu](#definitions-jeu) appelées mi-temps. La mi-temps intervient quand une première équipe marque huit (8) points."
       },
       {
         "id": "4.4.",
@@ -271,11 +271,11 @@
           },
           {
             "id": "4.5.2.",
-            "text": "les équipes échangent la zone d’en-but qu'elles défendent; et "
+            "text": "les équipes échangent la zone d’[en-but](#definitions-en-but) qu'elles défendent; et "
           },
           {
             "id": "4.5.3.",
-            "text": "l'équipe qui a marqué passe en défense et fait le *pull* (engagement) suivant. "
+            "text": "l'équipe qui a marqué passe en défense et fait le *[pull](#definitions-pull)* (engagement) suivant. "
           }
         ]
       }
@@ -287,7 +287,7 @@
     "children": [
       {
         "id": "5.1.",
-        "text": "Chaque équipe alignera sur le terrain un maximum de sept (7) joueurs et un minimum de cinq (5) joueurs pour chaque point."
+        "text": "Chaque équipe alignera sur le terrain un maximum de sept (7) [joueurs](#definitions-joueur) et un minimum de cinq (5) [joueurs](#definitions-joueur) pour chaque point."
       },
       {
         "id": "5.2.",
@@ -295,7 +295,7 @@
       },
       {
         "id": "5.3.",
-        "text": "Une équipe peut faire des remplacements illimités après qu'un point est marqué et avant qu’elle ne signale être prête pour le *pull*."
+        "text": "Une équipe peut faire des remplacements illimités après qu'un point est marqué et avant qu’elle ne signale être prête pour le *[pull](#definitions-pull)*."
       }
     ]
   },
@@ -309,11 +309,11 @@
         "children": [
           {
             "id": "6.1.1.",
-            "text": "soit de recevoir ou de lancer le *pull* initial"
+            "text": "soit de recevoir ou de [lancer](#definitions-lancer) le *[pull](#definitions-pull)* initial"
           },
           {
             "id": "6.1.2.",
-            "text": "soit la zone d’en-but qu’elle défendra initialement."
+            "text": "soit la zone d’[en-but](#definitions-en-but) qu’elle défendra initialement."
           }
         ]
       },
@@ -329,29 +329,29 @@
   },
   {
     "id": "7.",
-    "text": "Le *Pull* (Engagement)",
+    "text": "Le *[Pull](#definitions-pull)* (Engagement)",
     "children": [
       {
         "id": "7.1.",
-        "text": "Au début du match, après la mi-temps ou après un point, le jeu débute avec un lancer de la défense appelé *pull*.",
+        "text": "Au début du match, après la mi-temps ou après un point, le [jeu](#definitions-jeu) débute avec un [lancer](#definitions-lancer) de la défense appelé *[pull](#definitions-pull)*.",
         "children": [
           {
             "id": "7.1.1.",
-            "text": "Les équipes doivent se préparer au *pull* dans un délai raisonnable."
+            "text": "Les équipes doivent se préparer au *[pull](#definitions-pull)* dans un délai raisonnable."
           }
         ]
       },
       {
         "id": "7.2.",
-        "text": "Le *pull* ne peut avoir lieu qu'après que les deux équipes ont signalé être prête en ayant le *puller* et un attaquant qui lèvent une main au-dessus de leur tête."
+        "text": "Le *[pull](#definitions-pull)* ne peut avoir lieu qu'après que les deux équipes ont signalé être prête en ayant le *puller* et un [attaquant](#definitions-attaquant) qui lèvent une main au-dessus de leur tête."
       },
       {
         "id": "7.3.",
-        "text": "Après avoir signalé être prêts tous les joueurs attaquants doivent se tenir avec un pied sur leur ligne de but sans changer de position avec un autre joueur jusqu'au moment du *pull*."
+        "text": "Après avoir signalé être prêts tous les [joueurs](#definitions-joueur) [attaquants](#definitions-attaquant) doivent se tenir avec un pied sur leur [ligne de but](#definitions-ligne_de_but) sans changer de position avec un autre [joueur](#definitions-joueur) jusqu'au moment du *[pull](#definitions-pull)*."
       },
       {
         "id": "7.4.",
-        "text": "Après avoir signalé être prêts tous les joueurs défensifs doivent garder leurs pieds entièrement à l’intérieur du plan vertical de leur ligne d’en-but jusqu'au moment du *pull*."
+        "text": "Après avoir signalé être prêts tous les [joueurs](#definitions-joueur) défensifs doivent garder leurs pieds entièrement à l’intérieur du plan vertical de leur [ligne](#definitions-ligne) d’[en-but](#definitions-en-but) jusqu'au moment du *[pull](#definitions-pull)*."
       },
       {
         "id": "7.5.",
@@ -359,29 +359,29 @@
         "children": [
           {
             "id": "7.5.1.",
-            "text": "Si la défense choisit d'appeler *offside*, le lanceur doit établir un point pivot selon [7.9](#rule-7.9.), [7.10](#rule-7.10.), [7.11](#rule-7.11.) ou [7.12](#rule-7.12.) et ensuite le jeu reprend dès que possible comme si un temps-mort avait été annoncé à cet endroit."
+            "text": "Si la défense choisit d'appeler *offside*, le [lanceur](#definitions-lanceur) doit établir un [point du pivot](#definitions-endroit_du_pivot) selon [7.9](#rule-7.9.), [7.10](#rule-7.10.), [7.11](#rule-7.11.) ou [7.12](#rule-7.12.) et ensuite le [jeu](#definitions-jeu) reprend dès que possible comme si un temps-mort avait été annoncé à cet endroit."
           },
           {
             "id": "7.5.2.",
-            "text": "Si l’attaque choisit d'appeler *offside*, elle doit laisser le disque toucher le sol puis reprend le jeu comme si un *brick* avait été appelé (aucun *check* n'est requis)."
+            "text": "Si l’attaque choisit d'appeler *offside*, elle doit laisser le disque toucher le [sol](#definitions-sol) puis reprend le [jeu](#definitions-jeu) comme si un *brick* avait été appelé (aucun *check* n'est requis)."
           }
         ]
       },
       {
         "id": "7.6.",
-        "text": "Aussi tôt que le disque est lancé, tous les joueurs peuvent se déplacer dans n'importe quelle direction."
+        "text": "Aussi tôt que le disque est lancé, tous les [joueurs](#definitions-joueur) peuvent se déplacer dans n'importe quelle direction."
       },
       {
         "id": "7.7.",
-        "text": "Aucun joueur de l'équipe défensive ne peut toucher le disque après le *pull* avant qu'un membre de l'équipe attaquante ne touche le disque ou que le disque ne touche le sol."
+        "text": "Aucun [joueur](#definitions-joueur) de l'équipe défensive ne peut toucher le disque après le *[pull](#definitions-pull)* avant qu'un membre de l'équipe [attaquante](#definitions-attaquant) ne touche le disque ou que le disque ne touche le [sol](#definitions-sol)."
       },
       {
         "id": "7.8.",
-        "text": "Si un attaquant, à l’intérieur ou à l’extérieur de l’aire de jeu, touche le disque avant qu'il ne touche le sol et que l’équipe attaquante ne parvient pas à établir la possession conséquemment, il y a *turnover* (un *dropped pull*)."
+        "text": "Si un [attaquant](#definitions-attaquant), à l’intérieur ou à l’extérieur de l’[aire de Jeu](#definitions-aire_de_jeu), touche le disque avant qu'il ne touche le [sol](#definitions-sol) et que l’équipe [attaquante](#definitions-attaquant) ne parvient pas à établir la [possession](#definitions-possession_du_disque) conséquemment, il y a *[turnover](#definitions-turnover)* (un *dropped [pull](#definitions-pull)*)."
       },
       {
         "id": "7.9.",
-        "text": "Si un attaquant attrape le *pull* et établit conséquemment la possession il doit établir un point pivot dans l'aire de jeu à l’endroit le plus proche d’où la possession a été établie, même si ce point pivot est à l'intérieur de sa propre zone d'en-but.",
+        "text": "Si un [attaquant](#definitions-attaquant) attrape le *[pull](#definitions-pull)* et établit conséquemment la [possession](#definitions-possession_du_disque) il doit établir un [point du pivot](#definitions-endroit_du_pivot) dans l'[aire de Jeu](#definitions-aire_de_jeu) à l’endroit le plus proche d’où la [possession](#definitions-possession_du_disque) a été établie, même si ce [point du pivot](#definitions-endroit_du_pivot) est à l'intérieur de sa propre zone d'[en-but](#definitions-en-but).",
         "pictures": [
           {
             "url": "/images/catched_pull.png",
@@ -391,7 +391,7 @@
       },
       {
         "id": "7.10.",
-        "text": "Si le disque entre en contact avec l’aire de jeu et ne sort jamais, le lanceur doit établir un point pivot où le disque s'arrête, même si ce point pivot est à l'intérieur de sa propre zone d'en-but.",
+        "text": "Si le disque entre en contact avec l’[aire de Jeu](#definitions-aire_de_jeu) et ne sort jamais, le [lanceur](#definitions-lanceur) doit établir un [point du pivot](#definitions-endroit_du_pivot) où le [disque s'arrête](#definitions-ou_le_disque_s_arrete), même si ce [point du pivot](#definitions-endroit_du_pivot) est à l'intérieur de sa propre zone d'[en-but](#definitions-en-but).",
         "pictures": [
           {
             "url": "/images/down_pull.png",
@@ -401,7 +401,7 @@
       },
       {
         "id": "7.11.",
-        "text": "Si le disque entre en contact avec l’aire de jeu et sort sans contact avec un attaquant, le lanceur doit établir un point pivot là où le disque a d'abord traversé la ligne de périmètre ou à l’endroit le plus proche de la zone centrale si cet endroit est situé dans sa propre zone d'en-but.",
+        "text": "Si le disque entre en contact avec l’[aire de Jeu](#definitions-aire_de_jeu) et sort sans contact avec un [attaquant](#definitions-attaquant), le [lanceur](#definitions-lanceur) doit établir un [point du pivot](#definitions-endroit_du_pivot) là où le disque a d'abord traversé la [ligne de périmètre](#definitions-lignes_de_perimetre) ou à l’endroit le plus proche de la [zone centrale](#definitions-zone_centrale) si cet endroit est situé dans sa propre zone d'[en-but](#definitions-en-but).",
         "pictures": [
           {
             "url": "/images/rollOut_pull.png",
@@ -411,7 +411,7 @@
         "children": [
           {
             "id": "7.11.1.",
-            "text": "Si le disque est touché par un attaquant avant de sortir de l'aire de jeu, le lanceur doit établir un point pivot où le disque a d'abord traversé la ligne de périmètre même si ce point pivot est situé dans sa propre zone d'en-but.",
+            "text": "Si le disque est touché par un [attaquant](#definitions-attaquant) avant de sortir de l'[aire de Jeu](#definitions-aire_de_jeu), le [lanceur](#definitions-lanceur) doit établir un [point du pivot](#definitions-endroit_du_pivot) où le disque a d'abord traversé la [ligne de périmètre](#definitions-lignes_de_perimetre) même si ce [point du pivot](#definitions-endroit_du_pivot) est situé dans sa propre zone d'[en-but](#definitions-en-but).",
             "pictures": [
               {
                 "url": "/images/touchedRollingOut_pull.png",
@@ -423,7 +423,7 @@
       },
       {
         "id": "7.12.",
-        "text": "Si le disque touche la zone hors de l’aire de jeu sans d'abord toucher l’aire de jeu ou un attaquant, le lanceur peut établir un point pivot soit sur la marque de *brick* la plus proche de sa zone d’en-but défensive, soit à l’endroit de la zone centrale le plus proche d'où le disque est sorti (section [11.8](#rule-11.8.)). L'option engageante du *brick* doit être signalée par n'importe quel attaquant en levant un bras au-dessus de sa tête et en appelant *brick* avant que le disque ne soit ramassé.",
+        "text": "Si le disque touche la zone hors de l’[aire de Jeu](#definitions-aire_de_jeu) sans d'abord toucher l’[aire de Jeu](#definitions-aire_de_jeu) ou un [attaquant](#definitions-attaquant), le [lanceur](#definitions-lanceur) peut établir un [point du pivot](#definitions-endroit_du_pivot) soit sur la marque de *brick* la plus proche de sa zone d’[en-but](#definitions-en-but) défensive, soit à l’endroit de la [zone centrale](#definitions-zone_centrale) le plus proche d'où le disque est sorti (section [11.8](#rule-11.8.)). L'option engageante du *brick* doit être signalée par n'importe quel [attaquant](#definitions-attaquant) en levant un bras au-dessus de sa tête et en appelant *brick* avant que le disque ne soit ramassé.",
         "pictures": [
           {
             "url": "/images/brick_pull.png",
@@ -439,69 +439,69 @@
     "children": [
       {
         "id": "8.1.",
-        "text": "Le jeu est *mort*, sans *turnover* possible:",
+        "text": "Le [jeu](#definitions-jeu) est *mort*, sans *[turnover](#definitions-turnover)* possible:",
         "children": [
           {
             "id": "8.1.1.",
-            "text": "Après le début d’un point, jusqu’à ce que le *pull* soit effectué;"
+            "text": "Après le début d’un point, jusqu’à ce que le *[pull](#definitions-pull)* soit effectué;"
           },
           {
             "id": "8.1.2.",
-            "text": "Quand le disque doit être amené à l’endroit où le pivot doit être établi après le *pull* ou un * turnover*, jusqu’à ce qu’un point pivot soit établi;"
+            "text": "Quand le disque doit être amené à l’endroit où le pivot doit être établi après le *[pull](#definitions-pull)* ou un *[turnover](#definitions-turnover)*, jusqu’à ce qu’un [point du pivot](#definitions-endroit_du_pivot) soit établi;"
           },
           {
             "id": "8.1.3.",
-            "text": "Après un *call* qui arrête le jeu ou n’importe quelle autre interruption jusqu’à ce que le disque soit *checké*; ou"
+            "text": "Après un *[call](#definitions-call)* qui arrête le [jeu](#definitions-jeu) ou n’importe quelle autre [interruption](#definitions-interruption_de_jeu) jusqu’à ce que le disque soit *checké*; ou"
           },
           {
             "id": "8.1.4.",
-            "text": "Après que le disque touche le sol jusqu’à ce que la possession soit établie par l’équipe appropriée."
+            "text": "Après que le disque touche le [sol](#definitions-sol) jusqu’à ce que la [possession](#definitions-possession_du_disque) soit établie par l’équipe appropriée."
           },
           {
             "id": "8.1.5.",
-            "text": "Les joueurs sont autorisés à se déplacer pendant le jeu *mort* (sauf indication contraire)."
+            "text": "Les [joueurs](#definitions-joueur) sont autorisés à se déplacer pendant le [jeu](#definitions-jeu) *mort* (sauf indication contraire)."
           }
         ]
       },
       {
         "id": "8.2.",
-        "text": "Un jeu qui n’est pas *mort* est *vivant*."
+        "text": "Un [jeu](#definitions-jeu) qui n’est pas *mort* est *vivant*."
       },
       {
         "id": "8.3.",
-        "text": "Le lanceur ne peut pas transmettre la possession du disque pendant un jeu *mort* à un autre joueur."
+        "text": "Le [lanceur](#definitions-lanceur) ne peut pas transmettre la [possession du disque](#definitions-possession_du_disque) pendant un [jeu](#definitions-jeu) *mort* à un autre [joueur](#definitions-joueur)."
       },
       {
         "id": "8.4.",
-        "text": "N’importe quel joueur peut essayer d’arrêter un disque qui roule ou glisse après qu’il a touché le sol",
+        "text": "N’importe quel [joueur](#definitions-joueur) peut essayer d’arrêter un disque qui roule ou glisse après qu’il a touché le [sol](#definitions-sol)",
         "children": [
           {
             "id": "8.4.1.",
-            "text": "Si, en essayant d’arrêter le disque, un joueur modifie significativement la position du disque, l’équipe adverse peut demander que le point pivot soit établi à l’endroit où le disque a été touché."
+            "text": "Si, en essayant d’arrêter le disque, un [joueur](#definitions-joueur) modifie significativement la position du disque, l’équipe adverse peut demander que le [point du pivot](#definitions-endroit_du_pivot) soit établi à l’endroit où le disque a été touché."
           }
         ]
       },
       {
         "id": "8.5.",
-        "text": "Après un *turnover* et après le *pull*, un attaquant doit se diriger au pas ou plus vite directement vers le disque et établir un point pivot.",
+        "text": "Après un *[turnover](#definitions-turnover)* et après le *[pull](#definitions-pull)*, un [attaquant](#definitions-attaquant) doit se diriger au pas ou plus vite directement vers le disque et établir un [point du pivot](#definitions-endroit_du_pivot).",
         "children": [
           {
             "id": "8.5.1.",
-            "text": "En plus de [8.5](#rule-8.5.), après un *turnover* l'attaque doit mettre le disque en jeu dans les limites de temps suivantes, si le disque n'est pas sorti et que la position du disque est:",
+            "text": "En plus de [8.5](#rule-8.5.), après un *[turnover](#definitions-turnover)* l'attaque doit mettre le disque en jeu dans les limites de temps suivantes, si le disque n'est pas sorti et que la position du disque est:",
             "children": [
               {
                 "id": "8.5.1.1.",
-                "text": "dans la zone centrale – sous dix (10) secondes après l'arrêt du disque."
+                "text": "dans la [zone centrale](#definitions-zone_centrale) – sous dix (10) secondes après l'arrêt du disque."
               },
               {
                 "id": "8.5.1.2.",
-                "text": "dans une zone d'en-but – sous vingt (20) secondes après l'arrêt du disque."
+                "text": "dans une zone d'[en-but](#definitions-en-but) – sous vingt (20) secondes après l'arrêt du disque."
               }
             ]
           },
           {
             "id": "8.5.2.",
-            "text": "Si l'attaque enfreint [8.5](#rule-8.5.) ou [8.5.1](#rule-8.5.1.), la défense peut adresser un avertissement verbal (*delay of game* ou utiliser un pré-compte) ou appeler une *violation*."
+            "text": "Si l'attaque enfreint [8.5](#rule-8.5.) ou [8.5.1](#rule-8.5.1.), la défense peut adresser un avertissement verbal (*delay of game* ou utiliser un [pré-compte](#definitions-pre-compte)) ou appeler une *violation*."
           },
           {
             "id": "8.5.3.",
@@ -517,11 +517,11 @@
     "children": [
       {
         "id": "9.1.",
-        "text": "Le marqueur débute un compte sur le lanceur en annonçant *stalling* (*compté*) puis compte de un (1) à dix (10). L’intervalle ente le début de chaque nombre du compte doit être d’au moins une (1) seconde."
+        "text": "Le marqueur débute un compte sur le [lanceur](#definitions-lanceur) en annonçant *stalling* (*compté*) puis compte de un (1) à dix (10). L’intervalle ente le début de chaque nombre du compte doit être d’au moins une (1) seconde."
       },
       {
         "id": "9.2.",
-        "text": "Le compte doit être clairement communiqué au lanceur."
+        "text": "Le compte doit être clairement communiqué au [lanceur](#definitions-lanceur)."
       },
       {
         "id": "9.3.",
@@ -529,21 +529,21 @@
         "children": [
           {
             "id": "9.3.1.",
-            "text": "lorsque le jeu est *vivant* ou après qu’un pivot est établi après un *turnover*;"
+            "text": "lorsque le [jeu](#definitions-jeu) est *vivant* ou après qu’un pivot est établi après un *[turnover](#definitions-turnover)*;"
           },
           {
             "id": "9.3.2.",
-            "text": "Il est à une distance de moins de trois (3) mètres du point pivot du lanceur, ou de l’endroit du pivot si le lanceur n’est pas à cet endroit; et"
+            "text": "Il est à une distance de moins de trois (3) mètres du [point du pivot](#definitions-endroit_du_pivot) du [lanceur](#definitions-lanceur), ou de l’[endroit du pivot](#definitions-endroit_du_pivot) si le [lanceur](#definitions-lanceur) n’est pas à cet endroit; et"
           },
           {
             "id": "9.3.3.",
-            "text": "tous les défenseurs sont légalement positionnés (Section [18.1](#rule-18.1.))."
+            "text": "tous les [défenseurs](#definitions-defenseur) sont légalement positionnés (Section [18.1](#rule-18.1.))."
           }
         ]
       },
       {
         "id": "9.4.",
-        "text": "Si le marqueur se déplace au-delà du rayon approprié de trois (3) mètres ou qu’un joueur différent devient le marqueur, le compte doit redémarrer à *stalling one (1)*."
+        "text": "Si le marqueur se déplace au-delà du rayon approprié de trois (3) mètres ou qu’un [joueur](#definitions-joueur) différent devient le marqueur, le compte doit redémarrer à *stalling one (1)*."
       },
       {
         "id": "9.5.",
@@ -567,7 +567,7 @@
             "children": [
               {
                 "id": "9.5.4.1.",
-                "text": "S'il y a un appel impliquant le lanceur, et une faute de réception séparée, et que le disque est retourné au lanceur, le compte est repris en fonction du résultat de l'appel impliquant le lanceur."
+                "text": "S'il y a un [appel](#definitions-call) impliquant le [lanceur](#definitions-lanceur), et une faute de réception séparée, et que le disque est retourné au [lanceur](#definitions-lanceur), le compte est repris en fonction du résultat de l'[appel](#definitions-call) impliquant le [lanceur](#definitions-lanceur)."
               },
               {
                 "id": "9.5.4.2.",
@@ -583,7 +583,7 @@
         "children": [
           {
             "id": "9.6.1.",
-            "text": "si *x* est le dernier nombre convenu entièrement énoncé avant le *call* alors le compte reprend à *stalling (x plus un)* ou *stalling n*, en prenant le plus petit de ces deux nombres."
+            "text": "si *x* est le dernier nombre convenu entièrement énoncé avant le *[call](#definitions-call)* alors le compte reprend à *stalling (x plus un)* ou *stalling n*, en prenant le plus petit de ces deux nombres."
           }
         ]
       }
@@ -595,43 +595,43 @@
     "children": [
       {
         "id": "10.1.",
-        "text": "Quand le jeu s’arrête pendant un point pour une faute, une violation, un *turnover* contesté, un *turnover* appelé, un point contesté, une interruption, une discussion ou à l’issue d’un temps-mort le jeu doit reprendre aussi vite que possible avec un *check*. Le *check* ne peut être retardé que par une discussion concernant un appel."
+        "text": "Quand le [jeu](#definitions-jeu) s’arrête pendant un point pour une faute, une violation, un *[turnover](#definitions-turnover)* contesté, un *[turnover](#definitions-turnover)* appelé, un point contesté, une [interruption](#definitions-interruption_de_jeu), une discussion ou à l’issue d’un temps-mort le [jeu](#definitions-jeu) doit reprendre aussi vite que possible avec un *check*. Le *check* ne peut être retardé que par une discussion concernant un appel."
       },
       {
         "id": "10.2.",
-        "text": "Positionnement des joueurs après un *call* (excepté dans le cas d’un temps-mort et sauf indication contraire):",
+        "text": "Positionnement des [joueurs](#definitions-joueur) après un *[call](#definitions-call)* (excepté dans le cas d’un temps-mort et sauf indication contraire):",
         "children": [
           {
             "id": "10.2.1.",
-            "text": "si le jeu s'arrête avant qu'une passe ne soit lancée, tous les joueurs doivent reprendre la position qu’ils occupaient quand le *call* a été fait."
+            "text": "si le [jeu](#definitions-jeu) s'arrête avant qu'une passe ne soit lancée, tous les [joueurs](#definitions-joueur) doivent reprendre la position qu’ils occupaient quand le *[call](#definitions-call)* a été fait."
           },
           {
             "id": "10.2.2.",
-            "text": "si le jeu s'arrête après qu'une passe est lancée, alors:",
+            "text": "si le [jeu](#definitions-jeu) s'arrête après qu'une passe est lancée, alors:",
             "children": [
               {
                 "id": "10.2.2.1.",
-                "text": "si le disque est retourné au lanceur, tous les joueurs doivent reprendre la position qu’ils occupaient quand le disque a été relâché par le lanceur, ou au moment du *call*, considérant l’événement arrivé en premier."
+                "text": "si le disque est retourné au [lanceur](#definitions-lanceur), tous les [joueurs](#definitions-joueur) doivent reprendre la position qu’ils occupaient quand le disque a été relâché par le [lanceur](#definitions-lanceur), ou au moment du *[call](#definitions-call)*, considérant l’événement arrivé en premier."
               },
               {
                 "id": "10.2.2.2.",
-                "text": "si le résultat de l'action est maintenu, tous les joueurs doivent reprendre la position qu'ils occupaient soit quand un joueur a établi la possession soit quand le disque a touché le sol."
+                "text": "si le résultat de l'action est maintenu, tous les [joueurs](#definitions-joueur) doivent reprendre la position qu'ils occupaient soit quand un [joueur](#definitions-joueur) a établi la [possession](#definitions-possession_du_disque) soit quand le disque a touché le [sol](#definitions-sol)."
               },
               {
                 "id": "10.2.2.3.",
-                "text": "si un joueur autre que le lanceur obtient la possession en résultat d'une transgression acceptée, tous les joueurs doivent reprendre la position qu'ils occupaient quand l'infraction a été commise."
+                "text": "si un [joueur](#definitions-joueur) autre que le [lanceur](#definitions-lanceur) obtient la [possession](#definitions-possession_du_disque) en résultat d'une transgression acceptée, tous les [joueurs](#definitions-joueur) doivent reprendre la position qu'ils occupaient quand l'infraction a été commise."
               }
             ]
           },
           {
             "id": "10.2.3.",
-            "text": "Tous les joueurs doivent rester immobiles à leur place jusqu’à ce que le disque soit *checké*."
+            "text": "Tous les [joueurs](#definitions-joueur) doivent rester immobiles à leur place jusqu’à ce que le disque soit *checké*."
           }
         ]
       },
       {
         "id": "10.3.",
-        "text": "N’importe quel joueur peut brièvement prolonger un arrêt de jeu pour réparer un équipement incorrect (*equipment*) mais le jeu ne peut être arrêté pour cette raison."
+        "text": "N’importe quel [joueur](#definitions-joueur) peut brièvement prolonger un arrêt de [jeu](#definitions-jeu) pour réparer un équipement incorrect (*equipment*) mais le [jeu](#definitions-jeu) ne peut être arrêté pour cette raison."
       },
       {
         "id": "10.4.",
@@ -643,31 +643,31 @@
       },
       {
         "id": "10.6.",
-        "text": "Pour reprendre le jeu avec un *check*:",
+        "text": "Pour reprendre le [jeu](#definitions-jeu) avec un *check*:",
         "children": [
           {
             "id": "10.6.1.",
-            "text": "quand le lanceur a le disque;",
+            "text": "quand le [lanceur](#definitions-lanceur) a le disque;",
             "children": [
               {
                 "id": "10.6.1.1.",
-                "text": "si le disque est à la portée d'un défenseur, le défenseur doit toucher le disque."
+                "text": "si le disque est à la portée d'un [défenseur](#definitions-defenseur), le [défenseur](#definitions-defenseur) doit toucher le disque."
               },
               {
                 "id": "10.6.1.2.",
-                "text": "si le disque n’est pas à la portée d'un défenseur, le lanceur doit toucher le sol avec le disque et peut appeler *disc in*."
+                "text": "si le disque n’est pas à la portée d'un [défenseur](#definitions-defenseur), le [lanceur](#definitions-lanceur) doit toucher le [sol](#definitions-sol) avec le disque et peut appeler *disc in*."
               }
             ]
           },
           {
             "id": "10.6.2.",
-            "text": "Quand le disque est au sol, le défenseur le plus prêt du disque doit appeler *disc in*."
+            "text": "Quand le disque est au [sol](#definitions-sol), le [défenseur](#definitions-defenseur) le plus prêt du disque doit appeler *disc in*."
           }
         ]
       },
       {
         "id": "10.7.",
-        "text": "Un joueur peut appeler une violation concernant le *check* si un adversaire:",
+        "text": "Un [joueur](#definitions-joueur) peut appeler une violation concernant le *check* si un adversaire:",
         "children": [
           {
             "id": "10.7.1.",
@@ -675,7 +675,7 @@
           },
           {
             "id": "10.7.2.",
-            "text": "redémarre le jeu sans vérification avec son joueur adverse le plus proche; ou"
+            "text": "redémarre le [jeu](#definitions-jeu) sans vérification avec son [joueur](#definitions-joueur) adverse le plus proche; ou"
           },
           {
             "id": "10.7.3.",
@@ -687,7 +687,7 @@
           },
           {
             "id": "10.7.5.",
-            "text": "Après cet appel de violation, la passe ne compte pas indépendamment du fait qu’elle soit réceptionnée ou non et la possession retourne au lanceur (sauf si [16.3](#rule-16.3.) s'applique)."
+            "text": "Après cet [appel](#definitions-call) de violation, la passe ne compte pas indépendamment du fait qu’elle soit réceptionnée ou non et la [possession](#definitions-possession_du_disque) retourne au [lanceur](#definitions-lanceur) (sauf si [16.3](#rule-16.3.) s'applique)."
           }
         ]
       }
@@ -695,199 +695,199 @@
   },
   {
     "id": "11.",
-    "text": "*Out* (Hors-limites)",
+    "text": "*Out* ([Hors-limites](#definitions-hors-limites))",
     "children": [
       {
         "id": "11.1.",
-        "text": "Toute l’aire de jeu est considérée comme en-jeu (*in*). Les lignes de périmètre ne font pas partie de l’aire de jeu et sont hors-limites. Tous les non-joueurs sont hors-limites."
+        "text": "Toute l’[aire de Jeu](#definitions-aire_de_jeu) est considérée comme en-jeu (*in*). Les [lignes de périmètre](#definitions-lignes_de_perimetre) ne font pas partie de l’[aire de Jeu](#definitions-aire_de_jeu) et sont [hors-limites](#definitions-hors-limites). Tous les [non-joueurs](#definitions-non-joueur) sont [hors-limites](#definitions-hors-limites)."
       },
       {
         "id": "11.2.",
-        "text": "Le secteur à l’extérieur de l’aire de jeu comprend le sol qui n'est pas dans l’aire de jeu et tout ce qui entre en contact avec celui-ci, excepté les défenseurs, qui sont toujours considérés *en-jeu*."
+        "text": "Le secteur à l’extérieur de l’[aire de Jeu](#definitions-aire_de_jeu) comprend le [sol](#definitions-sol) qui n'est pas dans l’[aire de Jeu](#definitions-aire_de_jeu) et tout ce qui entre en contact avec celui-ci, excepté les [défenseurs](#definitions-defenseur), qui sont toujours considérés *en-jeu*."
       },
       {
         "id": "11.3.",
-        "text": "Un attaquant qui n'est pas hors-limites est en-jeu.",
+        "text": "Un [attaquant](#definitions-attaquant) qui n'est pas [hors-limites](#definitions-hors-limites) est en-jeu.",
         "children": [
           {
             "id": "11.3.1.",
-            "text": "Un joueur en l’air garde son statut en-jeu/hors-limites jusqu'à ce qu’il entre en contact avec l’aire de jeu ou l’extérieur de l’aire de jeu."
+            "text": "Un [joueur](#definitions-joueur) en l’air garde son statut en-jeu/[hors-limites](#definitions-hors-limites) jusqu'à ce qu’il entre en contact avec l’[aire de Jeu](#definitions-aire_de_jeu) ou l’extérieur de l’[aire de Jeu](#definitions-aire_de_jeu)."
           },
           {
             "id": "11.3.2.",
-            "text": "Un joueur qui a attrapé le disque, qui entre en contact avec l’aire de jeu puis en sort est toujours considéré dans l’aire de jeu, tant qu’il maintient sa prise jusqu’à ce qu’il établisse sa possession.",
+            "text": "Un [joueur](#definitions-joueur) qui a attrapé le disque, qui entre en contact avec l’[aire de Jeu](#definitions-aire_de_jeu) puis en sort est toujours considéré dans l’[aire de Jeu](#definitions-aire_de_jeu), tant qu’il maintient sa prise jusqu’à ce qu’il établisse sa [possession](#definitions-possession_du_disque).",
             "children": [
               {
                 "id": "11.3.2.1.",
-                "text": "S’il sort de l’aire de jeu, il doit y établir un point pivot à l’endroit le plus proche d’où il est sorti (à moins que [14.3](#rule-14.3.) ne s’applique)."
+                "text": "S’il sort de l’[aire de Jeu](#definitions-aire_de_jeu), il doit y établir un [point du pivot](#definitions-endroit_du_pivot) à l’endroit le plus proche d’où il est sorti (à moins que [14.3](#rule-14.3.) ne s’applique)."
               }
             ]
           },
           {
             "id": "11.3.3.",
-            "text": "Un lanceur qui touche une zone hors-limites est considéré en-jeu jusqu'à ce qu'il fasse une passe."
+            "text": "Un [lanceur](#definitions-lanceur) qui touche une zone [hors-limites](#definitions-hors-limites) est considéré en-jeu jusqu'à ce qu'il fasse une passe."
           },
           {
             "id": "11.3.4.",
-            "text": "Le contact entre joueurs ne transmet pas à l’un ou l’autre le statut d'être en-jeu ou hors-limites."
+            "text": "Le contact entre [joueurs](#definitions-joueur) ne transmet pas à l’un ou l’autre le statut d'être en-jeu ou [hors-limites](#definitions-hors-limites)."
           }
         ]
       },
       {
         "id": "11.4.",
-        "text": "Sont considérés comme *turnover* hors-limites et la réception n’a pas eu lieu:",
+        "text": "Sont considérés comme *[turnover](#definitions-turnover)* [hors-limites](#definitions-hors-limites) et la réception n’a pas eu lieu:",
         "children": [
           {
             "id": "11.4.1.",
-            "text": "une partie du réceptionneur attaquant est hors-limites quand il entre en contact avec le disque; ou"
+            "text": "une partie du [réceptionneur](#definitions-receptionneurs) [attaquant](#definitions-attaquant) est [hors-limites](#definitions-hors-limites) quand il entre en contact avec le disque; ou"
           },
           {
             "id": "11.4.2.",
-            "text": "après avoir attrapé le disque alors que le joueur est en l’air le premier appui du réceptionneur attaquant est hors-limites alors qu’il est toujours en contact avec le disque"
+            "text": "après avoir attrapé le disque alors que le [joueur](#definitions-joueur) est en l’air le premier appui du [réceptionneur](#definitions-receptionneurs) [attaquant](#definitions-attaquant) est [hors-limites](#definitions-hors-limites) alors qu’il est toujours en contact avec le disque"
           }
         ]
       },
       {
         "id": "11.5.",
-        "text": "Un disque est en-jeu une fois que le jeu est *vivant* ou quand le jeu commence ou reprend."
+        "text": "Un disque est en-jeu une fois que le [jeu](#definitions-jeu) est *vivant* ou quand le [jeu](#definitions-jeu) commence ou reprend."
       },
       {
         "id": "11.6.",
-        "text": "Un disque devient hors-limites lorsqu’il touche l’extérieur de l’aire de jeu ou un attaquant hors-limites. Un disque qui a été attrapé par un attaquant a le même statut en-jeu/hors-limites que ce joueur. Si le disque est simultanément attrapé par plus d'un attaquant et que l'un d'entre eux est hors-limites, le disque est considéré comme hors-limites."
+        "text": "Un disque devient [hors-limites](#definitions-hors-limites) lorsqu’il touche l’extérieur de l’[aire de Jeu](#definitions-aire_de_jeu) ou un [attaquant](#definitions-attaquant) [hors-limites](#definitions-hors-limites). Un disque qui a été attrapé par un [attaquant](#definitions-attaquant) a le même statut en-jeu/[hors-limites](#definitions-hors-limites) que ce [joueur](#definitions-joueur). Si le disque est simultanément attrapé par plus d'un [attaquant](#definitions-attaquant) et que l'un d'entre eux est [hors-limites](#definitions-hors-limites), le disque est considéré comme [hors-limites](#definitions-hors-limites)."
       },
       {
         "id": "11.7.",
-        "text": "Le disque peut voler en dehors du périmètre et retourner dans l’aire de jeu et les joueurs peuvent aller en dehors de l’aire de jeu pour jouer le disque."
+        "text": "Le disque peut voler en dehors du périmètre et retourner dans l’[aire de Jeu](#definitions-aire_de_jeu) et les [joueurs](#definitions-joueur) peuvent aller en dehors de l’[aire de Jeu](#definitions-aire_de_jeu) pour jouer le disque."
       },
       {
         "id": "11.8.",
-        "text": "L'endroit où le disque est sorti de l'aire de jeu est l’endroit où, avant d'entrer en contact avec l'extérieur de l'aire de jeu ou un joueur hors-limites, le disque était le plus récemment:",
+        "text": "L'endroit où le disque est sorti de l'[aire de Jeu](#definitions-aire_de_jeu) est l’endroit où, avant d'entrer en contact avec l'extérieur de l'[aire de Jeu](#definitions-aire_de_jeu) ou un [joueur](#definitions-joueur) [hors-limites](#definitions-hors-limites), le disque était le plus récemment:",
         "children": [
           {
             "id": "11.8.1.",
-            "text": "partiellement ou complètement au-dessus de l’aire de jeu; ou"
+            "text": "partiellement ou complètement au-dessus de l’[aire de Jeu](#definitions-aire_de_jeu); ou"
           },
           {
             "id": "11.8.2.",
-            "text": "en contact avec un joueur en-jeu."
+            "text": "en contact avec un [joueur](#definitions-joueur) en-jeu."
           }
         ]
       },
       {
         "id": "11.9.",
-        "text": "Si le disque est hors-limites et à plus de trois (3) mètres de l’endroit du pivot, des non joueurs peuvent aller chercher le disque. Le lanceur doit porter le disque sur les trois (3) derniers mètres jusqu’à l’aire de jeu."
+        "text": "Si le disque est [hors-limites](#definitions-hors-limites) et à plus de trois (3) mètres de l’[endroit du pivot](#definitions-endroit_du_pivot), des [non-joueurs](#definitions-non-joueur) peuvent aller chercher le disque. Le [lanceur](#definitions-lanceur) doit porter le disque sur les trois (3) derniers mètres jusqu’à l’[aire de Jeu](#definitions-aire_de_jeu)."
       }
     ]
   },
   {
     "id": "12.",
-    "text": "Réceptionneur et Positionnement",
+    "text": "[Réceptionneur](#definitions-receptionneurs) et Positionnement",
     "children": [
       {
         "id": "12.1.",
-        "text": "Un *catch* (attraper) se produit lorsqu'un joueur a un disque sans rotation coincé entre au moins deux parties du corps. Un *catch* peut permettre à un joueur d'établir la possession du disque.",
+        "text": "Un *[catch](#definitions-catch)* (attraper) se produit lorsqu'un [joueur](#definitions-joueur) a un disque sans rotation coincé entre au moins deux parties du corps. Un *[catch](#definitions-catch)* peut permettre à un [joueur](#definitions-joueur) d'établir la [[possession du disque](#definitions-possession_du_disque)](#definitions-possession_du_disque).",
         "children": [
           {
             "id": "12.1.1.",
-            "text": "Si le joueur ne parvient pas à maintenir son *catch* en raison d’un contact avec le sol ou d’un contact avec un coéquipier ou un joueur adverse légitimement placé, la possession est considérée comme n’ayant pas eu lieu."
+            "text": "Si le [joueur](#definitions-joueur) ne parvient pas à maintenir son *[catch](#definitions-catch)* en raison d’un [contact avec le sol](#definitions-contact_avec_le_sol) ou d’un contact avec un coéquipier ou un [joueur](#definitions-joueur) adverse [légitimement placé](#definitions-position_legitime), la [possession](#definitions-possession_du_disque) est considérée comme n’ayant pas eu lieu."
           }
         ]
       },
       {
         "id": "12.2.",
-        "text": "Après avoir établi la possession, ce joueur devient le lanceur."
+        "text": "Après avoir établi la [possession](#definitions-possession_du_disque), ce [joueur](#definitions-joueur) devient le [lanceur](#definitions-lanceur)."
       },
       {
         "id": "12.3.",
-        "text": "Si un attaquant et un défenseur attrapent le disque simultanément, l'attaquant conserve la possession."
+        "text": "Si un [attaquant](#definitions-attaquant) et un [défenseur](#definitions-defenseur) attrapent le disque simultanément, l'[attaquant](#definitions-attaquant) conserve la [possession](#definitions-possession_du_disque)."
       },
       {
         "id": "12.4.",
-        "text": "Un joueur qui a établi sa position est autorisé à garder cette position et ne doit pas être bousculé par un joueur adverse."
+        "text": "Un [joueur](#definitions-joueur) qui a établi sa position est autorisé à garder cette position et ne doit pas être bousculé par un [joueur](#definitions-joueur) adverse."
       },
       {
         "id": "12.5.",
-        "text": "Chaque joueur est autorisé à occuper n'importe quelle position dans l’aire de jeu non occupée par un joueur adverse à condition qu’il n'initie pas de contact en prenant une telle position et ne se déplace pas de manière imprudente ou dangereusement agressive.",
+        "text": "Chaque [joueur](#definitions-joueur) est autorisé à occuper n'importe quelle position dans l’[aire de Jeu](#definitions-aire_de_jeu) non occupée par un [joueur](#definitions-joueur) adverse à condition qu’il n'initie pas de contact en prenant une telle position et ne se déplace pas de manière imprudente ou dangereusement agressive.",
         "children": [
           {
             "id": "12.5.1.",
-            "text": "Cependant quand le disque est en l'air, un joueur ne peut pas se déplacer de manière à uniquement empêcher un adversaire de prendre une trajectoire inoccupée pour jouer le disque."
+            "text": "Cependant quand le disque est en l'air, un [joueur](#definitions-joueur) ne peut pas se déplacer de manière à uniquement empêcher un adversaire de prendre une trajectoire inoccupée pour jouer le disque."
           }
         ]
       },
       {
         "id": "12.6.",
-        "text": "Tous les joueurs doivent essayer d'éviter le contact avec d'autres joueurs et il n'y a aucune situation où un joueur peut justifier d’initier un contact. Cela inclut d’éviter d’initier un contact avec un adversaire stationnaire, ou la position attendue d’un adversaire en fonction de sa vitesse et de sa direction. *Faire action de jeu sur le disque* n'est pas une excuse valide pour créer un contact avec d'autres joueurs.",
+        "text": "Tous les [joueurs](#definitions-joueur) doivent essayer d'éviter le contact avec d'autres [joueurs](#definitions-joueur) et il n'y a aucune situation où un [joueur](#definitions-joueur) peut justifier d’initier un contact. Cela inclut d’éviter d’initier un contact avec un adversaire stationnaire, ou la position attendue d’un adversaire en fonction de sa vitesse et de sa direction. [Faire action de jeu sur le disque](#definitions-faire_action_sur_le_disque) n'est pas une excuse valide pour créer un contact avec d'autres [joueurs](#definitions-joueur).",
         "children": [
           {
             "id": "12.6.1.",
-            "text": "Si un joueur n'est pas raisonnablement certain de pouvoir effectuer une action légale sur le disque avant un adversaire qui se déplace de manière légale, il doit ajuster ses mouvements pour éviter d'initier le contact. Si cet ajustement est effectué, le résultat de l’action est valable."
+            "text": "Si un [joueur](#definitions-joueur) n'est pas raisonnablement certain de pouvoir effectuer une action légale sur le disque avant un adversaire qui se déplace de manière légale, il doit ajuster ses mouvements pour éviter d'initier le contact. Si cet ajustement est effectué, le résultat de l’action est valable."
           }
         ]
       },
       {
         "id": "12.7.",
-        "text": "Le joueur qui initie le contact est considéré être le joueur qui:",
+        "text": "Le [joueur](#definitions-joueur) qui initie le contact est considéré être le [joueur](#definitions-joueur) qui:",
         "children": [
           {
             "id": "12.7.1.",
-            "text": "est arrivé au point du contact après que l’adversaire a établi une possession légitime en ce point (que l’adversaire soit stationnaire ou en mouvement), ou"
+            "text": "est arrivé au point du contact après que l’adversaire a établi une [possession](#definitions-possession_du_disque) légitime en ce point (que l’adversaire soit stationnaire ou en mouvement), ou"
           },
           {
             "id": "12.7.2.",
-            "text": "a ajusté ses mouvements de manière à créer un contact inévitable avec un adversaire se déplaçant de manière légale, en prenant en compte la position, la vitesse et la direction de tous les joueurs."
+            "text": "a ajusté ses mouvements de manière à créer un contact inévitable avec un adversaire se déplaçant de manière légale, en prenant en compte la position, la vitesse et la direction de tous les [joueurs](#definitions-joueur)."
           }
         ]
       },
       {
         "id": "12.8.",
-        "text": "Un contact mineur peut arriver quand deux joueurs ou plus se déplacent vers un même point simultanément. Les contacts mineurs devraient être évités mais ne sont pas considérés comme une faute."
+        "text": "Un [contact mineur](#definitions-contact_mineur) peut arriver quand deux [joueurs](#definitions-joueur) ou plus se déplacent vers un même point simultanément. Les [contacts mineurs](#definitions-contact_mineur) devraient être évités mais ne sont pas considérés comme une faute."
       },
       {
         "id": "12.9.",
-        "text": "Les joueurs ne doivent pas utiliser leurs bras ou jambes pour entraver le mouvement d'adversaires."
+        "text": "Les [joueurs](#definitions-joueur) ne doivent pas utiliser leurs bras ou jambes pour entraver le mouvement d'adversaires."
       },
       {
         "id": "12.10.",
-        "text": "Aucun joueur ne peut aider physiquement le mouvement d'un autre joueur, ou utiliser un équipement ou objet pour faciliter le contact avec le disque."
+        "text": "Aucun [joueur](#definitions-joueur) ne peut aider physiquement le mouvement d'un autre [joueur](#definitions-joueur), ou utiliser un équipement ou objet pour faciliter le contact avec le disque."
       }
     ]
   },
   {
     "id": "13.",
-    "text": "*Turnovers*",
+    "text": "*[Turnovers](#definitions-turnover)*",
     "children": [
       {
         "id": "13.1.",
-        "text": "Un *turnover* qui transfère la possession du disque d'une équipe à l'autre se produit quand:",
+        "text": "Un *[turnover](#definitions-turnover)* qui transfère la [possession](#definitions-possession_du_disque) du disque d'une équipe à l'autre se produit quand:",
         "children": [
           {
             "id": "13.1.1.",
-            "text": "le disque touche le sol alors qu'il n'est pas en la possession d'un attaquant (*down*);",
+            "text": "le disque touche le [sol](#definitions-sol) alors qu'il n'est pas en la [possession](#definitions-possession_du_disque) d'un [attaquant](#definitions-attaquant) (*down*);",
             "children": [
               {
                 "id": "13.1.1.1.",
-                "text": "cependant, il n'est pas *down* si un receveur attrape une passe avant que le disque n'entre en contact avec le sol, et maintient la prise pendant que le disque est en contact avec le sol."
+                "text": "cependant, il n'est pas *down* si un receveur attrape une passe avant que le disque n'entre en [contact avec le sol](#definitions-contact_avec_le_sol), et maintient la prise pendant que le disque est en [contact avec le sol](#definitions-contact_avec_le_sol)."
               }
             ]
           },
           {
             "id": "13.1.2.",
-            "text": "un défenseur établit possession d’une passe (*interception*);"
+            "text": "un [défenseur](#definitions-defenseur) établit [possession](#definitions-possession_du_disque) d’une passe (*[interception](#definitions-interception)*);"
           },
           {
             "id": "13.1.3.",
-            "text": "le disque tombe en dehors des limites de l’aire de jeu (*out*); ou"
+            "text": "le disque tombe en dehors des limites de l’[aire de Jeu](#definitions-aire_de_jeu) (*out*); ou"
           },
           {
             "id": "13.1.4.",
-            "text": "durant le *pull*, l’attaque touche le disque avant qu'il n'entre en contact avec le sol, et conséquemment n’établit pas la possession du disque (*dropped pull*)."
+            "text": "durant le *[pull](#definitions-pull)*, l’attaque touche le disque avant qu'il n'entre en [contact avec le sol](#definitions-contact_avec_le_sol), et conséquemment n’établit pas la [possession du disque](#definitions-possession_du_disque) (*dropped [pull](#definitions-pull)*)."
           }
         ]
       },
       {
         "id": "13.2.",
-        "text": "Un *turnover* qui transfère la possession du disque d'une équipe à l'autre et arrête le jeu se produit quand:",
+        "text": "Un *[turnover](#definitions-turnover)* qui transfère la [possession du disque](#definitions-possession_du_disque) d'une équipe à l'autre et arrête le [jeu](#definitions-jeu) se produit quand:",
         "children": [
           {
             "id": "13.2.1.",
@@ -895,89 +895,89 @@
           },
           {
             "id": "13.2.2.",
-            "text": "le lanceur n'a pas lancé le disque avant que le marqueur n’ait commencé à prononcer le mot *dix* lors du compte (*stall-out*);"
+            "text": "le [lanceur](#definitions-lanceur) n'a pas lancé le disque avant que le [marqueur](#definitions-marqueur) n’ait commencé à prononcer le mot *dix* lors du compte (*stall-out*);"
           },
           {
             "id": "13.2.3.",
-            "text": "le disque est intentionnellement passé d'un attaquant à un autre sans jamais être complètement relâché par les deux joueurs (*handover*);"
+            "text": "le disque est intentionnellement passé d'un [attaquant](#definitions-attaquant) à un autre sans jamais être complètement relâché par les deux [joueurs](#definitions-joueur) (*handover*);"
           },
           {
             "id": "13.2.4.",
-            "text": "le lanceur fait intentionnellement rebondir une passe sur un autre joueur pour lui-même (*deflection*);"
+            "text": "le [lanceur](#definitions-lanceur) fait intentionnellement rebondir une passe sur un autre [joueur](#definitions-joueur) pour lui-même (*deflection*);"
           },
           {
             "id": "13.2.5.",
-            "text": "en tentant une passe, le lanceur attrape le disque après l’avoir lancé et avant que celui-ci n’ait été touché par un autre joueur (*self-catch*);"
+            "text": "en tentant une passe, le [lanceur](#definitions-lanceur) attrape le disque après l’avoir lancé et avant que celui-ci n’ait été touché par un autre [joueur](#definitions-joueur) (*self-[catch](#definitions-catch)*);"
           },
           {
             "id": "13.2.6.",
-            "text": "un attaquant aide intentionnellement le mouvement d'un coéquipier pour attraper le disque, ou"
+            "text": "un [attaquant](#definitions-attaquant) aide intentionnellement le mouvement d'un coéquipier pour attraper le disque, ou"
           },
           {
             "id": "13.2.7.",
-            "text": "un attaquant utilise un équipement ou un objet pour aider à attraper une passe."
+            "text": "un [attaquant](#definitions-attaquant) utilise un équipement ou un objet pour aider à attraper une passe."
           }
         ]
       },
       {
         "id": "13.3.",
-        "text": "Si un joueur pense qu'un *turnover* a eu lieu il doit immédiatement faire l'appel approprié. Si l'équipe adverse est en désaccord elle peut appeler *contest* et le jeu doit s’arrêter. Si, après discussion, les joueurs ne peuvent se mettre d'accord ou que les choses ne sont pas claires concernant l'action le disque doit être rendu au dernier lanceur non contesté."
+        "text": "Si un [joueur](#definitions-joueur) pense qu'un *[turnover](#definitions-turnover)* a eu lieu il doit immédiatement faire l'[appel](#definitions-call) approprié. Si l'équipe adverse est en désaccord elle peut appeler *contest* et le [jeu](#definitions-jeu) doit s’arrêter. Si, après discussion, les [joueurs](#definitions-joueur) ne peuvent se mettre d'accord ou que les choses ne sont pas claires concernant l'action le disque doit être rendu au dernier [lanceur](#definitions-lanceur) non contesté."
       },
       {
         "id": "13.4.",
-        "text": "Après un appel de *stall-out*:",
+        "text": "Après un [appel](#definitions-call) de *stall-out*:",
         "children": [
           {
             "id": "13.4.1.",
-            "text": "Si le lanceur a toujours la possession du disque mais pense qu’un *fast count* (compte rapide) s’est produit alors qu’il n'a pas eu une opportunité raisonnable d'appeler *fast count* avant le *stall- out*, l’action est traitée soit comme une transgression acceptée par la défense ([9.5.1](#rule-9.5.1.)) ou soit comme un *stall-out* contesté ([9.5.3](#rule-9.5.3.))."
+            "text": "Si le [lanceur](#definitions-lanceur) a toujours la [possession du disque](#definitions-possession_du_disque) mais pense qu’un *fast count* (compte rapide) s’est produit alors qu’il n'a pas eu une opportunité raisonnable d'appeler *fast count* avant le *stall- out*, l’action est traitée soit comme une transgression acceptée par la défense ([9.5.1](#rule-9.5.1.)) ou soit comme un *stall-out* contesté ([9.5.3](#rule-9.5.3.))."
           },
           {
             "id": "13.4.2.",
-            "text": "Si le lanceur a effectué une passe réceptionnée, le lanceur peut contester s’il croit qu’il n’y avait pas de *stall-out* ou qu’il y avait un *fast-count* juste avant le *stall-out*."
+            "text": "Si le [lanceur](#definitions-lanceur) a effectué une passe réceptionnée, le [lanceur](#definitions-lanceur) peut contester s’il croit qu’il n’y avait pas de *stall-out* ou qu’il y avait un *fast-count* juste avant le *stall-out*."
           },
           {
             "id": "13.4.3.",
-            "text": "Si le lanceur conteste le *stall-out* mais tente tout de même une passe et que celle-ci n’est pas rattrapée, alors le *turnover* est maintenu et le jeu reprend par un *check*."
+            "text": "Si le [lanceur](#definitions-lanceur) conteste le *stall-out* mais tente tout de même une passe et que celle-ci n’est pas rattrapée, alors le *[turnover](#definitions-turnover)* est maintenu et le [jeu](#definitions-jeu) reprend par un *check*."
           }
         ]
       },
       {
         "id": "13.5.",
-        "text": "N'importe quel attaquant peut prendre possession du disque après un *turnover* sauf :",
+        "text": "N'importe quel [attaquant](#definitions-attaquant) peut prendre [possession du disque](#definitions-possession_du_disque) après un *[turnover](#definitions-turnover)* sauf :",
         "children": [
           {
             "id": "13.5.1.",
-            "text": "Après une interception et dans ce cas le joueur qui a fait l'interception doit maintenir la possession ; et"
+            "text": "Après une [interception](#definitions-interception) et dans ce cas le [joueur](#definitions-joueur) qui a fait l'[interception](#definitions-interception) doit maintenir la [possession](#definitions-possession_du_disque) ; et"
           },
           {
             "id": "13.5.2.",
-            "text": "Après une faute de réception offensive et dans ce cas le joueur ayant subi la faute doit prendre possession."
+            "text": "Après une faute de réception offensive et dans ce cas le [joueur](#definitions-joueur) ayant subi la faute doit prendre [possession](#definitions-possession_du_disque)."
           }
         ]
       },
       {
         "id": "13.6.",
-        "text": "Si le joueur en possession après un *turnover* ou après un *pull* ayant déjà touché le sol laisse tomber intentionnellement le disque, le place sur le sol ou transfert la possession du disque il doit rétablir la possession et le jeu reprend par un *check*."
+        "text": "Si le [joueur](#definitions-joueur) en [possession](#definitions-possession_du_disque) après un *[turnover](#definitions-turnover)* ou après un *[pull](#definitions-pull)* ayant déjà touché le [sol](#definitions-sol) laisse tomber intentionnellement le disque, le place sur le [sol](#definitions-sol) ou transfert la [possession du disque](#definitions-possession_du_disque) il doit rétablir la [possession](#definitions-possession_du_disque) et le [jeu](#definitions-jeu) reprend par un *check*."
       },
       {
         "id": "13.7.",
-        "text": "Après un *turnover*, l'endroit du *turnover* est l’endroit où:",
+        "text": "Après un *[turnover](#definitions-turnover)*, l'endroit du *[turnover](#definitions-turnover)* est l’endroit où:",
         "children": [
           {
             "id": "13.7.1.",
-            "text": "le disque s’est arrêté ou est ramassé par un attaquant; ou"
+            "text": "le disque s’est arrêté ou est ramassé par un [attaquant](#definitions-attaquant); ou"
           },
           {
             "id": "13.7.2.",
-            "text": "le joueur qui intercepte s’arrête; ou"
+            "text": "le [joueur](#definitions-joueur) qui [intercepte](#definitions-interception) s’arrête; ou"
           },
           {
             "id": "13.7.3.",
-            "text": "le lanceur se trouvait au moment de l’appel dans les cas [13.2.2](#rule-13.2.2.), [13.2.3](#rule-13.2.3.), [13.2.4](#rule-13.2.4.), [13.2.5](#rule-13.2.5.); ou"
+            "text": "le [lanceur](#definitions-lanceur) se trouvait au moment de l’[appel](#definitions-call) dans les cas [13.2.2](#rule-13.2.2.), [13.2.3](#rule-13.2.3.), [13.2.4](#rule-13.2.4.), [13.2.5](#rule-13.2.5.); ou"
           },
           {
             "id": "13.7.4.",
-            "text": "l'attaquant se trouvait dans les cas [13.2.6](#rule-13.2.6.) et [13.2.7](#rule-13.2.7.) ; ou"
+            "text": "l'[attaquant](#definitions-attaquant) se trouvait dans les cas [13.2.6](#rule-13.2.6.) et [13.2.7](#rule-13.2.7.) ; ou"
           },
           {
             "id": "13.7.5.",
@@ -987,49 +987,49 @@
       },
       {
         "id": "13.8.",
-        "text": "Si l'endroit du *turnover* est hors de l'aire de jeu ou que le disque touche la zone hors de l'aire de jeu après le *turnover* le lanceur doit établir un point pivot à l’endroit de la zone centrale le plus proche d'où le disque est sorti ([11.8](#rule-11.8.)).",
+        "text": "Si l'endroit du *[turnover](#definitions-turnover)* est hors de l'[aire de Jeu](#definitions-aire_de_jeu) ou que le disque touche la zone hors de l'[aire de Jeu](#definitions-aire_de_jeu) après le *[turnover](#definitions-turnover)* le [lanceur](#definitions-lanceur) doit établir un [point du pivot](#definitions-endroit_du_pivot) à l’endroit de la [zone centrale](#definitions-zone_centrale) le plus proche d'où le disque est sorti ([11.8](#rule-11.8.)).",
         "children": [
           {
             "id": "13.8.1.",
-            "text": "Si 13.8 ne s'applique pas, un point pivot doit être établi selon [13.9](#rule-13.9.), [13.10](#rule-13.10.) ou [13.11](#rule-13.11.)"
+            "text": "Si 13.8 ne s'applique pas, un [point du pivot](#definitions-endroit_du_pivot) doit être établi selon [13.9](#rule-13.9.), [13.10](#rule-13.10.) ou [13.11](#rule-13.11.)"
           }
         ]
       },
       {
         "id": "13.9.",
-        "text": "Si l'endroit du *turnover* est dans la zone centrale, le lanceur doit établir un point pivot à cet endroit."
+        "text": "Si l'endroit du *[turnover](#definitions-turnover)* est dans la [zone centrale](#definitions-zone_centrale), le [lanceur](#definitions-lanceur) doit établir un [point du pivot](#definitions-endroit_du_pivot) à cet endroit."
       },
       {
         "id": "13.10.",
-        "text": "Si l'endroit du *turnover* est dans la zone d’en-but attaquée, le lanceur doit établir un point pivot à l’endroit le plus proche sur la ligne de but."
+        "text": "Si l'endroit du *[turnover](#definitions-turnover)* est dans la zone d’[en-but attaquée](#definitions-en-but_attaque) , le [lanceur](#definitions-lanceur) doit établir un [point du pivot](#definitions-endroit_du_pivot) à l’endroit le plus proche sur la [ligne de but](#definitions-ligne_de_but)."
       },
       {
         "id": "13.11.",
-        "text": "Si l'endroit du *turnover* est dans la zone d’en-but défendue, le lanceur peut choisir d’établir un point pivot:",
+        "text": "Si l'endroit du *[turnover](#definitions-turnover)* est dans la zone d’[en-but défendue](#definitions-en-but_defendu), le [lanceur](#definitions-lanceur) peut choisir d’établir un [point du pivot](#definitions-endroit_du_pivot):",
         "children": [
           {
             "id": "13.11.1.",
-            "text": "à l’endroit du *turnover*, en restant à l'endroit du turnover ou en feintant une passe; ou"
+            "text": "à l’endroit du *[turnover](#definitions-turnover)*, en restant à l'endroit du  [turnover](#definitions-turnover)  ou en feintant une passe; ou"
           },
           {
             "id": "13.11.2.",
-            "text": "à l’endroit le plus proche du *turnover* sur la ligne de but, en se déplaçant depuis l'endroit du *turnover*.",
+            "text": "à l’endroit le plus proche du *[turnover](#definitions-turnover)* sur la [ligne de but](#definitions-ligne_de_but), en se déplaçant depuis l'endroit du *[turnover](#definitions-turnover)*.",
             "children": [
               {
                 "id": "13.11.2.1.",
-                "text": "Le futur lanceur, avant de prendre le disque, peut indiquer l'option de la ligne de but en étendant complètement un bras au-dessus de sa tête."
+                "text": "Le futur [lanceur](#definitions-lanceur), avant de prendre le disque, peut indiquer l'option de la [ligne de but](#definitions-ligne_de_but) en étendant complètement un bras au-dessus de sa tête."
               }
             ]
           },
           {
             "id": "13.11.3.",
-            "text": "le mouvement immédiat, rester à l’endroit du *turnover*, feinter une passe ou indiquer la ligne de but détermine l’endroit où établir un point pivot et ne peut pas être modifié."
+            "text": "le mouvement immédiat, rester à l’endroit du *[turnover](#definitions-turnover)*, feinter une passe ou indiquer la [ligne de but](#definitions-ligne_de_but) détermine l’endroit où établir un [point du pivot](#definitions-endroit_du_pivot) et ne peut pas être modifié."
           }
         ]
       },
       {
         "id": "13.12.",
-        "text": "Si, après un *turnover* accepté, le jeu a continué sans connaissance du *turnover*, le jeu s'arrête et le disque est retourné à l'endroit du *turnover*, les joueurs reprennent leurs positions lors du *turnover* et le jeu reprend avec un *check*."
+        "text": "Si, après un *[turnover](#definitions-turnover)* accepté, le [jeu](#definitions-jeu) a continué sans connaissance du *[turnover](#definitions-turnover)*, le [jeu](#definitions-jeu) s'arrête et le disque est retourné à l'endroit du *[turnover](#definitions-turnover)*, les [joueurs](#definitions-joueur) reprennent leurs positions lors du *[turnover](#definitions-turnover)* et le [jeu](#definitions-jeu) reprend avec un *check*."
       }
     ]
   },
@@ -1039,29 +1039,29 @@
     "children": [
       {
         "id": "14.1.",
-        "text": "Un point est marqué si un joueur en-jeu attrape une passe légale et:",
+        "text": "Un point est marqué si un [joueur](#definitions-joueur) en-jeu attrape une passe légale et:",
         "children": [
           {
             "id": "14.1.1.",
-            "text": "que tous les points de contact avec le sol sont entièrement dans la zone d’en-but, ou pour un joueur en l’air, que tous ses premiers points de contact simultanés avec le sol après avoir attrapé le disque sont entièrement dans la zone d’en-but et"
+            "text": "que tous les points de [contact avec le sol](#definitions-contact_avec_le_sol) sont entièrement dans la zone d’[en-but](#definitions-en-but), ou pour un [joueur](#definitions-joueur) en l’air, que tous ses premiers points de contact simultanés avec le [sol](#definitions-sol) après avoir attrapé le disque sont entièrement dans la zone d’[en-but](#definitions-en-but) et"
           },
           {
             "id": "14.1.2.",
-            "text": "qu’il établit par la suite la possession du disque et maintient la prise tout au long du contact avec le sol ([12.1](#rule-12.1.), [12.2](#rule-12.2.))."
+            "text": "qu’il établit par la suite la [possession du disque](#definitions-possession_du_disque) et maintient la prise tout au long du [contact avec le sol](#definitions-contact_avec_le_sol) ([12.1](#rule-12.1.), [12.2](#rule-12.2.))."
           }
         ]
       },
       {
         "id": "14.2.",
-        "text": "Si un joueur pense qu'un point a été marqué il peut appeler *goal* et le jeu s'arrête. Si l'appel est contesté ou rétracté le jeu doit reprendre par un *check* et l'appel est considéré avoir été fait au moment où le joueur a établi possession."
+        "text": "Si un [joueur](#definitions-joueur) pense qu'un point a été marqué il peut appeler *goal* et le [jeu](#definitions-jeu) s'arrête. Si l'[appel](#definitions-call) est contesté ou rétracté le [jeu](#definitions-jeu) doit reprendre par un *check* et l'[appel](#definitions-call) est considéré avoir été fait au moment où le [joueur](#definitions-joueur) a établi [possession](#definitions-possession_du_disque)."
       },
       {
         "id": "14.3.",
-        "text": "Si un joueur en possession du disque finit avec son point pivot derrière la ligne de but sans marquer un point selon [14.1](#rule-14.1.), le joueur doit établir un point pivot à l’endroit le plus proche sur la ligne de but."
+        "text": "Si un [joueur](#definitions-joueur) en [possession du disque](#definitions-possession_du_disque) finit avec son [point du pivot](#definitions-endroit_du_pivot) derrière la [ligne de but](#definitions-ligne_de_but) sans marquer un point selon [14.1](#rule-14.1.), le [joueur](#definitions-joueur) doit établir un [point du pivot](#definitions-endroit_du_pivot) à l’endroit le plus proche sur la [ligne de but](#definitions-ligne_de_but)."
       },
       {
         "id": "14.4.",
-        "text": "Le moment où un point est considéré avoir été marqué est quand le joueur établit possession."
+        "text": "Le moment où un point est considéré avoir été marqué est quand le [joueur](#definitions-joueur) établit [possession](#definitions-possession_du_disque)."
       }
     ]
   },
@@ -1075,7 +1075,7 @@
         "children": [
           {
             "id": "15.1.1.",
-            "text": "Un joueur qui initie intentionnellement un contact mineur constitue toujours une transgression des règles mais doit être traité comme une violation et non comme une faute."
+            "text": "Un [joueur](#definitions-joueur) qui initie intentionnellement un [contact mineur](#definitions-contact_mineur) constitue toujours une transgression des règles mais doit être traité comme une violation et non comme une faute."
           }
         ]
       },
@@ -1089,59 +1089,59 @@
       },
       {
         "id": "15.4.",
-        "text": "Seul le joueur qui subit une faute peut l’appeler en appelant *foul* (*faute*)."
+        "text": "Seul le [joueur](#definitions-joueur) qui subit une faute peut l’appeler en appelant *foul* (*faute*)."
       },
       {
         "id": "15.5.",
-        "text": "En général seul le lanceur peut réclamer une infraction de marquage, en appelant le nom spécifique de l’infraction.",
+        "text": "En général seul le [lanceur](#definitions-lanceur) peut réclamer une infraction de marquage, en appelant le nom spécifique de l’infraction.",
         "children": [
           {
             "id": "15.5.1.",
-            "text": "Cependant n'importe quel attaquant peut appeler *double team* et n’importe quel défenseur peut appeler une infraction de type *travel*."
+            "text": "Cependant n'importe quel [attaquant](#definitions-attaquant) peut appeler *double team* et n’importe quel [défenseur](#definitions-defenseur) peut appeler une infraction de type *travel*."
           }
         ]
       },
       {
         "id": "15.6.",
-        "text": "N'importe quel joueur adverse peut réclamer une violation, en appelant le nom spécifique de la violation ou *violation*, sauf indication contraire par la règle particulière."
+        "text": "N'importe quel [joueur](#definitions-joueur) adverse peut réclamer une violation, en appelant le nom spécifique de la violation ou *violation*, sauf indication contraire par la règle particulière."
       },
       {
         "id": "15.7.",
-        "text": "Quand un appel à la faute ou violation est fait ceci arrête le jeu, les joueurs doivent arrêter le jeu en communiquant l’interruption visuellement ou audiblement aussitôt qu'ils sont conscients de l'appel et tous les joueurs devraient relayer les appels sur le terrain. Si le jeu s'est arrêté pour une discussion sans qu'un *call* n'ait été fait, un *call* est considéré avoir eu lieu quand la discussion a commencé."
+        "text": "Quand un [appel](#definitions-call) à la faute ou violation est fait ceci arrête le jeu, les [joueurs](#definitions-joueur) doivent arrêter le [jeu](#definitions-jeu) en communiquant l’[interruption](#definitions-interruption_de_jeu) visuellement ou audiblement aussitôt qu'ils sont conscients de l'[appel](#definitions-call) et tous les [joueurs](#definitions-joueur) devraient relayer les [appels](#definitions-call) sur le terrain. Si le [jeu](#definitions-jeu) s'est arrêté pour une discussion sans qu'un *[call](#definitions-call)* n'ait été fait, un *[call](#definitions-call)* est considéré avoir eu lieu quand la discussion a commencé."
       },
       {
         "id": "15.8.",
-        "text": "Les appels doivent être faits immédiatement après que la transgression aux règles est reconnue."
+        "text": "Les [appels](#definitions-call) doivent être faits immédiatement après que la transgression aux règles est reconnue."
       },
       {
         "id": "15.9.",
-        "text": "Après qu'un joueur arrête le jeu de manière incorrecte incluant une mauvaise compréhension d'un appel, une mauvaise connaissance des règles ou en ne faisant pas l'appel immédiatement:",
+        "text": "Après qu'un [joueur](#definitions-joueur) arrête le [jeu](#definitions-jeu) de manière incorrecte incluant une mauvaise compréhension d'un appel, une mauvaise connaissance des règles ou en ne faisant pas l'[appel](#definitions-call) immédiatement:",
         "children": [
           {
             "id": "15.9.1.",
-            "text": "Si l'équipe adverse gagne ou maintient la possession, les actions ayant suivies sont maintenues"
+            "text": "Si l'équipe adverse gagne ou maintient la [possession](#definitions-possession_du_disque), les actions ayant suivies sont maintenues"
           },
           {
             "id": "15.9.2.",
-            "text": "Si l'équipe adverse perd ou ne maintient pas la possession, le disque doit être retourné au dernier lanceur non contesté, sauf si [16.3](#rule-16.3.) s'applique. Le compte reprend comme si une transgression acceptée avait été causée par le joueur qui a incorrectement initié l'arrêt."
+            "text": "Si l'équipe adverse perd ou ne maintient pas la [possession](#definitions-possession_du_disque), le disque doit être retourné au dernier [lanceur](#definitions-lanceur) non contesté, sauf si [16.3](#rule-16.3.) s'applique. Le compte reprend comme si une transgression acceptée avait été causée par le [joueur](#definitions-joueur) qui a incorrectement initié l'arrêt."
           }
         ]
       },
       {
         "id": "15.10.",
-        "text": "Si le joueur contre qui la faute, l'infraction ou la violation est appelée est en désaccord avec celle-ci, ou ne pense pas que c’est l’appel correct, il peut appeler *contest*."
+        "text": "Si le [joueur](#definitions-joueur) contre qui la faute, l'infraction ou la violation est appelée est en désaccord avec celle-ci, ou ne pense pas que c’est l’[appel](#definitions-call) correct, il peut appeler *contest*."
       },
       {
         "id": "15.11.",
-        "text": "Si un joueur fait un appel puis détermine ensuite que son appel était incorrect, il peut se rétracter en appelant *retracted*. Le compte reprend comme si une trasngression acceptée avait été causée par ce joueur."
+        "text": "Si un [joueur](#definitions-joueur) fait un [appel](#definitions-call) puis détermine ensuite que son [appel](#definitions-call) était incorrect, il peut se rétracter en appelant *retracted*. Le compte reprend comme si une trasngression acceptée avait été causée par ce [joueur](#definitions-joueur)."
       },
       {
         "id": "15.12.",
-        "text": "Si plusieurs trasngressions se produisent sur la même action ou avant que le jeu ne s'arrête, la résolution doit avoir lieu dans l'ordre inverse de la séquence (la transgression plus récente en premier, la plus ancienne en dernier)."
+        "text": "Si plusieurs trasngressions se produisent sur la même action ou avant que le [jeu](#definitions-jeu) ne s'arrête, la résolution doit avoir lieu dans l'ordre inverse de la séquence (la transgression plus récente en premier, la plus ancienne en dernier)."
       },
       {
         "id": "15.13.",
-        "text": "Les joueurs sont encouragés à utiliser les gestes (*Hand Signals*) de la WFDF pour communiquer tous les appels."
+        "text": "Les [joueurs](#definitions-joueur) sont encouragés à utiliser les gestes (*Hand Signals*) de la WFDF pour communiquer tous les appels."
       }
     ]
   },
@@ -1151,7 +1151,7 @@
     "children": [
       {
         "id": "16.1.",
-        "text": "Chaque fois qu'une faute ou violation est appelée, ou qu’un joueur essaye d’arrêter le jeu de quelque manière que ce soit, le jeu s'arrête immédiatement et aucun *turnover* n’est possible (sauf dans les situations spécifiées en [15.9](#rule-15.9.), [16.2](#rule-16.2.) et [16.3](#rule-16.3.))."
+        "text": "Chaque fois qu'une faute ou violation est appelée, ou qu’un [joueur](#definitions-joueur) essaye d’arrêter le [jeu](#definitions-jeu) de quelque manière que ce soit, le [jeu](#definitions-jeu) s'arrête immédiatement et aucun *[turnover](#definitions-turnover)* n’est possible (sauf dans les situations spécifiées en [15.9](#rule-15.9.), [16.2](#rule-16.2.) et [16.3](#rule-16.3.))."
       },
       {
         "id": "16.2.",
@@ -1159,31 +1159,31 @@
         "children": [
           {
             "id": "16.2.1.",
-            "text": "est appelée contre le lanceur et que le lanceur tente une passe, ou"
+            "text": "est appelée contre le [lanceur](#definitions-lanceur) et que le [lanceur](#definitions-lanceur) tente une passe, ou"
           },
           {
             "id": "16.2.2.",
-            "text": "est appelée par le lanceur pendant qu’il exécute un mouvement de lancer, ou"
+            "text": "est appelée par le [lanceur](#definitions-lanceur) pendant qu’il exécute un mouvement de [lancer](#definitions-lancer), ou"
           },
           {
             "id": "16.2.3.",
-            "text": "est appelée ou se produit quand le disque est en l’air, alors le jeu continue jusqu'à ce que la possession ait été établie."
+            "text": "est appelée ou se produit quand le disque est en l’air, alors le [jeu](#definitions-jeu) continue jusqu'à ce que la [possession](#definitions-possession_du_disque) ait été établie."
           },
           {
             "id": "16.2.4.",
-            "text": "Une fois la possession établie:",
+            "text": "Une fois la [possession](#definitions-possession_du_disque) établie:",
             "children": [
               {
                 "id": "16.2.4.1.",
-                "text": "si l'équipe qui a appelé la faute ou la violation gagne ou maintient la possession après la passe, le résultat de l’action est maintenu. Le jeu peut continuer sans arrêt de jeu si le joueur qui a fait l’appel annonce *play on* dès que possible."
+                "text": "si l'équipe qui a appelé la faute ou la violation gagne ou maintient la [possession](#definitions-possession_du_disque) après la passe, le résultat de l’action est maintenu. Le [jeu](#definitions-jeu) peut continuer sans arrêt de [jeu](#definitions-jeu) si le [joueur](#definitions-joueur) qui a fait l’[appel](#definitions-call) annonce *play on* dès que possible."
               },
               {
                 "id": "16.2.4.2.",
-                "text": "Si l'équipe qui a appelé la faute ou la violation ne gagne pas ou ne maintient pas la possession après la passe, le jeu doit être arrêté.",
+                "text": "Si l'équipe qui a appelé la faute ou la violation ne gagne pas ou ne maintient pas la [possession](#definitions-possession_du_disque) après la passe, le [jeu](#definitions-jeu) doit être arrêté.",
                 "children": [
                   {
                     "id": "16.2.4.2.1.",
-                    "text": "Si l'équipe qui a appelé la faute ou la violation pense que la possession a été affectée par la faute ou la violation, le disque sera retourné au lanceur pour un *check* (sauf si la règle spécifique indique autre chose)."
+                    "text": "Si l'équipe qui a appelé la faute ou la violation pense que la [possession](#definitions-possession_du_disque) a été [affectée](#definitions-affecter_le_jeu) par la faute ou la violation, le disque sera retourné au [lanceur](#definitions-lanceur) pour un *check* (sauf si la règle spécifique indique autre chose)."
                   }
                 ]
               }
@@ -1193,7 +1193,7 @@
       },
       {
         "id": "16.3.",
-        "text": "Quel que soit le moment de l'appel, si les joueurs impliqués des deux équipes s'accordent sur le fait que l’incident n'a pas affecté le résultat de l'action, ce résultat est maintenu. Cette règle ne peut être supplantée par aucune autre.",
+        "text": "Quel que soit le moment de l'appel, si les [joueurs](#definitions-joueur) impliqués des deux équipes s'accordent sur le fait que l’incident n'a pas [affecté](#definitions-affecter_le_jeu) le résultat de l'action, ce résultat est maintenu. Cette règle ne peut être supplantée par aucune autre.",
         "children": [
           {
             "id": "16.3.1.",
@@ -1201,7 +1201,7 @@
           },
           {
             "id": "16.3.2.",
-            "text": "Si le résultat n'était pas un point marqué, les joueurs affectés peuvent réajuster leurs placements désavantageux provoqués par l’incident et le jeu reprend par un *check*."
+            "text": "Si le résultat n'était pas un point marqué, les [joueurs](#definitions-joueur) affectés peuvent réajuster leurs placements désavantageux provoqués par l’incident et le [jeu](#definitions-jeu) reprend par un *check*."
           }
         ]
       }
@@ -1217,7 +1217,7 @@
         "children": [
           {
             "id": "17.1.1.",
-            "text": "Les actions montrant un mépris imprudent pour la sécurité des autres joueurs, ou posant un risque important de blessure pour les autres joueurs, ou d'autres comportements dangereusement agressifs, sont considérées comme un jeu dangereux et doivent être traitées comme une faute, qu’un contact se produise ou non. Cette règle n'est remplacée par aucune autre règle de faute. Si l'appel de jeu dangereux est accepté, cela doit être traité comme la faute la plus pertinente de la section [17.](#rule-17.)"
+            "text": "Les actions montrant un mépris imprudent pour la sécurité des autres [joueurs](#definitions-joueur), ou posant un risque important de blessure pour les autres [joueurs](#definitions-joueur), ou d'autres comportements dangereusement agressifs, sont considérées comme un jeu dangereux et doivent être traitées comme une faute, qu’un contact se produise ou non. Cette règle n'est remplacée par aucune autre règle de faute. Si l'[appel](#definitions-call) de jeu dangereux est accepté, cela doit être traité comme la faute la plus pertinente de la section [17.](#rule-17.)"
           }
         ]
       },
@@ -1227,7 +1227,7 @@
         "children": [
           {
             "id": "17.2.1.",
-            "text": "Une faute de réception se produit quand un joueur initie un contact non mineur avec un adversaire avant, pendant, ou directement après que l'un ou l'autre des joueurs fasse une action sur le disque.",
+            "text": "Une faute de réception se produit quand un [joueur](#definitions-joueur) initie un contact non mineur avec un adversaire avant, pendant, ou directement après que l'un ou l'autre des [joueurs](#definitions-joueur) fasse une [action sur le disque](#definitions-faire_action_sur_le_disque).",
             "children": [
               {
                 "id": "17.2.1.1.",
@@ -1237,7 +1237,7 @@
           },
           {
             "id": "17.2.2.",
-            "text": "Après une faute de réception acceptée le joueur ayant subi la faute gagne la possession à l’endroit de la transgression même si cet endroit est dans une zone d’en-but, et le jeu reprend par un *check*. Si, après le *check* [14.3](#rule-14.3.) s'applique, le compte ne peut pas démarrer tant qu'un point pivot n’est pas établi à l’endroit le plus proche sur la ligne de but. Si la faute est contestée, le disque est retourné au lanceur."
+            "text": "Après une faute de réception acceptée le [joueur](#definitions-joueur) ayant subi la faute gagne la [possession](#definitions-possession_du_disque) à l’endroit de la transgression même si cet endroit est dans une zone d’[en-but](#definitions-en-but), et le [jeu](#definitions-jeu) reprend par un *check*. Si, après le *check* [14.3](#rule-14.3.) s'applique, le compte ne peut pas démarrer tant qu'un [point du pivot](#definitions-endroit_du_pivot) n’est pas établi à l’endroit le plus proche sur la [ligne de but](#definitions-ligne_de_but). Si la faute est contestée, le disque est retourné au [lanceur](#definitions-lanceur)."
           }
         ]
       },
@@ -1247,7 +1247,7 @@
         "children": [
           {
             "id": "17.3.1.",
-            "text": "Un *strip* se produit lorsqu’un adversaire commet une faute sur un joueur et que cela a pour conséquence que ce joueur laisse tomber le disque qu’il a attrapé ou qu’il en perde la possession."
+            "text": "Un *strip* se produit lorsqu’un adversaire commet une faute sur un [joueur](#definitions-joueur) et que cela a pour conséquence que ce [joueur](#definitions-joueur) laisse tomber le disque qu’il a attrapé ou qu’il en perde la [possession](#definitions-possession_du_disque)."
           },
           {
             "id": "17.3.2.",
@@ -1261,7 +1261,7 @@
         "children": [
           {
             "id": "17.4.1.",
-            "text": "Une faute de blocage se produit quand un joueur prend une position qu’un adversaire se déplaçant de manière légale ne pourra éviter et résulte en un contact non mineur, en tenant compte de la position attendue de l'adversaire en fonction de sa vitesse et de sa direction. Cela doit être traité comme une faute de réception ou une faute indirecte, selon le cas applicable."
+            "text": "Une faute de blocage se produit quand un [joueur](#definitions-joueur) prend une position qu’un adversaire se déplaçant de manière légale ne pourra éviter et résulte en un contact non mineur, en tenant compte de la position attendue de l'adversaire en fonction de sa vitesse et de sa direction. Cela doit être traité comme une faute de réception ou une faute indirecte, selon le cas applicable."
           }
         ]
       },
@@ -1271,47 +1271,47 @@
         "children": [
           {
             "id": "17.5.1.",
-            "text": "Une faute d’expulsion se produit quand un réceptionneur est en train d’établir la possession du disque et subit une faute d’un défenseur avant d’établir la possession et le contact a fait que le réceptionneur:",
+            "text": "Une faute d’expulsion se produit quand un [réceptionneur](#definitions-receptionneurs) est en train d’établir la [possession du disque](#definitions-possession_du_disque) et subit une faute d’un [défenseur](#definitions-defenseur) avant d’établir la [possession](#definitions-possession_du_disque) et le contact a fait que le [réceptionneur](#definitions-receptionneurs):",
             "children": [
               {
                 "id": "17.5.1.1.",
-                "text": "est devenu hors-limites au lieu de en-jeu; ou"
+                "text": "est devenu [hors-limites](#definitions-hors-limites) au lieu de en-jeu; ou"
               },
               {
                 "id": "17.5.1.2.",
-                "text": "a attrapé le disque dans la zone centrale au lieu de l’intérieur de l’en-but attaqué."
+                "text": "a attrapé le disque dans la [zone centrale](#definitions-zone_centrale) au lieu de l’intérieur de l’[en-but attaqué](#definitions-en-but_attaque)."
               }
             ]
           },
           {
             "id": "17.5.2.",
-            "text": "Dans le cas où le réceptionneur aurait attrapé le disque à l’intérieur de l’en-but attaqué, il y a point;"
+            "text": "Dans le cas où le [réceptionneur](#definitions-receptionneurs) aurait attrapé le disque à l’intérieur de l’[en-but attaqué](#definitions-en-but_attaque), il y a point;"
           },
           {
             "id": "17.5.3.",
-            "text": "Si la faute d’expulsion est contestée, le disque est retourné au lanceur si le réceptionneur est devenu hors-limites, sinon le disque est conservé par le réceptionneur."
+            "text": "Si la faute d’expulsion est contestée, le disque est retourné au [lanceur](#definitions-lanceur) si le [réceptionneur](#definitions-receptionneurs) est devenu [hors-limites](#definitions-hors-limites), sinon le disque est conservé par le [réceptionneur](#definitions-receptionneurs)."
           }
         ]
       },
       {
         "id": "17.6.",
-        "text": "Fautes de Lancer Défensives (marquage):",
+        "text": "Fautes de [Lancer](#definitions-lancer) Défensives (marquage):",
         "children": [
           {
             "id": "17.6.1.",
-            "text": "Une faute de lancer défensive se produit quand:",
+            "text": "Une faute de [lancer](#definitions-lancer) défensive se produit quand:",
             "children": [
               {
                 "id": "17.6.1.1.",
-                "text": "un défenseur est illégalement placé (Section [18.1](#rule-18.1.) ) et qu’il y a contact non mineur entre le défenseur positionné illégalement et le lanceur; ou"
+                "text": "un [défenseur](#definitions-defenseur) est illégalement placé (Section [18.1](#rule-18.1.) ) et qu’il y a contact non mineur entre le [défenseur](#definitions-defenseur) positionné illégalement et le [lanceur](#definitions-lanceur); ou"
               },
               {
                 "id": "17.6.1.2.",
-                "text": "un défenseur initie un contact non mineur avec le lanceur ou qu'un contact non mineur résulte du lanceur et du défenseur essayant tout deux d'occuper une position libre, avant que le disque ne soit relâché."
+                "text": "un [défenseur](#definitions-defenseur) initie un contact non mineur avec le [lanceur](#definitions-lanceur) ou qu'un contact non mineur résulte du [lanceur](#definitions-lanceur) et du [défenseur](#definitions-defenseur) essayant tout deux d'occuper une position libre, avant que le disque ne soit relâché."
               },
               {
                 "id": "17.6.1.3.",
-                "text": "Si une faute de lancer défensive se produit avant que le lanceur relâche le disque et non pendant le mouvement du lancer, le lanceur peut choisir d'appeler une infraction de contact, en appelant *contact*. Après une infraction de contact non contestée, le jeu ne s'arrête pas et le marqueur doit reprendre le compte à un (1)."
+                "text": "Si une faute de [lancer](#definitions-lancer) défensive se produit avant que le [lanceur](#definitions-lanceur) relâche le disque et non pendant le [mouvement du lancer](#definitions-mouvement_du_lancer), le [lanceur](#definitions-lanceur) peut choisir d'appeler une infraction de contact, en appelant *contact*. Après une infraction de contact non contestée, le [jeu](#definitions-jeu) ne s'arrête pas et le [marqueur](#definitions-marqueur) doit reprendre le compte à un (1)."
               }
             ]
           }
@@ -1319,15 +1319,15 @@
       },
       {
         "id": "17.7.",
-        "text": "Fautes de Lancer Offensives (lanceur):",
+        "text": "Fautes de [lancer](#definitions-lancer) Offensives ([lanceur](#definitions-lanceur)):",
         "children": [
           {
             "id": "17.7.1.",
-            "text": "Une faute de lancer offensive se produit quand le lanceur est seul responsable de l’initiation d’un contact non mineur avec un défenseur en position légitime."
+            "text": "Une faute de [lancer](#definitions-lancer) offensive se produit quand le [lanceur](#definitions-lanceur) est seul responsable de l’initiation d’un contact non mineur avec un [défenseur](#definitions-defenseur) en [position légitime](#definitions-position_legitime)."
           },
           {
             "id": "17.7.2.",
-            "text": "Un contact se produisant dans la continuité du lancer n'est pas une condition suffisante pour appeler une faute, mais devrait être évité."
+            "text": "Un contact se produisant dans la continuité du [lancer](#definitions-lancer) n'est pas une condition suffisante pour appeler une faute, mais devrait être évité."
           }
         ]
       },
@@ -1337,11 +1337,11 @@
         "children": [
           {
             "id": "17.8.1.",
-            "text": "Une faute indirecte se produit quand il y a contact non mineur entre un réceptionneur et un défenseur qui n'affecte pas directement une tentative d'action sur le disque."
+            "text": "Une faute indirecte se produit quand il y a contact non mineur entre un [réceptionneur](#definitions-receptionneurs) et un [défenseur](#definitions-defenseur) qui n'[affecte](#definitions-affecter_le_jeu) pas directement une tentative d'[action sur le disque](#definitions-faire_action_sur_le_disque)."
           },
           {
             "id": "17.8.2.",
-            "text": "Si la faute est acceptée, le joueur ayant subi la faute peut se repositionner s’il a été désavantagé par la faute."
+            "text": "Si la faute est acceptée, le [joueur](#definitions-joueur) ayant subi la faute peut se repositionner s’il a été désavantagé par la faute."
           }
         ]
       },
@@ -1351,7 +1351,7 @@
         "children": [
           {
             "id": "17.9.1.",
-            "text": "Si des fautes acceptées sont appelées par un attaquant et un défenseur sur la même action celles-ci sont des fautes simultanées (*Offsetting Fouls*) et le disque doit être retourné au dernier lanceur incontesté."
+            "text": "Si des fautes acceptées sont appelées par un [attaquant](#definitions-attaquant) et un [défenseur](#definitions-defenseur) sur la même action celles-ci sont des fautes simultanées (*Offsetting Fouls*) et le disque doit être retourné au dernier [lanceur](#definitions-lanceur) incontesté."
           },
           {
             "id": "17.9.2.",
@@ -1359,7 +1359,7 @@
             "children": [
               {
                 "id": "17.9.2.1.",
-                "text": "Cependant, si cela se produit après que le disque a été attrapé, ou après que le ou les joueurs concernés ne peuvent plus jouer le disque, cela doit être traité comme une faute indirecte (à l'exclusion du contact lié à la section [17.1](#rule-17.1.))."
+                "text": "Cependant, si cela se produit après que le disque a été attrapé, ou après que le ou les [joueurs](#definitions-joueur) concernés ne peuvent plus jouer le disque, cela doit être traité comme une faute indirecte (à l'exclusion du contact lié à la section [17.1](#rule-17.1.))."
               }
             ]
           }
@@ -1381,7 +1381,7 @@
             "children": [
               {
                 "id": "18.1.1.1.",
-                "text": "*Fast Count* (compte rapide) – le marqueur:",
+                "text": "*Fast Count* (compte rapide) – le [marqueur](#definitions-marqueur):",
                 "children": [
                   {
                     "id": "18.1.1.1.1.",
@@ -1407,47 +1407,47 @@
               },
               {
                 "id": "18.1.1.2.",
-                "text": "*Straddle* (chevauchement) – une ligne entre les pieds d'un défenseur si situe à moins d’un diamètre de disque du point pivot du lanceur."
+                "text": "*Straddle* (chevauchement) – une ligne entre les pieds d'un [défenseur](#definitions-defenseur) si situe à moins d’un diamètre de disque du [point du pivot](#definitions-endroit_du_pivot) du [lanceur](#definitions-lanceur)."
               },
               {
                 "id": "18.1.1.3.",
-                "text": "*Disc Space* (distance) – n'importe quelle partie d'un défenseur est à moins d'un diamètre de disque du torse du lanceur. Cependant, si cette situation est causée uniquement par le mouvement du lanceur, ce n'est pas une infraction."
+                "text": "*Disc Space* (distance) – n'importe quelle partie d'un [défenseur](#definitions-defenseur) est à moins d'un diamètre de disque du torse du [lanceur](#definitions-lanceur). Cependant, si cette situation est causée uniquement par le [mouvement du lanceur](#definitions-mouvement_du_lancer), ce n'est pas une infraction."
               },
               {
                 "id": "18.1.1.4.",
-                "text": "*Wrapping* (encerclement) – une ligne entre les mains ou bras du défenseur si situe à moins d’un diamètre de disque du torse du lanceur ou qu'une partie du corps du défenseur est au- dessus du point pivot du lanceur. Cependant, si cette situation est causée uniquement par le mouvement du lanceur, ce n'est pas une infraction."
+                "text": "*Wrapping* (encerclement) – une ligne entre les mains ou bras du [défenseur](#definitions-defenseur) si situe à moins d’un diamètre de disque du torse du [lanceur](#definitions-lanceur) ou qu'une partie du corps du [défenseur](#definitions-defenseur) est au- dessus du [point du pivot](#definitions-endroit_du_pivot) du [lanceur](#definitions-lanceur). Cependant, si cette situation est causée uniquement par le [mouvement du lanceur](#definitions-mouvement_du_lancer), ce n'est pas une infraction."
               },
               {
                 "id": "18.1.1.5.",
-                "text": "*Double Team* (double marquage) - un défenseur autre que le marqueur est à moins de trois (3) mètres du point pivot du lanceur sans être au marquage d'un autre attaquant. Cependant une simple course dans cette zone n'est pas un *double team*."
+                "text": "*Double Team* (double marquage) - un [défenseur](#definitions-defenseur) autre que le [marqueur](#definitions-marqueur) est à moins de trois (3) mètres du [point du pivot](#definitions-endroit_du_pivot) du [lanceur](#definitions-lanceur) sans être au marquage d'un autre [attaquant](#definitions-attaquant). Cependant une simple course dans cette zone n'est pas un *double team*."
               },
               {
                 "id": "18.1.1.6.",
-                "text": "*Vision* - un défenseur utilise intentionnellement une partie de son corps pour obstruer la vision du lanceur."
+                "text": "*Vision* - un [défenseur](#definitions-defenseur) utilise intentionnellement une partie de son corps pour obstruer la vision du [lanceur](#definitions-lanceur)."
               }
             ]
           },
           {
             "id": "18.1.2.",
-            "text": "Une infraction de marquage peut être contestée par la défense, dans ce cas le jeu s'arrête.",
+            "text": "Une infraction de marquage peut être contestée par la défense, dans ce cas le [jeu](#definitions-jeu) s'arrête.",
             "children": [
               {
                 "id": "18.1.2.1.",
-                "text": "Si une passe a été réceptionnée, une infraction de marquage contestée ou rétractée doit être traitée comme une violation par l’attaque, et le disque doit être retourné au lanceur."
+                "text": "Si une passe a été réceptionnée, une infraction de marquage contestée ou rétractée doit être traitée comme une violation par l’attaque, et le disque doit être retourné au [lanceur](#definitions-lanceur)."
               }
             ]
           },
           {
             "id": "18.1.3.",
-            "text": "Après toute infraction de marquage listée en [18.1.1](#rule-18.1.1.) et non contestée, le marqueur doit reprendre le au compte au dernier nombre entièrement prononcé avant l'appel moins un (1)."
+            "text": "Après toute infraction de marquage listée en [18.1.1](#rule-18.1.1.) et non contestée, le [marqueur](#definitions-marqueur) doit reprendre le au compte au dernier nombre entièrement prononcé avant l'[appel](#definitions-call) moins un (1)."
           },
           {
             "id": "18.1.4.",
-            "text": "Le marqueur ne peut pas reprendre le compte tant qu’il n’a pas repris une position légitime. Dans le cas contraire c’est une nouvelle infraction de marquage."
+            "text": "Le [marqueur](#definitions-marqueur) ne peut pas reprendre le compte tant qu’il n’a pas repris une [position légitime](#definitions-position_legitime). Dans le cas contraire c’est une nouvelle infraction de marquage."
           },
           {
             "id": "18.1.5.",
-            "text": "Au lieu d'appeler une infraction de marquage, le lanceur peut appeler une violation de marquage et stopper le jeu si:",
+            "text": "Au lieu d'appeler une infraction de marquage, le [lanceur](#definitions-lanceur) peut appeler une violation de marquage et stopper le [jeu](#definitions-jeu) si:",
             "children": [
               {
                 "id": "18.1.5.1.",
@@ -1469,7 +1469,7 @@
           },
           {
             "id": "18.1.6.",
-            "text": "Si une infraction de marquage ou une violation de marquage est appelée et que le lanceur tente une passe avant pendant ou après le *call*, l'appel n'a aucune conséquence (sauf si [18.1.2.1](#rule-18.1.2.1.) s’applique) et si la passe n'est pas attrapée le *turnover* est maintenu."
+            "text": "Si une infraction de marquage ou une violation de marquage est appelée et que le [lanceur](#definitions-lanceur) tente une passe avant pendant ou après le *[call](#definitions-call)*, l'[appel](#definitions-call) n'a aucune conséquence (sauf si [18.1.2.1](#rule-18.1.2.1.) s’applique) et si la passe n'est pas attrapée le *[turnover](#definitions-turnover)* est maintenu."
           }
         ]
       },
@@ -1479,15 +1479,15 @@
         "children": [
           {
             "id": "18.2.1.",
-            "text": "Le lanceur peut faire une passe à tout moment tant qu’il est entièrement dans l’aire de jeu ou a établi un point pivot dans l’aire de jeu."
+            "text": "Le [lanceur](#definitions-lanceur) peut faire une passe à tout moment tant qu’il est entièrement dans l’[aire de Jeu](#definitions-aire_de_jeu) ou a établi un [point du pivot](#definitions-endroit_du_pivot) dans l’[aire de Jeu](#definitions-aire_de_jeu)."
           },
           {
             "id": "18.2.2.",
-            "text": "Après avoir attrapé le disque le lanceur doit réduire sa vitesse aussi rapidement que possible, sans changer de direction, jusqu'à ce qu'il ait établi un point pivot.",
+            "text": "Après avoir attrapé le disque le [lanceur](#definitions-lanceur) doit réduire sa vitesse aussi rapidement que possible, sans changer de direction, jusqu'à ce qu'il ait établi un [point du pivot](#definitions-endroit_du_pivot).",
             "children": [
               {
                 "id": "18.2.2.1.",
-                "text": "Cependant, si un joueur attrape le disque en courant ou en sautant, le joueur peut faire une passe sans réduire sa vitesse et sans établir de point pivot, à condition:",
+                "text": "Cependant, si un [joueur](#definitions-joueur) attrape le disque en courant ou en sautant, le [joueur](#definitions-joueur) peut faire une passe sans réduire sa vitesse et sans établir de [point du pivot](#definitions-endroit_du_pivot), à condition:",
                 "children": [
                   {
                     "id": "18.2.2.1.1.",
@@ -1495,7 +1495,7 @@
                   },
                   {
                     "id": "18.2.2.1.2.",
-                    "text": "qu’un maximum de deux points de contact avec le sol supplémentaires soient établis après le *catch* et avant qu'il ne lâche le disque."
+                    "text": "qu’un maximum de deux points de [contact avec le sol](#definitions-contact_avec_le_sol) supplémentaires soient établis après le *[catch](#definitions-catch)* et avant qu'il ne lâche le disque."
                   }
                 ]
               }
@@ -1503,15 +1503,15 @@
           },
           {
             "id": "18.2.3.",
-            "text": "Le lanceur peut bouger dans toutes les directions (*pivoter*) uniquement en établissant un *point pivot*, qui est un point précis du sol avec lequel une partie de son corps demeure en contact permanent jusqu’à ce que le disque soit lancé."
+            "text": "Le [lanceur](#definitions-lanceur) peut bouger dans toutes les directions ([pivoter](#definitions-pivoter)) uniquement en établissant un [point du pivot](#definitions-endroit_du_pivot), qui est un point précis du [sol](#definitions-sol) avec lequel une partie de son corps demeure en contact permanent jusqu’à ce que le disque soit lancé."
           },
           {
             "id": "18.2.4.",
-            "text": "Un lanceur qui n'est pas debout peut utiliser n'importe quelle partie de son corps comme point de pivot.",
+            "text": "Un [lanceur](#definitions-lanceur) qui n'est pas debout peut utiliser n'importe quelle partie de son corps comme point de pivot.",
             "children": [
               {
                 "id": "18.2.4.1.",
-                "text": "S’il se lève il ne s'agit pas d'un *travel*, du moment qu'il établit un point pivot au même endroit."
+                "text": "S’il se lève il ne s'agit pas d'un *travel*, du moment qu'il établit un [point du pivot](#definitions-endroit_du_pivot) au même endroit."
               }
             ]
           },
@@ -1521,55 +1521,55 @@
             "children": [
               {
                 "id": "18.2.5.1.",
-                "text": "le lanceur établit un point pivot à un endroit incorrect y compris en ne réduisant pas sa vitesse le plus rapidement possible après un *catch* ou en changeant de direction après un *catch*;"
+                "text": "le [lanceur](#definitions-lanceur) établit un [point du pivot](#definitions-endroit_du_pivot) à un endroit incorrect y compris en ne réduisant pas sa vitesse le plus rapidement possible après un *[catch](#definitions-catch)* ou en changeant de direction après un *[catch](#definitions-catch)*;"
               },
               {
                 "id": "18.2.5.2.",
-                "text": "le lanceur fait une passe en infraction avec [18.2.2.1](#rule-18.2.2.1.);"
+                "text": "le [lanceur](#definitions-lanceur) fait une passe en infraction avec [18.2.2.1](#rule-18.2.2.1.);"
               },
               {
                 "id": "18.2.5.3.",
-                "text": "quand le lanceur doit se déplacer vers un endroit spécifié, le lanceur n'établit pas de point pivot avant la préparation ou de le début l’acte de lancer;"
+                "text": "quand le [lanceur](#definitions-lanceur) doit se déplacer vers un endroit spécifié, le [lanceur](#definitions-lanceur) n'établit pas de [point du pivot](#definitions-endroit_du_pivot) avant la préparation ou de le début l’acte de [lancer](#definitions-lancer);"
               },
               {
                 "id": "18.2.5.4.",
-                "text": "le lanceur ne maintient pas son point pivot établi jusqu’à ce que le disque soit relâché;"
+                "text": "le [lanceur](#definitions-lanceur) ne maintient pas son [point du pivot](#definitions-endroit_du_pivot) établi jusqu’à ce que le disque soit relâché;"
               },
               {
                 "id": "18.2.5.5.",
-                "text": "un joueur fait exprès de mal attraper le disque ou met du temps à bien le maîtriser dans le seul but de se déplacer dans une direction spécifique."
+                "text": "un [joueur](#definitions-joueur) fait exprès de mal attraper le disque ou met du temps à bien le maîtriser dans le seul but de se déplacer dans une direction spécifique."
               }
             ]
           },
           {
             "id": "18.2.6.",
-            "text": "Après qu’une infraction de *travel* acceptée est appelée, le jeu ne s’arrête pas.",
+            "text": "Après qu’une infraction de *travel* acceptée est appelée, le [jeu](#definitions-jeu) ne s’arrête pas.",
             "children": [
               {
                 "id": "18.2.6.1.",
-                "text": "Le lanceur établit un point pivot à l’endroit correct, comme indiqué par le joueur qui a appelé le *travel*. Ceci doit se produire sans délai de la part de l'un et l'autre des joueurs impliqués."
+                "text": "Le [lanceur](#definitions-lanceur) établit un [point du pivot](#definitions-endroit_du_pivot) à l’endroit correct, comme indiqué par le [joueur](#definitions-joueur) qui a appelé le *travel*. Ceci doit se produire sans délai de la part de l'un et l'autre des [joueurs](#definitions-joueur) impliqués."
               },
               {
                 "id": "18.2.6.2.",
-                "text": "Le compte est suspendu et le lanceur ne peut pas lancer le disque tant qu’un point pivot n’est pas établi à l’endroit correct."
+                "text": "Le compte est suspendu et le [lanceur](#definitions-lanceur) ne peut pas [lancer](#definitions-lancer) le disque tant qu’un [point du pivot](#definitions-endroit_du_pivot) n’est pas établi à l’endroit correct."
               },
               {
                 "id": "18.2.6.3.",
-                "text": "Le marqueur n’a pas besoin de dire *stalling* avant de reprendre le compte."
+                "text": "Le [marqueur](#definitions-marqueur) n’a pas besoin de dire *stalling* avant de reprendre le compte."
               }
             ]
           },
           {
             "id": "18.2.7.",
-            "text": "Si, après une infraction de *travel* mais avant la correction du point pivot, le lanceur fait une passe réceptionnée, l'équipe défensive peut appeler une violation de *travel*. Le jeu s'arrête et le disque est retourné au lanceur. Le lanceur doit retourner à l'endroit occupé au moment de l'infraction. Le jeu doit reprendre avec un *check*."
+            "text": "Si, après une infraction de *travel* mais avant la correction du [point du pivot](#definitions-endroit_du_pivot), le [lanceur](#definitions-lanceur) fait une passe réceptionnée, l'équipe défensive peut appeler une violation de *travel*. Le [jeu](#definitions-jeu) s'arrête et le disque est retourné au [lanceur](#definitions-lanceur). Le [lanceur](#definitions-lanceur) doit retourner à l'endroit occupé au moment de l'infraction. Le [jeu](#definitions-jeu) doit reprendre avec un *check*."
           },
           {
             "id": "18.2.8.",
-            "text": "Si, après une infraction de *travel*, le lanceur fait une passe non réceptionnée, le jeu continue."
+            "text": "Si, après une infraction de *travel*, le [lanceur](#definitions-lanceur) fait une passe non réceptionnée, le [jeu](#definitions-jeu) continue."
           },
           {
             "id": "18.2.9.",
-            "text": "Après une infraction de *travel* contestée où le lanceur n'a pas lancé le disque, le jeu est arrêté."
+            "text": "Après une infraction de *travel* contestée où le [lanceur](#definitions-lanceur) n'a pas lancé le disque, le [jeu](#definitions-jeu) est arrêté."
           }
         ]
       },
@@ -1579,25 +1579,25 @@
         "children": [
           {
             "id": "18.3.1.",
-            "text": "Si un défenseur guarde un attaquant et qu’il est gêné dans son mouvement vers/avec ce joueur par un autre joueur, le défenseur peut appeler *pick*. Cependant ce n'est pas un *pick* si le joueur défendu et le joueur bloquant font tous deux une action sur le disque.",
+            "text": "Si un [défenseur](#definitions-defenseur) [garde](#definitions-garder) un [attaquant](#definitions-attaquant) et qu’il est gêné dans son mouvement vers/avec ce [joueur](#definitions-joueur) par un autre [joueur](#definitions-joueur), le [défenseur](#definitions-defenseur) peut appeler *pick*. Cependant ce n'est pas un *pick* si le [joueur](#definitions-joueur) défendu et le [joueur](#definitions-joueur) bloquant font tous deux une [action sur le disque](#definitions-faire_action_sur_le_disque).",
             "children": [
               {
                 "id": "18.3.1.1.",
-                "text": "Avant de faire un appel de *pick*, le défenseur peut retarder son appel jusqu'à deux (2) secondes pour voir si l'obstruction va affecter le jeu."
+                "text": "Avant de faire un [appel](#definitions-call) de *pick*, le [défenseur](#definitions-defenseur) peut retarder son [appel](#definitions-call) jusqu'à deux (2) secondes pour voir si l'obstruction va [affecter le jeu](#definitions-affecter_le_jeu)."
               }
             ]
           },
           {
             "id": "18.3.2.",
-            "text": "Si le jeu est arrêté, le joueur gêné peut se déplacer à la position convenue qu’il aurait occupée si l'obstruction n’avait pas eu lieu sauf indication contraire."
+            "text": "Si le [jeu](#definitions-jeu) est arrêté, le [joueur](#definitions-joueur) gêné peut se déplacer à la position convenue qu’il aurait occupée si l'obstruction n’avait pas eu lieu sauf indication contraire."
           },
           {
             "id": "18.3.3.",
-            "text": "Tous les joueurs doivent faire des efforts raisonnables pour éviter les *picks*.",
+            "text": "Tous les [joueurs](#definitions-joueur) doivent faire des efforts raisonnables pour éviter les *picks*.",
             "children": [
               {
                 "id": "18.3.3.1.",
-                "text": "Durant n'importe quel arrêt de jeu des adversaires peuvent s'accorder pour légèrement modifier leur position afin d'éviter des *picks* potentiels. "
+                "text": "Durant n'importe quel arrêt de [jeu](#definitions-jeu) des adversaires peuvent s'accorder pour légèrement modifier leur position afin d'éviter des *picks* potentiels. "
               }
             ]
           }
@@ -1607,71 +1607,71 @@
   },
   {
     "id": "19.",
-    "text": "Interruptions de sécurité",
+    "text": "[Interruptions](#definitions-interruption_de_jeu) de sécurité",
     "children": [
       {
         "id": "19.1.",
-        "text": "Interruption pour Blessure (*Injury*)",
+        "text": "[Interruptions](#definitions-interruption_de_jeu) pour Blessure (*Injury*)",
         "children": [
           {
             "id": "19.1.1.",
-            "text": "Une interruption pour blessure, *injury*, peut être appelée par le joueur blessé ou tout autre joueur de l'équipe du blessé."
+            "text": "Une [interruption](#definitions-interruption_de_jeu) pour blessure, *injury*, peut être appelée par le [joueur](#definitions-joueur) blessé ou tout autre [joueur](#definitions-joueur) de l'équipe du blessé."
           },
           {
             "id": "19.1.2.",
-            "text": "Si la blessure n’a pas été causée par un adversaire, le joueur doit choisir d'être remplacé ou de faire prendre un temps-mort à sa propre équipe."
+            "text": "Si la blessure n’a pas été causée par un adversaire, le [joueur](#definitions-joueur) doit choisir d'être remplacé ou de faire prendre un temps-mort à sa propre équipe."
           },
           {
             "id": "19.1.3.",
-            "text": "Si la blessure a été causée par un adversaire, le joueur peut choisir de rester ou d'être remplacé"
+            "text": "Si la blessure a été causée par un adversaire, le [joueur](#definitions-joueur) peut choisir de rester ou d'être remplacé"
           },
           {
             "id": "19.1.4.",
-            "text": "Si le joueur blessé avait établi la possession du disque et qu’il l'a laissé tomber à cause de la blessure, ce joueur garde la possession du disque."
+            "text": "Si le [joueur](#definitions-joueur) blessé avait établi la [possession du disque](#definitions-possession_du_disque) et qu’il l'a laissé tomber à cause de la blessure, ce [joueur](#definitions-joueur) garde la [possession du disque](#definitions-possession_du_disque)."
           },
           {
             "id": "19.1.5.",
-            "text": "L'interruption pour blessure est considérée avoir été appelé au moment de la blessure, sauf si le joueur blessé choisi de continuer de jouer avant que l'interruption soit appelée."
+            "text": "L'[interruption](#definitions-interruption_de_jeu) pour blessure est considérée avoir été appelé au moment de la blessure, sauf si le [joueur](#definitions-joueur) blessé choisi de continuer de jouer avant que l'[interruption](#definitions-interruption_de_jeu) soit appelée."
           },
           {
             "id": "19.1.6.",
-            "text": "Si le disque était en l’air quand l'interruption a été appelée, le jeu continue jusqu'à ce qu’un joueur établisse la possession ou que le disque touche le sol. Si la blessure n'est pas la conséquence d'une faute par un adversaire, la complétion ou le *turnover* est maintenu et le jeu reprend à cet endroit après l’interruption."
+            "text": "Si le disque était en l’air quand l'[interruption](#definitions-interruption_de_jeu) a été appelée, le [jeu](#definitions-jeu) continue jusqu'à ce qu’un [joueur](#definitions-joueur) établisse la [possession](#definitions-possession_du_disque) ou que le disque touche le [sol](#definitions-sol). Si la blessure n'est pas la conséquence d'une faute par un adversaire, la complétion ou le *[turnover](#definitions-turnover)* est maintenu et le [jeu](#definitions-jeu) reprend à cet endroit après l’[interruption](#definitions-interruption_de_jeu)."
           }
         ]
       },
       {
         "id": "19.2.",
-        "text": "Interruption Technique (*Technical*)",
+        "text": "[Interruption](#definitions-interruption_de_jeu) Technique (*Technical*)",
         "children": [
           {
             "id": "19.2.1.",
-            "text": "Tout joueur qui identifie une condition qui met en danger les joueurs, y compris si un joueur a une blessure ouverte ou saignante, doit appeler une interruption technique en appelant *technical* ou *stop*. Le jeu doit s'arrêter immédiatement.",
+            "text": "Tout [joueur](#definitions-joueur) qui identifie une condition qui met en danger les [joueurs](#definitions-joueur), y compris si un [joueur](#definitions-joueur) a une blessure ouverte ou saignante, doit appeler une [interruption](#definitions-interruption_de_jeu) technique en appelant *technical* ou *stop*. Le [jeu](#definitions-jeu) doit s'arrêter immédiatement.",
             "children": [
               {
                 "id": "19.2.1.1.",
-                "text": "Un coéquipier, un entraîneur ou un officiel désigné doit alerter activement les joueurs de toute circonstance qui met en danger les joueurs."
+                "text": "Un coéquipier, un entraîneur ou un officiel désigné doit alerter activement les [joueurs](#definitions-joueur) de toute circonstance qui met en danger les [joueurs](#definitions-joueur)."
               },
               {
                 "id": "19.2.1.2.",
-                "text": "Un joueur qui a un problème concernant une blessure ouverte ou saignante a soixante-dix (70) secondes pour résoudre efficacement le problème. S'il a besoin de plus de temps pour résoudre le problème, il doit choisir soit d'être remplacé, soit de faire perdre un temps-mort à sa propre équipe."
+                "text": "Un [joueur](#definitions-joueur) qui a un problème concernant une blessure ouverte ou saignante a soixante-dix (70) secondes pour résoudre efficacement le problème. S'il a besoin de plus de temps pour résoudre le problème, il doit choisir soit d'être remplacé, soit de faire perdre un temps-mort à sa propre équipe."
               }
             ]
           },
           {
             "id": "19.2.2.",
-            "text": "Le lanceur peut appeler une interruption technique pendant le jeu pour remplacer un disque sévèrement endommagé."
+            "text": "Le [lanceur](#definitions-lanceur) peut appeler une [interruption](#definitions-interruption_de_jeu) technique pendant le [jeu](#definitions-jeu) pour remplacer un disque sévèrement endommagé."
           },
           {
             "id": "19.2.3.",
-            "text": "Après un appel d'interruption technique alors que le disque est en l’air, ou si le jeu s’est poursuivi sans en avoir pris connaissance:",
+            "text": "Après un [appel](#definitions-call) d'[interruption](#definitions-interruption_de_jeu) technique alors que le disque est en l’air, ou si le [jeu](#definitions-jeu) s’est poursuivi sans en avoir pris connaissance:",
             "children": [
               {
                 "id": "19.2.3.1.",
-                "text": "si l'appel ou le problème technique n'ont pas affecté le jeu, la passe réceptionnée ou le *turnover* est maintenu et le jeu reprend à cet endroit,"
+                "text": "si l'[appel](#definitions-call) ou le problème technique n'ont pas [affecté le jeu](#definitions-affecter_le_jeu), la passe réceptionnée ou le *[turnover](#definitions-turnover)* est maintenu et le [jeu](#definitions-jeu) reprend à cet endroit,"
               },
               {
                 "id": "19.2.3.2.",
-                "text": "si l'appel ou le problème technique ont affecté le jeu, le disque est retourné au lanceur."
+                "text": "si l'[appel](#definitions-call) ou le problème technique ont [affecté le jeu](#definitions-affecter_le_jeu), le disque est retourné au [lanceur](#definitions-lanceur)."
               }
             ]
           }
@@ -1679,11 +1679,11 @@
       },
       {
         "id": "19.3.",
-        "text": "Si un joueur est remplacé après une blessure ou à cause d’un équipement illégal ou défectueux, l'équipe adverse peut également choisir de remplacer un joueur.",
+        "text": "Si un [joueur](#definitions-joueur) est remplacé après une blessure ou à cause d’un équipement illégal ou défectueux, l'équipe adverse peut également choisir de remplacer un [joueur](#definitions-joueur).",
         "children": [
           {
             "id": "19.3.1.",
-            "text": "Les remplaçants reprennent l'état complet (position, possession, compte, etc...) des joueurs qu'ils remplacent."
+            "text": "Les remplaçants reprennent l'état complet (position, [possession](#definitions-possession_du_disque), compte, etc...) des [joueurs](#definitions-joueur) qu'ils remplacent."
           }
         ]
       }
@@ -1695,15 +1695,15 @@
     "children": [
       {
         "id": "20.1.",
-        "text": "Le joueur qui appelle un temps-mort doit former un *T* avec ses mains ou avec une main et le disque, et appeler *time-out* (*temps-mort*) vers les joueurs adversaires."
+        "text": "Le [joueur](#definitions-joueur) qui appelle un temps-mort doit former un *T* avec ses mains ou avec une main et le disque, et appeler *time-out* (*temps-mort*) vers les [joueurs](#definitions-joueur) adversaires."
       },
       {
         "id": "20.2.",
-        "text": "Après le début d'un point et avant que les deux équipes aient signalé être prête, un joueur de l'une ou l'autre des équipes peut appeler un temps-mort. Le temps-mort prolonge le temps entre le début du point et le *pull* suivant de soixante-quinze (75) secondes."
+        "text": "Après le début d'un point et avant que les deux équipes aient signalé être prête, un [joueur](#definitions-joueur) de l'une ou l'autre des équipes peut appeler un temps-mort. Le temps-mort prolonge le temps entre le début du point et le *[pull](#definitions-pull)* suivant de soixante-quinze (75) secondes."
       },
       {
         "id": "20.3.",
-        "text": "Après le *pull*, seul un lanceur ayant la possession d'un disque peut appeler un temps-mort. Le temps-mort commence quand le *T* est formé et dure soixante-quinze (75) secondes. Après ce type de temps-mort:",
+        "text": "Après le *[pull](#definitions-pull)*, seul un [lanceur](#definitions-lanceur) ayant la [possession d'un disque](#definitions-possession_du_disque) peut appeler un temps-mort. Le temps-mort commence quand le *T* est formé et dure soixante-quinze (75) secondes. Après ce type de temps-mort:",
         "children": [
           {
             "id": "20.3.1.",
@@ -1711,29 +1711,29 @@
           },
           {
             "id": "20.3.2.",
-            "text": "Le jeu reprend à l’endroit du pivot."
+            "text": "Le [jeu](#definitions-jeu) reprend à l’[endroit du pivot](#definitions-endroit_du_pivot)."
           },
           {
             "id": "20.3.3.",
-            "text": "Le lanceur doit rester le même."
+            "text": "Le [lanceur](#definitions-lanceur) doit rester le même."
           },
           {
             "id": "20.3.4.",
-            "text": "Tous les autres attaquants doivent établir une position immobile à l’endroit de leur choix."
+            "text": "Tous les autres [attaquants](#definitions-attaquant) doivent établir une position immobile à l’endroit de leur choix."
           },
           {
             "id": "20.3.5.",
-            "text": "Une fois que les attaquants ont choisi leur position, les défenseurs doivent établir une position immobile à l’endroit de leur choix."
+            "text": "Une fois que les [attaquants](#definitions-attaquant) ont choisi leur position, les [défenseurs](#definitions-defenseur) doivent établir une position immobile à l’endroit de leur choix."
           },
           {
             "id": "20.3.6.",
-            "text": "Le compte reprend à un maximum de neuf (9). Cependant si le marqueur a changé, le compte reprend à *stalling one (1)*."
+            "text": "Le compte reprend à un maximum de neuf (9). Cependant si le [marqueur](#definitions-marqueur) a changé, le compte reprend à *stalling one (1)*."
           }
         ]
       },
       {
         "id": "20.4.",
-        "text": "Si le lanceur appelle un temps-mort quand le jeu est vivant alors que son équipe n'en dispose plus, le jeu est arrêté. Le marqueur doit ajouter deux (2) secondes au compte qu'il aurait prononcé, avant de reprendre le jeu avec un *check*. Si ceci a comme conséquence un compte à dix (10) ou plus, c'est un *turnover* de type *stall-out*."
+        "text": "Si le [lanceur](#definitions-lanceur) appelle un temps-mort quand le [jeu](#definitions-jeu) est vivant alors que son équipe n'en dispose plus, le [jeu](#definitions-jeu) est arrêté. Le [marqueur](#definitions-marqueur) doit ajouter deux (2) secondes au compte qu'il aurait prononcé, avant de reprendre le [jeu](#definitions-jeu) avec un *check*. Si ceci a comme conséquence un compte à dix (10) ou plus, c'est un *[turnover](#definitions-turnover)* de type *stall-out*."
       }
     ]
   }

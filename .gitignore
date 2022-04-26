@@ -1,2 +1,7 @@
+# generated
+/src/_data/facts/
+/docs/data/facts/
+/_site
+
 /.idea/
 node_modules

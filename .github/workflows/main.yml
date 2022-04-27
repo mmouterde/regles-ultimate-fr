@@ -19,4 +19,4 @@ jobs:
           pip install -r mm/requirements.txt
           make mm_extract
           cd mm
-          MM_WEBHOOK_TOKEN=${{secrets.MM_WEBHOOK_TOKEN}} ./mm_publish.sh
+          ./mm_publish.sh

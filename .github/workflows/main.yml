@@ -1,6 +1,7 @@
 name: "MM BOT"
 
 on:
+  workflow_dispatch:
   schedule:
   # monday and thursday @7:00 am
   #- cron: "0 7 * * 1,4"

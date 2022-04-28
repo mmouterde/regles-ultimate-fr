@@ -1,6 +1,7 @@
 ---
 layout: mainLayout.njk
 ---
+
 # WFDF Règles de l'Ultimate 2021 - 2024 - Annotations officielles
 
 Version officielle effective au 01/01/2021
@@ -56,65 +57,76 @@ permission de USA Ultimate. Elles sont indiquées par un symbol +.
 ### 1. Esprit du jeu
 
 #### 1.1 transgression délibérée ou flagrante des règles (1.2.1.)
+
 Pour qu'une infraction soit considérée comme flagrante il faut qu'il s'agisse d'une infraction qui ne devrait
 pas se produire dans un jeu standard d'Ultimate, ou une pour laquelle il n'y a pas de justification raisonnable dans
 les règles.
 
 - Exemple 1 : Un défenseur commet un jeu dangereux flagrant entrainant une faute sur un receveur qui s’apprêtait à
-réceptionner le disque dans la zone d'en-but qu'il attaquait.
+  réceptionner le disque dans la zone d'en-but qu'il attaquait.
 
-  - Les capitaines peuvent choisir d'accepter le point ou que le receveur gagne la possession et reprenne depuis
-la ligne de la zone d'en-but.
+    - Les capitaines peuvent choisir d'accepter le point ou que le receveur gagne la possession et reprenne depuis
+      la ligne de la zone d'en-but.
 
 - Exemple 2 : Un lanceur marche délibérément pour contourner son défenseur et gagner du terrain face au vent lors du
-revirement (*turnover*).
+  revirement (*turnover*).
 
-  - les capitaines peuvent décider que l'endroit du revirement (*turnover*) se trouve à l'endroit effectif du
-lancer.
+    - les capitaines peuvent décider que l'endroit du revirement (*turnover*) se trouve à l'endroit effectif du
+      lancer.
 
 - Exemple 3 : Un défenseur commet intentionnellement un double marquage (*double team*) non justifié par un autre joueur
-offensif et fait une interception du disque au lancé (*block*).
-  - Les capitaines peuvent choisir de retourner le disque au lanceur.
+  offensif et fait une interception du disque au lancé (*block*).
+    - Les capitaines peuvent choisir de retourner le disque au lanceur.
 
 #### 1.2 Expliquer leur point de vue clairement et brièvement (1.3.4)
+
 C'est essentiel, pour un bon esprit du jeu, qu'un joueur soit préparé à expliquer brièvement, si besoin, la
 raison objective de son appel (*call*) ou de sa contestation.
 
 - Exemple 1 : Après avoir appelé un marché (*travel*), si on lui demande, le défenseur pourrait expliquer : "J'ai vu ton
-pied de pivot bouger alors que tu avais encore le disque en main."
-  - Pourquoi: La raison objective est une raison qui peut être soumis à validation. Il est clair que l'appel (*call*) n'est
-pas basé sur une émotion ou sur ce que le joueur espérait ou attendait, mais sur ce qu'il a effectivement observé.
-Si un joueur n'est pas raisonnablement certain de la raison objective, il ne doit pas faire l'appel (*call*).
-  - Extra : Les joueurs doivent être attentifs et compréhensifs aux problèmes de langues associées aux matchs
-internationaux,
-cependant, les adversaires doivent quand même être capables de communiquer, même par gestes, ce qu'ils ont vu. Les
-capitaines d'équipe et les autres joueurs devraient s'impliquer s'ils pensent que le joueur de leur équipe a tort ou ne
-se comporte pas correctement.
+  pied de pivot bouger alors que tu avais encore le disque en main."
+    - Pourquoi: La raison objective est une raison qui peut être soumis à validation. Il est clair que l'appel (*call*)
+      n'est
+      pas basé sur une émotion ou sur ce que le joueur espérait ou attendait, mais sur ce qu'il a effectivement observé.
+      Si un joueur n'est pas raisonnablement certain de la raison objective, il ne doit pas faire l'appel (*call*).
+    - Extra : Les joueurs doivent être attentifs et compréhensifs aux problèmes de langues associées aux matchs
+      internationaux,
+      cependant, les adversaires doivent quand même être capables de communiquer, même par gestes, ce qu'ils ont vu. Les
+      capitaines d'équipe et les autres joueurs devraient s'impliquer s'ils pensent que le joueur de leur équipe a tort
+      ou ne
+      se comporte pas correctement.
 
-####  1.3 Faire des appels à la faute (« call ») d'une manière cohérente au long d'un match (1.3.9.)
+#### 1.3 Faire des appels à la faute (« call ») d'une manière cohérente au long d'un match (1.3.9.)
 
 Les joueurs doivent faire des appels sans tenir compte du contexte du match. Ceci implique que les joueurs ne
-doivent pas commencer à faire plus d'appels simplement parce que la fin du match approche et que le score est serré.  
-- Exemple 1 : Si au début du match les marchés (*travels*) mineurs ne sont pas appelés, ils ne doivent pas être d'avantage
-appelés, plus tard dans le match.
+doivent pas commencer à faire plus d'appels simplement parce que la fin du match approche et que le score est serré.
+
+- Exemple 1 : Si au début du match les marchés (*travels*) mineurs ne sont pas appelés, ils ne doivent pas être
+  d'avantage
+  appelés, plus tard dans le match.
 
 #### 1.4 N'appeler que les infractions significative (1.3.10.)
+
 Les joueurs doivent avoir un degrés raisonnable de tolérance envers les infractions mineures impliquant des
 légères variations sur la distance et le temps.
+
 - Exemple 1 : Si un lanceur etablit un point pivot à un centimètre du l'endroit approprié alors le marché (*travel*) ne
-doit pas être appelé.
+  doit pas être appelé.
 
 #### 1.5 Intimidation (1.6.3.)
+
 Un joueur pourrait être considéré comme se livrant à un comportement intimidant si, par exemple,
 ils crient fort à un adversaire avec l'intention de distraire l'adversaire pendant qu'ils
 sont sur le point de attraper le disque. Entreprendre simplement une action normale dans le match, comme
 faire une injonction à quelqu'un, ne doit pas être considéré comme de l'intimidation.
 
 #### 1.6 célébrer un point de façon irrespectueuse (1.6.4.)
+
 Cela comprend le smash dirigé vers un adversaire et la raillerie de l'adversaire en leur "montrant" le disque. Ces
 actions doivent être évitées.
 
 #### 1.7 Demander l'avis d'un non joueur (1.10.2.)
+
 C'est toujours aux joueurs de faire l'appel. Les non joueurs ne doivent pas intervenir tant que les joueurs
 concerné ne le demande pas.
 Si le jeu a été arrêté et qu'un joueur n'est pas en mesure d'appeler la faute, par exemple à cause d'une blessure ou de
@@ -123,6 +135,7 @@ Les équipes peuvent faire intervenir un non joueur comme interprete pour aider 
 interruption.
 
 #### 1.8 Usage de technologie (1.10.)
+
 Les joueurs peuvent visionner des photos ou des vidéos d'un appel si cela est disponible.
 Cependant, le jeu ne peut pas être trop retarder pour cela. Voir l'*Annexe* pour plus de détails.
 
@@ -134,6 +147,7 @@ visionnant plusieurs fois la vidéo. Dans ce cas, le match doir reprendre comme 
 contestée. (+)
 
 #### 1.9 Les appels par les capitaines (1.11.)
+
 Un capitaine ne doit pas faire d'appel qui arrête le jeu si il n'est pas directement dans le jeu.
 Cependant un capitaine peut intervenir pour résoudre un appel qui a déjà arrété le jeu.
 
@@ -158,7 +172,154 @@ Cependant s'il devient clair qu'une telle résolution n'arrivera pas, le disque 
 contesté. La durée maximum suggérée pour une discussion lors d'une interuption est de quarante-cinq (45) secondes.
 Voir l'*Annexe* pour des compléments sur les règles concernant les durées.
 
-###  2. Le terrain
+### 2. Aire de jeu (2.1)
+
+L'aire de jeu est longue de cent (100) mètres et large de trente-sept (37) mètres. L'aire de jeu est découpée en une
+zone centrale de soixante-quatre mètres de long et deux zones d'enbut prodondent de
+dix-huit mètres à chaque extrémité de la zone centrale.
+
+Toutes les lignes ont une largeur comprises entre soixante-quinze (75) et cent-vingt (120) milimètres et tracées avec un
+produit non caustique.
+
+S'il n'y a pas assez d'espace pour tracer un terrain dans les bonnes dimensions, les zones d'enbut doivent être réduites
+avant la zone centrale. Voir l'*Annexe* pour plus de détails.
+
+S'il n'y a pas de lignes tracées et que les cônes utilisés pour matérialiser une ligne ne sont pas alignés,
+alors la limite est considérée comme étant la droite entre les deux cônes des zones d'enbut concernés.
+Par exemple, si un joueur est proche d'une ligne latérale dans la zone d'enbut, ceux sont les deux premiers cônes des
+deux zones
+d'en-but de ce coté du terrain qui sont concernés.
+Si un joueur est proche d'une ligne latérale dans une zone d'enbut, ceux sont les deux cônes de cette même zone
+d'en-but, de ce coté du terrain qui sont concernés.
+
+### 3. Equipement
+
+#### 3.1. Les équipements dangeureux ne doivent pas être portés. (3.4.)
+
+Ceci inclut les bracelets montre, les bracelets, les boucles et bijoux saillant.
+Les crampons métalliques, longs crampons, et crampons tranchant ne sont pas autorisés.
+
+#### 3.2. Les Équipements qui empêche un adversaire de jouer
+
+Ceci inclut les équipements surdimensionnés, longs tissus etc...
+Le type de gants habituellement portés par les joueurs d'Ultimate sont autorisés, mais ils ne doivent en aucune manière
+abimer le disque ou laisser de résidu sur le disque.
+
+### 4. Point et Jeu
+
+#### 4.1. Durée d'un match (4.2.)
+
+Un match peut aussi être jouer avec une limite de temps, voir l'*Annexe* pour plus de détails.
+
+#### 4.2. Mi-Temps (4.3.)
+
+Une mi-temps dure habituellement sept (7) minutes pour un match avec une limite de temps de cent (100) minutes.
+Voir l'*Annexe* pour plus de détails.
+
+### 5. Equipes
+
+#### 5.1. Matchs mixtes
+
+Dans un match mixte, où hommes et femmes jouent dans la même équipe, les deux équipes doivent avoir le même ratio
+Homme/Femme sur le terrain pour chaque point. Les modalités du choix du ratio, pour chaque point, peuvent être
+retrouvées en *Annexe*.
+
+#### 5.2. Rôle du capitaine d'équipe et du capitaine de l'esprit du jeu (5.2)
+
+Le capitaine d'équipe est un membre de l'équipe, qui peut participer au match, et qui a été désigné pour représenter son
+équipe dans les prises de décision, au nom de l'équipe, avant, pendant et après un match.
+
+Le capitaine de l'esprit du jeu est un membre de l'équipe, qui peut participer au match, et qui a été désigné pour
+prendre en
+charge, discuter et résoudre les problèmes lié à l'esprit du jeu lors de tous les points d'une compétition avec les
+adversaires, les joueurs, coachs et même un officiel.
+
+### 6. Commencer un match
+
+#### 6.1. Les représentants des équipes (6.1.)
+
+Les représentants des équipes doivent s'assurer qu'ils ont l'accord de leur équipe pour prendre les décisions décrites
+dans cette section.
+
+#### 6.2. Décident honnêtement (6.1.)
+
+Il est recommandé que les représentants des équipes utiliser la procédure décrite en *Annexe* pour décider honnêtement.
+
+### 7. Le « Pull » (Engagement)
+
+#### 7.1. Un délai raisonnable avant le pull (7.1.1.)
+
+Les activités suivantes sont considérées comme raisonable avant un pull :
+
+- célébrer un point
+- Déterminer qui jouera au prochain point
+- Déterminer les tactiques de l'équipe pour le point
+    - qui marque qui
+    - les positions offensives
+    - quelle type de défence et/ou attaque sera utilisée
+
+Pour avoir un ordre de grandeur, le pull devrait être lancé dans les soixante-quinze secondes après le début du
+point (qui commence au début de la mi-temps ou quand le point précédent est marqué).
+Voir l'*Annexe* pour plus de détails qui peuvent s'appliquer dans certaines compétitions.
+
+### 7.2. Le *puller* (7.2.)
+
+Le *puller* est un défenseur qui effectuera le Pull.
+L'équipe qui engage peut désigner un nouveau *puller* n'importe quand avant le pull (+)
+
+### 7.3 Lisibilité des signalements (7.3., 7.4.)
+
+L'attaque doit est légalement positionnée et tous les non-joueurs de l'équipe attaquante doivent être en dehors du
+terrain avant que l'attaque puisse officiellement se signaller prête.
+
+Tous les non-joueurs de l'équipe défensive doivent être en dehors du terrain avant que le pull ne soit lancé.
+
+### 7.4 Appeler *Offside* (Hors Jeu)
+
+Il est recommandé que l'équipe adverse avertisse le capitaine de l'équipe qui commet cette violation avant qu'elle se
+produise. L'équipe doit aussi prendre en compte que l'appel doit uniquement être fait si l'infraction est suffisamment
+significative pour faire une différence sur l'action à venir.
+
+L'hors-jeu ne peut être appelé que par les joueurs sur le terrain. Tout appel par un non-joueur n'a pas de effet.
+Cependant les non-joueurs peut aider à surveiller un hors-jeu et peut conseiller avec leur perspective.
+
+Un hors-jeu contesté interromp le jeu et nécessite de refaire l'engagement.
+Pour contester un appel d'hors-jeu, un joueur de l'équipe qui conteste doit avoir une perspective au moins aussi bonne
+que la personne qui fait l'appel. Si l'appel est fait avec l'aide d'un non-joueur, seule une personne placée de manière
+identique peut etre considéré comme ayant une meilleure perspective.
+
+### 7.5. Reprendre le jeu après un appel d'hors-jeu (7.5)
+
+Il n'y a pas de différence si une équipe a été reprise pour une violation d'offside pour la première fois ou s'ils
+ont été repris plusieurs fois, le résultat est le même.
+
+Même si une équipe a appelé un hors-jeu, il y a quand même un *dropped pull turnover* si l'attaque touche le disque
+avant qu'il ne touche le sol et qu'elle perd la possession du disque.
+
+Si les deux équipe appellent hors-jeu sur le même engagement les deux issues décrites par les règles 7.5.1 et 7.5.2
+s'appliquent.
+
+- Exemple 1 : La défense est hors-jeu et l'attaque appelle hors-jeu après que le disque ait été attrapé.
+    - L'appel de hors-jeu n'a aucune incidence et le jeu se poursuit comme si l'appel n'avait pas eu lieu
+- Exemple 2 : La défense est hors-jeu et l'attaque appelle hors-jeu puis le disque est attrapé par l'attaque
+    - L'appel de hors-jeu n'a aucune incidence et le jeu se poursuit comme si l'appel n'avait pas eu lieu
+- Exemple 3 : La défense est hors-jeu et l'attaque appelle hors-jeu puis le disque tombe au sol et s'arrete dans la zone
+  défendu par l'attaque
+    - L'attaque peut ramasser le disque et reprendre le jeu depuis le point de brick le plus proche de leur zone d'enbut
+      déffendu. Le Check n'est pas nécessaire.
+- Exemple 4 : L'attaque est hors-jeu et la défense appele hors-jeu une fois que l'attaque a attrapé le disque
+    - L'appel de hors-jeu n'a aucune incidence et le jeu se poursuit comme si l'appel n'avait pas eu lieu
+- Exemple 5 : 
+
+
+
+
+
+ 
+
+
+
+
 
 
 

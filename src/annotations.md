@@ -307,10 +307,78 @@ s'appliquent.
   défendu par l'attaque
     - L'attaque peut ramasser le disque et reprendre le jeu depuis le point de brick le plus proche de leur zone d'enbut
       déffendu. Le Check n'est pas nécessaire.
-- Exemple 4 : L'attaque est hors-jeu et la défense appele hors-jeu une fois que l'attaque a attrapé le disque
+- Exemple 4 : L'attaque est hors-jeu et la défense appelle hors-jeu une fois que l'attaque a attrapé le disque
     - L'appel de hors-jeu n'a aucune incidence et le jeu se poursuit comme si l'appel n'avait pas eu lieu
-- Exemple 5 : 
+- Exemple 5 : L'attaque est hors-jeu et la défense appelle hors-jeu alors que le disque est en l'air, puis le disque
+  tombe hors limites
+    - L'attaque peut encore appeler *brick*. Le lanceur établit son point pivot sur la marque de brick la plus proche
+      de la zone d'en-but qu'il défend. Tous les autres attaquant établissent une position stationnaire. La défense
+      établit une position stationnaire. Le disque est checké et le jeu reprend.
 
+Si un joueur fait un appel incorrecte à hors-jeu (en l'appelant après qu'il ait été touché par exemple ou l'attaque
+appelle hors-jeu et attrape le disque quand même) et que le jeu s'arrete pour discuter l'appel, les joueurs doivent
+retourner à la position qu'ils occupaient au moment de l'appel et reprendre le jeu par un check.
+
+### 7.6. Lors d'un engagement, la défense arrete le disque qui roule (7.7.)
+
+- Exemple 1 : Lors de l'engagement, le disque touche le sol et commence à rouler vers la zone défendue, un defenseur
+  arrete
+  le disque avant même qu'un attaquant y touche.
+    - La règle 8.4. autorise cette action. Si le défenseur repousse le disque vers la zone d'en-but de l'attaque, le
+      disque
+      peut être mis en jeu là où le disque a été touché. (8.4.1.)
+
+Lors de l'engagement, si le disque est toujours en l'air et que l'attaque n'y a pas encore touché, aucun défenseur ne
+peut y toucher, même si le vent le fait revenir en arrière. Si un défenseur le touche, l'attaque peut demander de
+refaire l'engagement. Si le disque atterit dans la zone d'en-but attaquée (ex: un engagement très court), l'attaque doit
+le prendre sur la ligne de l'en-but.
+N'importe quel attaquant peut également arreter le disque de rouler. Ce joueur n'est pas obligé de ramasser le disque
+après l'avoir arreté.
+
+### 7.7 Appel de *Brick*
+
+Si un attaquant signale et appele un *brick*, un autre attaquant peut ramasser le disque.
+Si un joueur qui a une bonne perspective sur le jeu n'est pas d'accord sur le caractère hors limite de l'engagement,
+le point situé au milieu des deux pivots proposés doit être utilisé.
+
+## 8. Etat du jeu
+
+### 8.1. Faire le mauvais appel
+
+- Exemple 1 : Un joueur signale une faute ou une violation et cri "stop" ou utilise le mauvais nom pour l'appel.
+    - L'appel doit être traité comme si le joueur avait fait le bon appel.
+      Pourquoi ? Il est clair que le joueur a objservé une infraction des règles. Ce qui prime sur sa connaissance
+      technique.
+
+Le joueur qui utilise le mauvais terme doit se faire un devoir d'apprendre le bon terme (règle 1.3.1) et les joueurs
+plus expérimenté doivent lui préciser l'appel à faire (règle 1.8.).
+
+### 8.2. Le disque touche le sol (8.1.4.)
+
+Un disque est considéré comme ayant touché le sol quand il entre en contact avec le sol et qu'aucun joueur le l'a
+attrappé avant son contact au sol ou quand, après une récepition, le joueur perd le controle du disque à cause d'un
+contact au sol.
+
+Lors d'un engagement ou d'un revirement (*turnover*) quand le disque tombe au sol dans le terrain,
+si un attaquant tente de ramasser le disque mais le disque lui échappe et tombe, ce n'est pas un revirement *turnover*,
+tant que l'attaquant n'a pas eu le controle complet sur le disque avant de lacher accidentellement le disque.
+
+### 8.3. Se déplacer pendant le jeu mort (8.1.5)
+
+Si après un revirement hors limite (*out-of-bound turnover*), le lanceur revient avec le disque vers le terrain de jeu,
+tous les joueurs peuvent se déplacer.
+
+### 8.4. Alterer significativement la position du disque (8.4.)
+
+Exemple 1 : En essayant d'arreter un disque qui roule, un joueur frappe le disque vers sa zone d'en-but attaqué.
+
+- L'adversaire peut demander à ce que le pivot soit établi là où le disque a été touché, en le verbalisant ou en
+  montrant l'emplacement correct. Le jeu ne s'arrete pas et un check n'est pas nécessaire pour recommencer à jouer (
+  comme pour une infraction de marché (règle 18.2.6.)).
+  Si c'est un attaquant qui a significativement altérer la position du disque, il ne doivent pas reprendre le pivot à
+  l'endroit où le disque a été touché sans que ce soit demandé par l'adversaire.
+
+### 8.5. Attendre au-dessus du disque après un revirement (*turnover*) (8.5.)
 
 
 

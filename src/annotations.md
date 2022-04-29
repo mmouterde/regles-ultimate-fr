@@ -62,10 +62,10 @@ Pour qu'une transgression des règles soit considérée comme flagrante il faut 
 règles qui ne devrait pas se produire dans un jeu standard d'Ultimate, ou une pour laquelle il n'y a pas de
 justification raisonnable dans les règles.
 
-- Exemple 1 : Un défenseur commet un jeu dangereux flagrant entrainant une faute sur un receveur qui s’apprêtait à
+- Exemple 1 : Un défenseur commet un jeu dangereux flagrant entrainant une faute sur un receptionneur qui s’apprêtait à
   réceptionner le disque dans la zone d'en-but qu'il attaquait.
 
-    - Les capitaines peuvent choisir d'accepter le point ou que le receveur gagne la possession et reprenne depuis
+    - Les capitaines peuvent choisir d'accepter le point ou que le receptionneur gagne la possession et reprenne depuis
       la ligne de la zone d'en-but.
 
 - Exemple 2 : Un lanceur marche délibérément pour contourner son défenseur et gagner du terrain face au vent lors du
@@ -355,7 +355,7 @@ plus expérimenté doivent lui préciser l'appel à faire (règle 1.8.).
 ### 8.2. Le disque touche le sol (8.1.4.)
 
 Un disque est considéré comme ayant touché le sol quand il entre en contact avec le sol et qu'aucun joueur le l'a
-attrappé avant son contact au sol ou quand, après une récepition, le joueur perd le controle du disque à cause d'un
+attrapé avant son contact au sol ou quand, après une récepition, le joueur perd le controle du disque à cause d'un
 contact au sol.
 
 Lors d'un engagement ou d'un revirement (*turnover*) quand le disque tombe au sol dans le terrain,
@@ -369,13 +369,13 @@ tous les joueurs peuvent se déplacer.
 
 ### 8.4. Alterer significativement la position du disque (8.4.)
 
-Exemple 1 : En essayant d'arreter un disque qui roule, un joueur frappe le disque vers sa zone d'en-but attaqué.
-
-- L'adversaire peut demander à ce que le pivot soit établi là où le disque a été touché, en le verbalisant ou en
-  montrant l'emplacement correct. Le jeu ne s'arrete pas et un check n'est pas nécessaire pour recommencer à jouer (
-  comme pour une infraction de marché (règle 18.2.6.)).
-  Si c'est un attaquant qui a significativement altérer la position du disque, il ne doivent pas reprendre le pivot à
-  l'endroit où le disque a été touché sans que ce soit demandé par l'adversaire.
+- Exemple 1 : En essayant d'arreter un disque qui roule, un joueur frappe le disque vers sa zone d'en-but attaqué.
+    - L'adversaire peut demander à ce que le pivot soit établi là où le disque a été touché, en le verbalisant ou en
+      montrant l'emplacement correct. Le jeu ne s'arrete pas et un check n'est pas nécessaire pour recommencer à jouer (
+      comme pour une infraction de marché (règle 18.2.6.)).
+      Si c'est un attaquant qui a significativement altérer la position du disque, il ne doivent pas reprendre le pivot
+      à
+      l'endroit où le disque a été touché sans que ce soit demandé par l'adversaire.
 
 ### 8.5. Attendre au-dessus du disque après un revirement (*turnover*) (8.5.)
 
@@ -553,6 +553,252 @@ Si un lanceur perd la possession du disque à cause d'un check au sol, il peut r
 
 Un joueur ne peut pas appeler une violation de check (10.7.) parce qu'un joueur de sa propre équipe est mal placé ou a
 bougé avant le *check*.
+
+## 11 "Out" Hors limite
+
+### 11.1. "Le Meilleur Jeu au monde" (11.3.1.)
+
+- Exemple 1 : Un attaquant réalise qu'il ne peut pas attraper le disque dans les limites et saute depuis l'intérieur
+  de l'aire de jeu, attrape le disque et le relance avant d'atterir en dehors de limites.
+    - C'est une passe valide, la règle 11.3.1 dit qu'un joueur en l'air qui à sauté depuis l'intérieur de l'aire de jeu
+      est
+      considéré dedans. C'est pourquoi le disque n'est pas "out". Un joueur peut lancer un disque en l'air d'après la
+      règle 18.2.1.
+
+Un joueur ne peut pas attraper son propre "meilleur" lancer sans que celui ci n'est pas touché par une autre joueur
+avant, d'après la règle 13.2.5.
+
+S'il y a une réception contestée après un "meilleur" lancer, le joueur qui a lancé le "meilleur" lancer est considéré
+comme le dernier lanceur. Il doit établir son point de pivot au plus proche de l'endroit où le disque à été laché (ou
+sur la ligne d'en-but si le pivot se trouve dans sa zone d'en-but attaquée).
+
+### 11.2. Qu'appeler en cas d'en-jeu ou hors-limites (11.4.)
+
+Si un adversaire considère qu'un attaquant a attraper le disque hors-limites il soit appeller immédiatement "
+Out-of-bounds" ou, plus court : "Out"
+
+"Regarde tes pieds" n'est pas un appel et n'arrete pas le jeu.
+
+Le joueur appelant un "Out" doit être raisonablement certain que le joueur est bien hors-limites, sans quoi il ne doit
+pas faire l'appel.
+
+Si ce n'est pas clair que le joueur était hors-limites alors le jeu doit s'arreter pour que les joueurs ayant la
+meilleur perspective discute de l'appel. Les joueurs peuvent demander aux personnes sur la touche, cpeendant c'est
+toujours aux joueurs concernés de prendre la décision finale. Si l'appel est contesté le disque doit revenir au lanceur
+précédent.
+
+Pour les matchs sur terrain non tracé, le réceptionneur doit avoir le bénéfice du doute pour les appels d'hors limites.
+
+### 11.3. Réception proche de la ligne du périmètre (11.4.)
+
+- Exemple 1: Un joueur attrape une passe très proche de la ligne puis sort et établit la possession.
+    - Tant que le joueur attrape la passe (en ayant un disque qui ne tourne plus entre au moins deux parties de son
+      corps) alors qu'il est en contact avec l'aire de jeu (et ne pas être en contact avec l'extérieur) c'est une
+      réception
+      dans dans le périmètre. La règles 11.3.2. précise qu'une fois qu'un joueur a attrapé le disque, ils peuvent sortir
+      de l'aire de jeu tant qu'il maintient le disque jusqu'à établir la possession.
+
+Si un joueur qui attrape le disque dans l'aire de jeu entre en contact avec l'extérieur puis échappe le disque avant d'
+établir la possession, c'est un revirement hors-limites (*out-of-bound turnover*) peut importe s'il regarde la
+possession avant que le disque ne touche le sol.
+
+### 11.4. Reception en contact avec l'extérieur de l'aire de jeu (11.4.)
+
+Si les pieds d'un receptionneur sont dans l'aire de jeu, mais que ses cheveux ou ses habits touchent le sol
+hors-limites, il est considéré hors-limites.
+
+### 11.5. Quitter l'aire de jeu (11.7.)
+
+Les joueurs peuvent quitter l'aire de jeu pour jouer le disque peut peuvent rentrer dans le terrain en tout point.
+Cependant, c'est un revirement (*turnover*) si un attaquant saute depuis l'extérieur et touche le disque avant d'être en
+contact avec l'aire de jeu (règles 11.3.1. 11.6 13.1.3).
+
+Ce n'est pas dans l'esprit du jeu de quitter intentionnellement l'aire de jeu et d'utiliser des joueurs ou des objets
+sur la touche pour se cacher.
+
+### 11.6. Le disque sort (11.8.)
+
+- Exemple 1 : Une longue passe depuis la ligne de touche ne revient pas dans le terrain. Où doit ont établir le point de
+  pivot pour reprendre le jeu ?
+    - Un defenseur est toujours dans l'aire de jeu quand fait une action sur le disque (11.2.). Ceci implique que si un
+      défenseur touche le disque à l'extérieur, le disque doit être joué depuis le point le plus proche dans la zone
+      centrale (11.8.2.). Si un défenseur touche le disque mais le vent le ramène dans le terrain, le jeu est vivant.
+    - Les attaquants peuvent sortir (11.6.). Ceci signifie que dans cette même situation, si l'attaque touche le disque
+      en premier alors il y a un revirement (*turnover*) et le disque revient là où il a croisé la ligne du périmètre (
+      le dernier endroit avant de sortir). (11.8.1.).
+    - Si un attaquant saute depuis l'aire de jeu et touche le disque avant d'atterir, alors le disque était dans l'aire
+      de jeu. Si le résultat de cette passe est un revirement (*turnover*), sans que le réceptionneur ne puisse établir
+      la possession, le disque doit repartir au point le plus proche de l'attaquant qui a touché le disque.
+    - Si un réceptionneur attrape la passe et lance en étant en l'air et le disque tombe dans l'air de jeu alors le
+      disque est revenue dans l'aire de jeu.
+
+Si les joueurs qui ont une bonne perspective sur le jeu ne sont pas d'accord sur l'endroit où le disque est sorti, le
+jeu doit reprendre au milieu des deux pivots possibles.
+
+Si un défenseur saute, intercepte une passe et atterit en dehors de l'aire de jeu ce n'est pas un double revirement (*
+turnover*), le
+défenseur conserve la possession.
+
+### 11.7. Un non-joueur ramène un disque sorti (11.9.)
+
+- Exemple 1 : Un non-joueur ramène un disque qui est sorti et le donne au lanceur qui attend sur la ligne de touche.
+    - La règle 11.9. autorise une non-joueur à ramener un disque, cependant le lanceur doit porter le disque sur les
+      trois derniers mètres. C'est pourquoi le lanceur doit quitter le terrain sur 3 mètre et revenir. Il peut ensuite
+      établir son pivot et reprendre le jeu.
+
+Si un lanceur recommance à jouer sans être sorti à 3 mètres, l'adversaire peut appeler une violation et le jeu reprend
+par un check. Cependant, si l'adversaire considère ne pas avoir été désavantagé par un disque retourné au lanceur, le
+jeu peut continuer.
+
+Les non-joueurs peuvent aussi intercepter un disque sorti qui roule qui est à plus de 3 mètre du point de pivot.
+
+L'équipe en possession du disque peut choisir de remplacer le disque sorti, et gagner du temps en le remplacant. Le
+lanceur doit quand même porter le disque sur les 3 derniers mètres vers le terrain. Le lanceur doit avertir le défenseur
+le plus proche de la substitution du disque.
+
+Les non-joueurs ne peuvent pas toucher le disque avant qu'il ne sorte.
+
+## 12 Réceptionneur et Positionnement
+
+### 12.1 Attraper le disque (12.1.)
+
+Les règles ont évolué depuis 2017 pour distinguer "réceptionner" (*catch*) et "possession". Une réception (*catch*") est
+quand le disque commence à être controllé par le receptionneur. Une fois que le joueur a réceptionné le disque, il peut
+sortir, ou le disque peut toucher le sol, et ce n'est pas un revirement (*turnover*) tant qu'il maintient se réception
+en
+dehors ou tant que le disque touche le sol, et c'est après qu'il établit la possession de la passe.
+
+Un jouer établit la possession de la passe quand :
+
+- il attrape une passe et ensuite maintient cette prise plus d'un instant perceptible et que
+- il maintient la prise tout au long du contact avec le sol lié à ce « catch »,
+  ou jusqu’à ce qu’il lance le disque.
+
+Pour qu'un disque soit considéré comme attrapé, il doit être tenu fermement entre au moins deux parties du corps et ne
+doit pas bouger relativement à ces parties du corps.
+
+Si un joueur initie la réception d'une passe puis, avant d'établir la possession, il ne maintient pas la prise ("
+maintenir la prise" signifie de continuer a tenir un disque sans rotation entre au moins deux parties du corps) le catch
+est alors considéré terminé.
+
+Un joueur peut changer les parties de son corps qu'il utilise pour tenir le disque et, tant que le disque continue à
+être
+tenu par au moins deux parties du corps pendant ce changement, c'est considéré comme la même réception. (par exemple un
+joueur attrape le disque entre sa poitrine et sa main droite, il peut prendre le bord du disque avec sa main gauche et
+le décoller de sa poitrine, tant qu'il enlève sa main droite après avoir mis sa main gauche sur le disque, c'est
+considéré comme la même réception).
+
+### 12.2. Contacts consécutifs à la réception (12.1.1.)
+
+Le contact avec le sol ou avec un autre joueur peut être considéré comme consécutif à la réception si il se produit
+directement après la réception, s'il résulte d'un attérissage après un plongeon pour attraper le disque, ou s'il
+survient quand le joueur perd l'équilibre après avoir attrapé le disque. Si, par exemple, un joueur attrape dans sa
+course dans la zone d'en-but puis établit la possession lors des premiers pas après la réception, continue à courir pour
+célébrer son point et trébuche, alors la perte de possession ne peut être considérée comme consécutive à la réception.
+Un moyen de distinguer un contact consécutif à une réception est qu'une fois que le joueur a pu avoir le choix de s'
+arreter et être immobile, et controler ses mouvement, toutes actions qui suiveraient ne sont pas relative à la
+réception, même si il ne décide pas de s'arrêter.
+
+### 12.3. Se déplacer de manière imprudente (12.5.)
+
+Ceci inclut de courir sans regarder où l'on va pendant un certain moment, ou plonger d'une manière qui ne permet pas de
+s'ajuster à un mouvement légitime de l'adversaire.
+
+### 12.4. Positionnement des joueurs (12.5.1.)
+
+Le joueur A, qui fait une action sur le disque, peut ralentir pour empêcher le mouvement d'un adversaire d'
+action sur le disque. Cependant le joueur A ne doit pas se déplacer de manière à ce que son adversaire ne puisse
+raisonablement pas l'éviter. C'est une faute de blocage (17.6.). Dans ces circonstances, un contact mineur peut arriver
+mais les contacts mineurs ne sont pas des fautes.
+
+Si le joueur A ne fait pas d'action sur le disque, mais permet à un coéquipier de faire une action sur le disque, le
+joueur A ne doit pas empêcher un adversaire. Cependant si le joueur A est immobile ou n'empêche pas, ce n'est pas une
+violation, même si leur actions empêche effectivement l'adversaire.
+
+Le mot clé dans cette règle est "uniquement". L'intention derrière les mouvements du joueur peuvent être en partie
+motivé par l'idée d'empêcher l'adversaire de prendre une une trajectoire inoccupée pour jouer le disque, tant que c'est
+un partie de l'effort général pour faire action sur le disque.
+
+Si un poursuivant se heutre avec le joueur devant lui, c'est presque toujorus une faute du poursuivant.
+
+Après un revirement (*turnover*) et/ou lorsqu'un lanceur n'est pas au l'emplacement du point de pivot, la défense doit
+laisse un trajectoire inoccupée à l'attaque vers le disque et/ou l'emplacement du point de pivot.
+
+### 12.5. Faire action sur le disque (12.6.)
+
+Un joueur peut être considéré comme "faisant action sur le disque" (règle 12.6.) quand le disque est en l'air et qu'un
+joueur tente de rentrer en contact avec le disque de quelque manière que ce soit, pour l'attraper ou le bloquer. Ceci
+inclut la course vers le lieu où il pense entrer en contact avec le disque.
+
+En faisant action sur le disque, les joueurs doivent s'assurer qu'ils ne vont pas produire de contacts mineurs avec
+d'autres joueurs (même s'ils sont immobiles, ou d'après leur position attendue selon leur vitesse et leur direction),
+avant, pendant ou après leur tentative sur le disque.
+
+Un contact qui implique une force physique minimale et ne modifie pas les mouvements ou la position d'un autre joueur.
+
+Si un contact non-mineur survient, le résultat de l'action ne sera probablement pas le même si la transgression affecte
+le jeu.
+
+Une transgression affecte le jeu s'il est raisonable de dire que le résulat de l'action de jeu aurait été
+significativement différent si la transgression n'avait pas eu lieu. C'est à dire, si le joueur n'aurait pas été capable
+d'
+intercepter la passe sans causer un contact significatif avec son adversaire, ou si l'adversaire aurait été en mesure de
+jouer le disque si le joueur n'était pas entré en contact avec lui.
+
+Les compétences relatives, la taille et/ou les capacités athlétiques des joueurs concernés ne doivent typiquement pas
+être
+pris en compte pour définir si quelque chose affecte le jeu ou non.
+
+### 12.6. Poser une main sur un adversaire (12.6.)
+
+- Exemple 1: Un défenseur pose la main sur le dos de ses adversaires pour lui permette de savoir où il se trouve, même
+  sans les regarder.
+    - C'est une violation. Ce n'est pas nécessairement une faute, mais si la violation au sens de 15.1.1. qui dit que "
+      Un joueur qui initie intentionnellement un contact mineur constitue toujours une transgression des règles mais
+      doit être traité comme une violation et non comme une faute."
+
+### 12.7. Positionnement des joueurs quand le disque est en l'air (12.6. - 12.9.)
+
+- Exemple 1 : Le joueur 1 court après le disque et ralenti pour s'assurer de rester entre le joueur B et le disque. Le
+  joueur B heurte le dos du joueur A et trébuchent tous les deux.
+    - Le Joueur B commet une faute sur le joueur A. Le Joueur A peut ralentir pour faire une action sur le jeu. Le
+      joueur B peut
+      raisonablement éviter le joueur A et c'est pourquoi c'est lui qui initie le contact.
+- Exemple 2 : Le joueur A court après le disque et s'arrete soudainement puis cours en arrière vers son défenseur. Le
+  joueur B heutre le dos sur joueur A.
+    - Le joueur A commet une faute sur le joueur B. Le Joueur B ne peut pas raisonablement éviter le joueur A, c'est
+      pourquoi c'est le joueur A a initié le contact.
+- Exemple 3 : Le joueur A court après le disque, ralentit et serpente pour éviter que le joueur B ne le dépasse pour
+  jouer le disque. Le joueur B heurte le dos du joueur A. Le joueur A attrape le disque.
+    - Le Joueur B commet une faute sur le joueur A. Le joueur A a la possession donc n'a pas besoin d'appeler de faute
+      et doit appeler 'play on' s'il avait appelé la faute. Le joueur A a le droit de ralentir et d'empêcher les
+      mouvements d'un joueur pour faire une action sur le disque. Le joueur B aurait pu raisonablement éviter le joueur
+      A, c'est pourquoi c'est lui qui initie le contact. empêcher les mouvements d'un joueur est différent d'initier un
+      contact. Dans ces circonstances, un contact mineur peut arriver mais les contacts mineurs ne sont pas des fautes.
+- Exemple 4 : Le joueur A et le joueur B sont coéquipiers et courent après le disque. Le joueur B ralentit et serpente
+  pour empêcher le joueur C de les dépasser et d'agir sur le disque. Le joueur A attrape le disque.
+    - Le joueur C peut appeler une violation sur le joueur B. Le joueur B ne fait pas d'action sur le disque. Le joueur
+      C fait une action sur le disque c'est pourquoi le joueur B n'a pas le droit d'empêcher intentionnellement ses
+      mouvements. Si le joueur B est immobile il a le droit de rester, même s'il empeche le joueur C de jouer le disque.
+      Cependant, si le joueur B utilise ses bras pour empêcher le joueur C, c'est là aussi considéré comme un mouvement
+      pour empêcher les mouvements du joueur C et c'est une violation.
+- Exemple 5 : Le joueur A est immobile et attend d'attraper le disque. Le joueur B court vers le joueur A, saute et
+  intercepte la passe puis entre en collision avec le joueur A.
+    - Le joueur B commet une faute sur A. La règle 12.6. dit expressement que faire action de jeu sur le
+      disque n'est pas une excuse valide pour créer un contact avec d'autres joueurs. En faisant un action de jeu sur le
+      disque, les joueurs doivent s'assurer de ne pas provoquer de collision invévitable avec la position d'un autre
+      joueur immobile, ou selon sa vitesse et direction établie, avant, pendant ou après l'action sur le
+      disque.
+- Exemple 6 : Le joueur A est immobile et attend d'attraper le disque. Le joueur B court et saute de manière à éviter le
+  joueur A et intercepte la passe. Le joueur 1 se déplace vers la trajectoire du joueur B pendant que le joueur B est en
+  l'air. Il y a contact entre le joueur A et le joueur B.
+    - Le joueur A commet une faute sur le joueur B. Le joueur A a initité un contact en se déplaçant vers une position
+      que son adversaire ne pouvait évité. C'est une faure de blocage.
+
+
+
+
+
 
 
 

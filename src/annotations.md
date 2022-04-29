@@ -380,7 +380,43 @@ Exemple 1 : En essayant d'arreter un disque qui roule, un joueur frappe le disqu
 
 ### 8.5. Attendre au-dessus du disque après un revirement (*turnover*) (8.5.)
 
+- Exemple 1 : Un revirement (*turnover*) a eu lieu et le futur lanceur attend au-dessus du disque que son équipe soit
+  prête.
+    - La défense doit lui rappeler qu'il doit mettre le disque en jeu. Retarder intentionnellement le match est contre
+      l'esprit du jeu et doit être discuté par les capitaines dès que possible. La règles 8.5. dit que le futur lanceur
+      ne doit pas attendre pour ramasser le disque.
 
+Si d'autres joueurs sont en mouvement vers le disque (une situation fréquente après un revirement (*turnover*)), le
+joueur le plus proche peut décider de ne pas ramasse le disque, ce n'est pas une infration aux règles. Si aucun
+attaquant ne se dirige vers le disque puis le revirement, c'est une infraction aux règles.
+
+Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connait la règle avant de lui opposer une
+limite de temps.
+
+### 8.6. Limitation de temps après un revirement (*turnover*) (8.5.1.)
+
+Pour imposer une limite de temps de 10 ou 20 secondes, la défense doit utiliser un pré-compte en décomptant à haute voix
+la limite de temps par interval de 5 secondes. Le pré-compte doit être audible par le joueur de l'attaque le plus proche
+du disque. Le joueur qui compte n'est pas nécessairement celui qui sera le marqueur. Si le disque tombe hors limites, et
+roule pour revenir dans le terrain, les limites de temps décrites en 8.5.1. ne s'appliquent pas. (à moins que les jeux
+n'utilisent les règles WFDF d'Ultimate
+annexe)
+Pour les compétitions où l'*Annexe* est utilisé, les limites de temps s'appliquent aussi pour les disques hors limites
+et pour l'engagement.
+Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connait la règle avant de lui opposer une
+limite de temps.
+Si l'attaque considère que les limites de temps sont décomptées trop rapidement, elle peut appeler un *fast count* (
+compte rapide).
+La défense doit laisser un accès dégagé au disque et au point pivot.
+
+### 8.7. Commencer à compter après un délai de jeu (8.5.2.1)
+
+Après un appel à *delay of game*, l'attaque dispose de two (2) secondes pour corriger l'infraction avant que le compte
+ne commence.
+
+## 9. *Stall Count* Le compte
+
+### 9.1.
 
 
  

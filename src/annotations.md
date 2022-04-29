@@ -19,9 +19,9 @@ Les règles sont écrites pour être aussi compréhensibles, claires, simples et
 Cependant, il n'est pas toujours facile pour les joueurs de comprendre comment appliquer les règles dans toutes les
 situation, ces annotations apportent quelques exemples fréquents et la manière d'appliquer les règles.
 
-Dans un sport arbitré, les arbitres sont libres de statuer si une infraction fait une différence sur la poursuite du
-jeu. Comme l'Ultimate est auto-arbitré, ces annotations ont aussi pour objectif de donner un socle commun sur la manière
-de considérer les infractions.
+Dans un sport avec arbitres, les arbitres sont libres de statuer si une transgression des règles fait une différence sur
+la poursuite du jeu. Comme l'Ultimate est auto-arbitré, ces annotations ont aussi pour objectif de donner un socle
+commun sur la manière de considérer les transgressions des règles.
 
 Bien que les Annotations officielles ne font pas parties des règles du jeu, elles définissent des conventions qui
 devraient être suivies pour établir une manière commune de jouer, et si un exemple de ce document est rencontré sur le
@@ -36,12 +36,12 @@ problèmes. Quand on rencontre un scénario qui n'est pas explicitement décrit 
 permettent de guider dans la résolution du problème :
 
 - Il est admis qu'aucun joueur ne violera intentionnellement les règles; c'est pourquoi il n'y a pas de sanctions
-  rigoureuses pour les infractions involontaires, mais plutôt une méthode de reprise du jeu de manière à simuler ce
-  qu'il se serait probablement passé sans l'infraction.
-- Une équipe ne doit pas être désavantagée parce que l'adversaire commet une erreur ou une infraction.
-- Les infractions ne doivent être appelées que si elles ont eu un impact significatif sur le jeu. Les joueurs doivent
-  avoir un degrés raisonnable de tolérance envers les infractions mineures impliquant des légères variations sur la
-  distance et le temps.
+  rigoureuses pour les transgressions involontaires des règles, mais plutôt une méthode de reprise du jeu de manière à
+  simuler ce qu'il se serait probablement passé sans la transgression des règles.
+- Une équipe ne doit pas être désavantagée parce que l'adversaire commet une erreur ou une transgression des règles.
+- Les transgressions des règles ne doivent être appelées que si elles ont eu un impact significatif sur le jeu. Les
+  joueurs doivent avoir un degrés raisonnable de tolérance envers les transgressions mineures impliquant des légères
+  variations sur la distance et le temps.
 - Personne ne voit les situations de la même manière. Deux joueurs avec une bonne perspective sur la situation peuvent
   toujours voir les évènements très différemment. La perception humaine n'est pas parfaite. Les joueurs doivent en être
   conscient au moment de résoudre les appels (*calls*).
@@ -58,9 +58,9 @@ permission de USA Ultimate. Elles sont indiquées par un symbol +.
 
 #### 1.1 transgression délibérée ou flagrante des règles (1.2.1.)
 
-Pour qu'une infraction soit considérée comme flagrante il faut qu'il s'agisse d'une infraction qui ne devrait
-pas se produire dans un jeu standard d'Ultimate, ou une pour laquelle il n'y a pas de justification raisonnable dans
-les règles.
+Pour qu'une transgression des règles soit considérée comme flagrante il faut qu'il s'agisse d'une transgression des
+règles qui ne devrait pas se produire dans un jeu standard d'Ultimate, ou une pour laquelle il n'y a pas de
+justification raisonnable dans les règles.
 
 - Exemple 1 : Un défenseur commet un jeu dangereux flagrant entrainant une faute sur un receveur qui s’apprêtait à
   réceptionner le disque dans la zone d'en-but qu'il attaquait.
@@ -346,9 +346,8 @@ le point situé au milieu des deux pivots proposés doit être utilisé.
 ### 8.1. Faire le mauvais appel
 
 - Exemple 1 : Un joueur signale une faute ou une violation et cri "stop" ou utilise le mauvais nom pour l'appel.
-    - L'appel doit être traité comme si le joueur avait fait le bon appel.
-      Pourquoi ? Il est clair que le joueur a objservé une infraction des règles. Ce qui prime sur sa connaissance
-      technique.
+    - L'appel doit être traité comme si le joueur avait fait le bon appel. Il est clair que le joueur a observé une
+      transgression des règles. Ce qui prime sur sa connaissance technique.
 
 Le joueur qui utilise le mauvais terme doit se faire un devoir d'apprendre le bon terme (règle 1.3.1) et les joueurs
 plus expérimenté doivent lui préciser l'appel à faire (règle 1.8.).
@@ -388,7 +387,7 @@ Exemple 1 : En essayant d'arreter un disque qui roule, un joueur frappe le disqu
 
 Si d'autres joueurs sont en mouvement vers le disque (une situation fréquente après un revirement (*turnover*)), le
 joueur le plus proche peut décider de ne pas ramasse le disque, ce n'est pas une infration aux règles. Si aucun
-attaquant ne se dirige vers le disque puis le revirement, c'est une infraction aux règles.
+attaquant ne se dirige vers le disque puis le revirement, c'est une transgression aux règles.
 
 Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connait la règle avant de lui opposer une
 limite de temps.
@@ -398,9 +397,9 @@ limite de temps.
 Pour imposer une limite de temps de 10 ou 20 secondes, la défense doit utiliser un pré-compte en décomptant à haute voix
 la limite de temps par interval de 5 secondes. Le pré-compte doit être audible par le joueur de l'attaque le plus proche
 du disque. Le joueur qui compte n'est pas nécessairement celui qui sera le marqueur. Si le disque tombe hors limites, et
-roule pour revenir dans le terrain, les limites de temps décrites en 8.5.1. ne s'appliquent pas. (à moins que les jeux
-n'utilisent les règles WFDF d'Ultimate
-annexe)
+roule pour revenir dans le terrain, les limites de temps décrites en 8.5.1. ne s'appliquent pas. (à moins que la
+compétition
+n'utilisent les règles WFDF d'Ultimate *Annexe*)
 Pour les compétitions où l'*Annexe* est utilisé, les limites de temps s'appliquent aussi pour les disques hors limites
 et pour l'engagement.
 Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connait la règle avant de lui opposer une
@@ -416,7 +415,146 @@ ne commence.
 
 ## 9. *Stall Count* Le compte
 
-### 9.1.
+### 9.1. Communiquer clairement le compte (9.2.)
+
+Le compte est habituellement communiqué verballement pour démarrer le compte. Les équipes peuvent se mettre d'accord sur
+une autre méthode en cas de cisrconstances particulières.
+
+### 9.2. Quand démarrer le compte (9.3.)
+
+- Exemple 1 : La marqueur peut commencer le compte dès que le lanceur a attrapé le disque (sauf en cas d'interruption).
+    - Même si le lanceur doit encore s'arreter, se relever ou même re-rentrer dans le terrain parce que son élan l'en a
+      fait sortir, le marquer peut commencer à compter.
+
+Si l'attaquant a besoin de temps parcequ'il a un obstacle, en dehors de terrain, à éviter (par sécurité, il ne devrait
+pas y en avoir, mais en pratique cela peut arriver) le marqueur ne doit pas compter jusqu'à ce que l'attaquant ait eu ce
+délai.
+
+Si un lanceur re-établit la possession du disque après l'avoir laché accidentellement avant que ce dernier ne touche le
+sol
+et qu'aucun autre joueur ne le touche, la possession est considéré comme ayant été continue.
+
+Si le lanceur re-établit la possession du disque après l'avoir accidentellement mais avant que ce dernier ne touche le
+sol mais
+après qu'un autre joueur y touche, c'est une nouvelle possession.
+
+Si un lanceur réceptionne une pass dans la zone centrale, mais que l'élan l'entraine en hors limite, le marqueur peut
+commencer ou continuer le compte s'il sont à sont à 3 mètre du point de pivot, y compris s'il n'est pas à 3 mètres du
+lanceur.
+
+Après une interception par l'équipe 1, le marqueur de l'équipe B ne peut pas commencer à compter tant que le lanceur de
+l'équipe 1 n'a pas établit de pivot, peut importe si le lanceur est hors limite ou non après l'interception.
+
+Si le joueur fait une interception en courant, le marqueur doit attendre que que pivot soit établit avant de compter.
+
+### 9.3. Autres apppels (9.5.4.)
+
+Les autres appels incluent :
+
+- Faute contestée
+- Point contesté
+- Revirement (*turnover*) contesté (sauf *stall-out*)
+- Violation pour obstruction du périmètre (2.7.)
+- Blessure
+- Interruption Technique
+
+### 9.4. Appel impliquant le lanceur, et une faute de réception (9.5.4.1)
+
+- Exemple 1 : Un *stall-out* contesté est appelé sur le lanceur après que le disque ait été lancé. Une faute de
+  réception
+  contestée est appelé sur le résultat de la passe.
+    - Le disque revient au lanceur et d'après la règle 9.5.4.1., le compte reprend à "Compté 8".
+- Exemple 2 : Une faute de marquage acceptée est appelé par le lanceur pendant que le disque est laché. Une faute de
+  réception contestée est appellée sur le résultat de la passe.
+    - Le disque revient au lanceur et d'après la règle 9.5.4.1., le compte reprend à "Compté 1".
+
+### 9.5. Reprendre le compte après une violation du check (9.5.4.2)
+
+- Exemple 1 : Le jeu est interrompu par une faute acceptée par le lanceur. Le compte va reprendre à "Compté 8". La
+  défense se déplace avant le check et une violation est appelée par l'attaque.
+    - Même si c'est une transgression de la défence, la règle 9.5.4.2. indique que le compte reprendra quand même à "
+      Compté 8".
+
+### 9.6. Le compte (9.6)
+
+Si après un appel, le compte doit reprendre à un maximum de 6 et que :
+
+- le compte a été arrété à 4, le compte repart à "Compté 5"
+- le compte a été arrété à 8, le compte repart à "Compté 6"
+
+Il n'es tpas nécessaire d'avoir un délai entre le "Compté" et le nombre du compte.
+
+S'il y a un désaccord, qui ne peut pas être résolu, à propos du nombre auquel le compte doit reprendre, le nombre entre
+les deux propositions arrondi au nombre inférieur doit être utiliser.
+
+## 10. Le Check
+
+### 10.1. Quand le Check n'est pas requis (10.1)
+
+Un check n'est pas requis après un pull ou un revirement (*turnover*), même si le lanceur doit marcher jusqu'au point de
+pivot. Le lanceur peut faire une passe et le marqueur commencer à compter dès que le point pivot est établi à la bonne
+position.
+
+Si le point pivot n'est pas établi au bon endroit, c'est une infraction de marché.
+
+Si le marquer commence à compter avant que le point pivot ne soit établi, c'est une infraction de compte rapide (*
+fast-count*).
+
+Pour s'assurer que le jeu ne soit pas interrompu, il est recommandé que le lanceur et le marqueur pointent l'endroit où
+ils pensent que le pivot doit être établi avant que celui-ci ne soit établi.
+
+Le lanceur ne doit pas faire de feinte ou commencer son geste de lancer tant qu'il n'a pas établi sont point de pivot (
+règle 18.2.5.3).
+
+"turnover appelé" fait référence à ceux listés en 13.2.
+
+### 10.2 Positionnement après un appel (10.2.2.1)
+
+Si une longue passe a été faite et qu'il y a une faute contestée à la réception, les joueurs doivent revenir à l'endroit
+où ils étaient au moment du lancer (et non pas à la fin de leurs courses après le disque). (+)
+
+### 10.3. Equipement incorrecte (10.3.)
+
+Les équipements incorrectes incluent, par exemple, les lacets dénoués, un disque tordu ou une chaussure enlevée.
+Cependant, il est de la responsabilité des joueurs de limiter ce genre de perturbation en s'assurant que leur equipement
+personnel est en bon état.
+
+### 10.4. "delay of game" lors d'un check (10.5.)
+
+- Exemple 1 : Un retard non-nécessaire inclut les discussions des équipes sur les tactiques (qui garde qui, qui doit
+  réceptionner la prochaine passe). Un retard non-nécessaire inclut se tenir dos au disque pour gagner du temps...).
+  Prétendre ne pas retarder le jeu, est un retard non-nécessaire. (+)
+    - Après un "Delay of game" appelé sur la défense et que le retard continue, le lanceur peut appeler "Disc In" et
+      faire une passe immédiatement.
+
+La personne qui "check" le disque doit s'assurer que tous les joueurs sont immobiles et correctement positionné avant
+de "checker" le disc.
+
+Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connait la règle avant de lui d'appliquer cette
+règle.
+
+### 10.5. Procédure préférée pour checker le disque (10.6.)
+
+Il est recommandé de suivre les étapes avant de checker le disque :
+
+- l'attaque est-elle prête ?
+- la défense est elle prête ?
+- le compte reprend à X
+- Disc In, dans 3..2..1
+
+Si le défenseur doit toucher le disque, le défenseur doit délibérément toucher le disque. Le lanceur ne peut pas initier
+un contact sur le disque avec le defenseur.
+
+### 10.6. Perte de la possession sur un check au sol (10.6.1.2.)
+
+Si un lanceur perd la possession du disque à cause d'un check au sol, il peut ré-établie la possession.
+
+### 10.7. Appeler une violation si un jouer bouge avant le *check* ou pour un positionnement incorrect (10.7.)
+
+Un joueur ne peut pas appeler une violation de check (10.7.) parce qu'un joueur de sa propre équipe est mal placé ou a
+bougé avant le *check*.
+
+
 
 
  

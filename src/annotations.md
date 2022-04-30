@@ -682,11 +682,10 @@ maintenir la prise" signifie de continuer a tenir un disque sans rotation entre 
 est alors considéré terminé.
 
 Un joueur peut changer les parties de son corps qu'il utilise pour tenir le disque et, tant que le disque continue à
-être
-tenu par au moins deux parties du corps pendant ce changement, c'est considéré comme la même réception. (par exemple un
-joueur attrape le disque entre sa poitrine et sa main droite, il peut prendre le bord du disque avec sa main gauche et
-le décoller de sa poitrine, tant qu'il enlève sa main droite après avoir mis sa main gauche sur le disque, c'est
-considéré comme la même réception).
+être tenu par au moins deux parties du corps pendant ce changement, c'est considéré comme la même réception. (par
+exemple un joueur attrape le disque entre sa poitrine et sa main droite, il peut prendre le bord du disque avec sa main
+gauche et le décoller de sa poitrine, tant qu'il enlève sa main droite après avoir mis sa main gauche sur le disque,
+c'est considéré comme la même réception).
 
 ### 12.2. Contacts consécutifs à la réception (12.1.1.)
 
@@ -794,6 +793,112 @@ pris en compte pour définir si quelque chose affecte le jeu ou non.
   l'air. Il y a contact entre le joueur A et le joueur B.
     - Le joueur A commet une faute sur le joueur B. Le joueur A a initité un contact en se déplaçant vers une position
       que son adversaire ne pouvait évité. C'est une faure de blocage.
+
+### 12.8. Se déplacer simultanéement vers un même point (12.8.)
+
+- Exemple 1 : Deux adversaires se déplace vers un même point pour faire action sur le disque. Ils sont conscients de la
+  présence l'un de l'autre et savent que des contacts mineurs peuvent arriver. Un contact mineur survient.
+    - Même s'il y a eu un contact, ce n'est pas nécessairement une faute. Dans les circonstances où un joueur initie
+      clairement le contact avec un autre, la personne qui a initié le contact est celle qui provoque la faute. (soit un
+      joueur immobile et un autre lui rentre dedans, soit un joueur a clairement un espace libre et un second change de
+      direction et empêche l'accès à cet espace d'une manière inévitable). Cependant, il y a des situations où les deux
+      joueurs peut accéder à une espace et aucun d'eux ne peut être considéré comme étant celui qui a initié le contact.
+      Dans ces circonstances, si un contact mineur arrive (ex les joueurs se cogne légèrement les épaules ou les
+      hanches) ce n'est pas nécessairement une faute, comme les deux joueurs sont responsables du contact et les deux
+      étaient conscient qu'il pouvait y avoir un contact.
+        - Scénario 1 : Les deux joueurs provoquent le contact, il ne s'agit que d'un contact mineur.
+            - Le jeu se poursuit
+        - Scénario 2 : Les deux joueurs provoquent le contact mais il n'est pas mineur (ex un joueur tombe).
+            - C'est une faute par les deux joueurs et doit être traité comme une faute simultanée (17.9.2.). Le disque
+              doit revenir au lanceur.
+        - Scénario 3 : Les deux joueurs provoquent le contact et il n'y qu'un contact mineur, mais un des joueurs frappe
+          les bras de l'autre alors qu'il joue le disque.
+            - Même si les deux sont à l'origine du contact, le joueur qui initie le contact avec le bras commet une
+              faute qui n'est pas un contact mineur.
+
+Ces scénarios ne s'applique que si les deux joueurs provoque un contact simultanéement. Si un joueur initie clairement
+le contact, ce joueur commet une faute.
+
+Si un joueur ne voit pas le contact venir, que l'autre joueur pouvait l'anticiper, ce dernier doit l'éviter et appeler
+Jeu dangereux si besoin.
+La règle 17.9.2.1. dit que si cela se produit après que le disque a été attrapé, ou après que le ou les joueurs
+concernés ne peuvent plus jouer le disque, cela doit être traité comme une faute indirecte (à
+l'exclusion du contact lié à la section 17.1).
+
+Les joueurs concernés par cet incident doivent être conscient qu'ils n'ont souvent pas la meilleure perspective pour
+savoir qui a initié le contact et doivent demander aux joueurs alentours leur avis.
+
+### 12.9. aider le mouvement d'un joueur, ou utiliser un équipement (12.10.)
+
+Si un attaquant assiste physiquement le mouvement d'un autre, ou utilise un équipement pour faciliter le contact avec le
+disque, c'est un revirement (*turnover*) (voir règles 13.2.6. et 13.2.7.)
+
+Si un défenseur assiste physiquement le mouvement d'un autre, ou utilise un équipement pour faciliter le contact avec le
+disque (comme lancer sa casquette en direction du disque), c'est une violation. Le réceptionneur attendu doit gagner le
+possession du disque.
+
+## 13. Revirements (*turnovers*)
+
+### 13.1. le disque touche le sol alors qu'il n'est pas en la possession d'un attaquant (13.1.1.)
+
+Ce n'est pas un revirement si le joueur attrape mal le disque avant d'établir complètement la possession dans le cas où
+il voulait prendre la possession du disque après un revirement ou après un engagement où le disque à déjà touché le
+sol. (voir 8.1.4.)
+
+### 13.2. le disque touche le sol alors qu'il n'est pas en la possession d'un attaquant (13.1.1.)
+
+Si un réceptionneur plonge pour recevoir une passe et attrape le disque sans qu'il ne touche le sol, le disque peut
+ensuite toucher le sol, il n'est pas down tant que le joueur maintient sa prise alors que le disque touche le sol. Le
+réceptionneur peut changer les parties de son corps qui lui servent à tenir le disque, et tant que le disque est
+toujours maintenu par au moins une ce ces partie pendant le changement. Il s'agit toujours de la même réception. Si un
+réceptionneur a pincé le disque entre ses doigts et que quand le disque touche le sol, le choc le disque n'est plus
+pincé au même endroit, ce n'est pas une réception maintenu, c'est un revirement.
+
+Si, après une reception d'un disque qui a ensuite touché le sol, le réceptionneur ensuite perdu le controle du disque
+alors que celui ci ne touchait plus le sol, la réception initial n'est pas annulée, le disque peut encore être attrapé
+par n'importe quel joueur.
+
+### 13.3. Revirement par interception (13.1.2.)
+
+Un défenseur de l'équipe A intercepte une passe en étant en l'air, puis lance le disque avant de retoucher le sol, que
+la passe est incomplète c'est un revirement par l'équipe A, l'équipe B doit reprendre la possession du disque.
+
+Un défenseur peut intentionnellement pousser une passe vers sa zone d'en-but, mais s'il touche ensuite le disque avant
+qu'il ne touche le sol, c'est un marché d'après la règle 18.2.5.5..
+
+### 13.4. disque échappé à l'engagement ("dropped pull") contesté
+
+Si l'échappée du disque à l'engagement ("dropper pull") est contestée l'équipe qui a engagé peut choisir de refaire l'
+engagement ou de se rétracter.
+
+### 13.5. revirement du fait d'une passe à soi même ("self-catch turnover") (13.2.5.)
+
+- Exemple 1 : Un lanceur relache accidentellement le disque lors de son pivot puis le rattrappe sans qu'aucun autre
+  joueur
+  ne touche le disque.
+    - Ce n'est pas une passe à soi même, le marqueur peut continuer le compte. Si le lanceur a bouger son pied pivot, un
+      marché peut être appelé. Un revirement du fait d'une passe à soi même ne peut arriver qu'après que le lanceur ait
+      tenté une passe. Un passe est défini (en tant que Lancer) comme "Un disque en vol après un mouvement du lancer,
+      incluant la perte de contact entre le lanceur et le disque après une feinte ou une perte intentionnelle de
+      disque.". Dans cet exemple, le disque n'a pas volé après un mouvement de lancer ou une feinte. Aucune passe n'a eu
+      lieu c'est pourquoi la règle 13.2.5. ne s'applique pas.
+
+Si le disque est accidentellement laché pendant le mouvement de lancer d'une feinte, le lanceur ne peut pas attraper le
+disque tant qu'un autre joueur n'y a pas toucher.
+
+Le lanceur peut touhcer le disque qu'il a lancer, par exemple pour éviter qu'un adversaire l'attrape ou pour le pousser
+à un co-équipier. Si le lanceur attrape sa propre passe, l'endroit du revirement est celui où se trouvait le lanceur
+quand il a attrapé la passe.
+
+### 13.6. Aider intentionnellement le mouvement d'un coéquipier (13.2.6.)
+
+Un joueur n'a pas le droit de pousser intentionnellement un coéquipier pour qu'il saute plus haut. (+)
+
+### 13.7. Contester un revirement de fin de compte (*stall out turnover*) (13.4.)
+
+
+
+
 
 
 

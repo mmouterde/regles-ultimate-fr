@@ -570,7 +570,7 @@ avant, d'après la règle 13.2.5.
 
 S'il y a une réception contestée après un "meilleur" lancer, le joueur qui a lancé le "meilleur" lancer est considéré
 comme le dernier lanceur. Il doit établir son point de pivot au plus proche de l'endroit où le disque à été laché (ou
-sur la ligne d'en-but si le pivot se trouve dans sa zone d'en-but attaquée).
+sur la ligne de but si le pivot se trouve dans sa zone d'en-but attaquée).
 
 ### 11.2. Qu'appeler en cas d'en-jeu ou hors-limites (11.4.)
 
@@ -958,18 +958,18 @@ l'endroit du revirement et utiliser ensuite son pied gauche comme pivot. c'est u
 
 ### 13.13 Signaux visuels après un revirement dans la zone d'en-but défendu (13.11.2.1.)
 
-Montrer la ligne d'en-but peut être utile pour communiquer aux autres joueurs que l'option de la ligne d'en-but est
-choisie pour établir le pivot et relancer le jeu. Si le geste est fait, le lanceur doit se rendre à la ligne d'en-but.
-Cependant c'est un geste volontaire. Le lanceur peut choisir d'établir son pivot sur la ligne d'en-but même s'il n'a l'a
+Montrer la ligne de but peut être utile pour communiquer aux autres joueurs que l'option de la ligne de but est
+choisie pour établir le pivot et relancer le jeu. Si le geste est fait, le lanceur doit se rendre à la ligne de but.
+Cependant c'est un geste volontaire. Le lanceur peut choisir d'établir son pivot sur la ligne de but même s'il n'a l'a
 pas signalé.
 
-La défense peut demander au lanceur s'il choisir l'option de la ligne d'en-but et c'est de bon esprit d'y répondre par
+La défense peut demander au lanceur s'il choisir l'option de la ligne de but et c'est de bon esprit d'y répondre par
 un geste de la main, autrement ce n'est pas obligatoire.
 
-Si un joueur établit son pivot sur la ligne d'en-but, le joueur peu transporter le disque à vitesse contante ou non, et
+Si un joueur établit son pivot sur la ligne de but, le joueur peu transporter le disque à vitesse contante ou non, et
 marcher lentement ou non. (+).
 
-Le joueur doit remettre le disque en jeu à l'endroit du disque ou sur la ligne d'en-but, pas entre les deux. (+)
+Le joueur doit remettre le disque en jeu à l'endroit du disque ou sur la ligne de but, pas entre les deux. (+)
 
 ### 13.14. Etablir son pied de pivot après un revirement dans la zone d'en-but défendue (13.11.3.)
 
@@ -977,7 +977,7 @@ Si le lanceur viole la règle 13.11.1., c'est considéfé comme une infraction d
 lanceur doit revenir au bon endroit.
 
 Le lanceur ne peut pas ramasser le disque, regarder s'il y a un joueur prêt pour une passe et puis se déplacer à la
-ligne d'en-but.
+ligne de but.
 
 
 

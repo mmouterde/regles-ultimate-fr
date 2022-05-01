@@ -896,6 +896,90 @@ Un joueur n'a pas le droit de pousser intentionnellement un coéquipier pour qu'
 
 ### 13.7. Contester un revirement de fin de compte (*stall out turnover*) (13.4.)
 
+Un revirement de fin de compte devrait typiquement n'être contesté que par le lanceur.
+
+Si un le compte était rapide de 1 à 5, mais qu'il était correcte pour le reste du compte, le lanceur ne peut pas
+contester la fin du compte sur la base qu'il était initialement trop rapide.
+
+### 13.8. Reprendre le jeu après une fin de compte acceptée (13.4.)
+
+La marqueur de l'équipe A qui appelle une fin de compte (*stall out*) récupère le disque là où le compte s'est produit
+et il peut soit :
+
+- poser le disque au sol. Après accord de l'équipe A, l'ancien le lanceur de l'équipe B annonce à haute voix "Disc in".
+- conserver le disque et l'ancien lanceur de l'équipe B relance le jeu par un check.
+
+Un marqueur ne doit pas automatiquement appelé une fin de compte (*stall out*) parce que le compte arrive à dix. Il doit
+être certain que le disque n'était pas déjà relaché et que son compte n'était pas trop rapide. (+)
+
+### 13.9. Interception incontrollé au sol (13.5.1)
+
+Si lors de sa tentative intercepter une passe, le défensseur de l'équipe A perd le controle du disque à cause d'un
+contact au sol, ou qu'il échappe accidentellement le disque, alors la possession n'est considéré établie et n'importe
+quel joueur de l'équipe A peut prendre la possession du disque.
+
+### 13.10. laisser tomber intentionnellement le disque (13.6.)
+
+- Exemple 1 : Le joueur A intercepte une passe puis le laisse tomber intentionnellement ou place le disque au sol pour
+  permettre à un coéquipier de devenir lanceur. Le Joueur A récupère un disque sorti puis le dépose le laisse tomber
+  intentionnellement à l'endroit du pivot pour permettre à un coéquipier de devenir lanceur.
+    - Ce n'est pas un double revirement (*double turnover*). L'adversaire peut appeler une violation et dans ce cas le
+      jeu s'arrete, le joueur A doit reprendre le disque. Le jeu repart par un check.
+
+Cependant, si le joueur A tente une passe directement après l'interception, et que la passe est incomplète, c'est un
+revirement.
+
+Si n'est pas certain que le joueur a perdu le disque pour laisser un coéquipier devenir le lanceur ou si c'est une
+tentative de passe qui est incomplète, le joueur doit avoir le bénéfice du doute.
+
+### 13.11. Où établir le pied de pivot quand le disque est sorti (13.8.)
+
+L'emplacement officiel est juste à coté de la ligne (puisque la ligne ne fait pas parti de l'aire de jeu) mais un pied
+de pivot sur la ligne est aussi acceptable. En effet, étant donné que les lignes de périmètre sont larges de
+quelques centimètres seulement, l'erreur est trop peu significative. Alos que la règles dit que le point pivot doit être
+établi dans le terrain, la règle 11.3.3 indique également que ce n'est pas un problème si le pied pivot touche l'
+extérieur de l'aire de jeu.
+
+Si le disque sort par le coté de la zone d'en-but, il y a un cone là où le point de pivot doit être établi. La règle
+2.6. dit que la limite de la zone centrale doit être marquée par un cone, le joueur ne doit donc pas le déplacer. C'est
+pourquoi le point pivot doit être établi sur la ligne de la zone d'en-but à coté du cone. Les joueurs ne doivent pas
+déplacer le cone. Notez que le joueur doit avoir suffisament de place pour pivoter autour de son pied de pivot (sinon
+des situations risquées pourrait survenir lors du pivot).
+
+### 13.12. Où établir le pied de pivot après un revirement quand le disque dans le terrain (13.9.)
+
+- Exemple 1 : Si l'endroit du « turnover » est dans la zone centrale, le lanceur doit établir un point pivot à cet
+  endroit.
+    - Le lanceur doit ramasser le disque et placer son pivot à l'endroit du disque (+). La règle 13.9. dit que le
+      lanceur doit établir son pivot à l'endroit du revirement.
+
+Le pivot doit être aussi proche que possible de l'endroit du disque. Le joueur ne doit pas placer son pied droit à
+l'endroit du revirement et utiliser ensuite son pied gauche comme pivot. c'est une infraction de marché (18.2.5.1.)
+
+### 13.13 Signaux visuels après un revirement dans la zone d'en-but défendu (13.11.2.1.)
+
+Montrer la ligne d'en-but peut être utile pour communiquer aux autres joueurs que l'option de la ligne d'en-but est
+choisie pour établir le pivot et relancer le jeu. Si le geste est fait, le lanceur doit se rendre à la ligne d'en-but.
+Cependant c'est un geste volontaire. Le lanceur peut choisir d'établir son pivot sur la ligne d'en-but même s'il n'a l'a
+pas signalé.
+
+La défense peut demander au lanceur s'il choisir l'option de la ligne d'en-but et c'est de bon esprit d'y répondre par
+un geste de la main, autrement ce n'est pas obligatoire.
+
+Si un joueur établit son pivot sur la ligne d'en-but, le joueur peu transporter le disque à vitesse contante ou non, et
+marcher lentement ou non. (+).
+
+Le joueur doit remettre le disque en jeu à l'endroit du disque ou sur la ligne d'en-but, pas entre les deux. (+)
+
+### 13.14. Etablir son pied de pivot après un revirement dans la zone d'en-but défendue (13.11.3.)
+
+Si le lanceur viole la règle 13.11.1., c'est considéfé comme une infraction de marché. Le jeu ne s'arrete pas mais le
+lanceur doit revenir au bon endroit.
+
+Le lanceur ne peut pas ramasser le disque, regarder s'il y a un joueur prêt pour une passe et puis se déplacer à la
+ligne d'en-but.
+
+
 
 
 

@@ -10,24 +10,20 @@ Produite par le sous comité aux règles de l'Ultimate de la WFDF
 
 ## Introduction
 
-Ces annotations officielles complètent *Les Règles de l'Ultimate 2021-2024 de la WFDF*.
-*Les Règles de l'Ultimate 2021-2024 de la WFDF* est le document principal décrivant la manière de jouer à l'Ultimate.
-Cependant, les joueurs peuvent se référer à ces annotations pour aider à déterminer la bonne manière d'appliquer les
-règles et résoudre les problèmes sur le terrain.
+Ces Annotations complètent le document *Les Règles de l'Ultimate 2021-2024 de la WFDF*. 
+Les joueurs y trouveront des élèments pour appliquer les règles de manière correcte et résoudre les éventuels problèmes sur le terrain.
 
-Les règles sont écrites pour être aussi compréhensibles, claires, simples et précises que possible.
-Cependant, il n'est pas toujours facile pour les joueurs de comprendre comment appliquer les règles dans toutes les
-situation, ces annotations apportent quelques exemples fréquents et la manière d'appliquer les règles.
+Même si les règles sont écrites de manière à être aussi compréhensibles, claires, simples et précises que possible,
+il s'avère qu'il n'est pas toujours facile pour les joueurs de comprendre comment les appliquer en tout point. 
+Ces Annotations apportent donc quelques exemples classiques de comment les règles devraient être appliquées.
 
-Dans un sport avec arbitres, les arbitres sont libres de statuer si une transgression des règles fait une différence sur
-la poursuite du jeu. Comme l'Ultimate est auto-arbitré, ces annotations ont aussi pour objectif de donner un socle
-commun sur la manière de considérer les transgressions des règles.
+Dans un sport arbitré, chaque transgression de règle est soumise à l'appréciation d'un arbitre qui juge de leur caractère significatif sur la suite du jeu. L'ultimate, quant à lui, est un sport auto-arbitré. Ces Annotations sont donc également un moyen de fournir une base de connaissances communes sur quelles transgressions doivent être considérer comme significatives.
 
-Bien que les Annotations officielles ne font pas parties des règles du jeu, elles définissent des conventions qui
-devraient être suivies pour établir une manière commune de jouer, et si un exemple de ce document est rencontré sur le
-terrain, les indications de ces Annotations Officielles devront être suivies.
+Bien que les Annotations Officielles ne fassent pas parties des règles du jeu, elles définissent des conventions qui
+devraient être suivies pour établir une manière commune de jouer. Concrêtement, si un exemple de ce document est rencontré sur le
+terrain, les indications de ces Annotations Officielles devraient être suivies.
 
-En cas de divergence entre une annexe aux Règles de l'Ultimate et ces Annotations Officielles : l'annexe prévaut.
+Cependant, en cas d'incohérence entre une annexe aux Règles de l'Ultimate et ces Annotations Officielles : l'annexe prévaut.
 
 ## Principes
 

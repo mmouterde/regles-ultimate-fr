@@ -259,6 +259,9 @@ article p img{
     display: block;
     max-width: 80vw;
 }
+article > ul > li > div {
+    font-size: x-large;
+}
 blockquote{
     border-left: #429b30 solid medium;
     margin: 0 0 26px;

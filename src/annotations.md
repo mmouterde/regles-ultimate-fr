@@ -10,20 +10,26 @@ Produite par le sous comité aux règles de l'Ultimate de la WFDF
 
 ## Introduction
 
-Ces Annotations complètent le document *Les Règles de l'Ultimate 2021-2024 de la WFDF*. 
-Les joueurs y trouveront des élèments pour appliquer les règles de manière correcte et résoudre les éventuels problèmes sur le terrain.
+Ces Annotations complètent le document *Les Règles de l'Ultimate 2021-2024 de la WFDF*.
+Les joueurs y trouveront des élèments pour appliquer les règles de manière correcte et résoudre les éventuels problèmes
+sur le terrain.
 
 Même si les règles sont écrites de manière à être aussi compréhensibles, claires, simples et précises que possible,
-il s'avère qu'il n'est pas toujours facile pour les joueurs de comprendre comment les appliquer en tout point. 
+il s'avère qu'il n'est pas toujours facile pour les joueurs de comprendre comment les appliquer en tout point.
 Ces Annotations apportent donc quelques exemples classiques de comment les règles devraient être appliquées.
 
-Dans un sport arbitré, chaque transgression de règle est soumise à l'appréciation d'un arbitre qui juge de leur caractère significatif sur la suite du jeu. L'ultimate, quant à lui, est un sport auto-arbitré. Ces Annotations sont donc également un moyen de fournir une base de connaissances communes sur quelles transgressions doivent être considérer comme significatives.
+Dans un sport arbitré, chaque transgression de règle est soumise à l'appréciation d'un arbitre qui juge de leur
+caractère significatif sur la suite du jeu. L'ultimate, quant à lui, est un sport auto-arbitré. Ces Annotations sont
+donc également un moyen de fournir une base de connaissances communes sur quelles transgressions doivent être considérer
+comme significatives.
 
 Bien que les Annotations Officielles ne fassent pas parties des règles du jeu, elles définissent des conventions qui
-devraient être suivies pour établir une manière commune de jouer. Concrêtement, si un exemple de ce document est rencontré sur le
+devraient être suivies pour établir une manière commune de jouer. Concrêtement, si un exemple de ce document est
+rencontré sur le
 terrain, les indications de ces Annotations Officielles devraient être suivies.
 
-Cependant, en cas d'incohérence entre une annexe aux Règles de l'Ultimate et ces Annotations Officielles : l'annexe prévaut.
+Cependant, en cas d'incohérence entre une annexe aux Règles de l'Ultimate et ces Annotations Officielles : l'annexe
+prévaut.
 
 ## Principes
 
@@ -595,7 +601,7 @@ Pour les matchs sur terrain non tracé, le réceptionneur doit avoir le bénéfi
       de l'aire de jeu tant qu'il maintient le disque jusqu'à établir la possession.
 
 Si un joueur qui attrape le disque dans l'aire de jeu entre en contact avec l'extérieur puis échappe le disque avant d'
-établir la possession, c'est un revirement hors-limites (*out-of-bound turnover*) peut importe s'il regarde la
+établir la possession, c'est un revirement hors-limites (*out-of-bound turnover*) peut importe s'il conserve la
 possession avant que le disque ne touche le sol.
 
 ### 11.4. Reception en contact avec l'extérieur de l'aire de jeu (11.4.)
@@ -667,7 +673,7 @@ dehors ou tant que le disque touche le sol, et c'est après qu'il établit la po
 Un jouer établit la possession de la passe quand :
 
 - il attrape une passe et ensuite maintient cette prise plus d'un instant perceptible et que
-- il maintient la prise tout au long du contact avec le sol lié à ce « catch »,
+- il maintient la prise tout au long des contacts avec le sol lié à ce « catch »,
   ou jusqu’à ce qu’il lance le disque.
 
 Pour qu'un disque soit considéré comme attrapé, il doit être tenu fermement entre au moins deux parties du corps et ne
@@ -975,30 +981,186 @@ lanceur doit revenir au bon endroit.
 Le lanceur ne peut pas ramasser le disque, regarder s'il y a un joueur prêt pour une passe et puis se déplacer à la
 ligne de but.
 
+## 14. Marquer un point
 
+### 14.1. Le Callahan (14.1.)
 
+- Exemple 1 : Un défenseur intercepte un disque directement dans sa zone d'en but (la zone qu'il attaquerait au prochain
+  revirement).
+    - Le défenseur marque un point.
+    - La règle 14.1. dit qu'un point est marqué quand un joueur attrape une passe légale et que le premier contact avec
+      le sol se trouve dans la zone d'en-but attaquée. Elle ne dit pas que la passe doit être faite par un membre de la
+      même équipe.
+    - La dénomination « Callahan » n'est pas une dénomination officielle.
 
+### 14.2. Lancer le disque après un point (14.1.)
 
+- Exemple 1 : Un joueur attrape le disque dans la zone d'en-but attaquée, mais ne s'en rend pas compte et relance le
+  disque.
+    - Il y a point, peut importe le résultat de la passe supplémentaire
+    - La règle 14.1. ne dit pas que le joueur qui a marqué un point doit en être conscient. Ainsi, si quelqu'un qui a
+      une bonne perspective annonce le point, il y a point. Le disque ne peut plus être joué après qu'un point soit
+      marqué, donc ce lancé supplémentaire n'est pas pris en compte.
+    - Si ce n'est pas claire que le point ait bien été marqué (s'il n'est pas confirmé par un joueur avec une bonne
+      perspective ou si l'adversaire a une vision contraire sur le jeu), le résultat de la passe supplémentaire est
+      conservé.
+    - Les joueurs peuvent faire appel aux personnes sur la touche pour déterminer si le point marqué, cependant, c'est
+      aux joueurs informés de prendre la décision finale.
+    - Si le joueur fait une passe incomplète après avoir attrapé le disque dans la zone d'en-but, mais sans avoir
+      maintenu le catch lors des contacts avec le sol lié à ce « catch », il y a revirement.
+    - Tout le monde peut se déplacer lorsque le lanceur resort de la zone d'en-but après un catch dont la course fini
+      dans la zone d'en-but.
 
+### 14.3. « Catcher » le point (14.1.)
 
+Si un joueur dans la zone d'en-but referme ses mains sur le disque, controle le disque un moment puis perd le controle
+et le disque touhce le sol, il s'agit d'un « clap spike ». Un « clap spike » n'est pas un point puisque le joueur ne
+maintient pas le catch plus qu'un instant perseptible et durant les contacts avec le sol relatif au « catch ».
 
+### 14.4. « Catcher » le point proche de la touche (14.1.)
 
+- Exemple 1 : Si un joueur attrape une passe dans la zone d'en-but très proche de la touche puis sort du terrain et
+  établit la
+  possession.
+    - Tant que le joueur attrape la passe (en ayant un disque sans rotation entre deux parties de son corps) alors qu'il
+      est en contact avec la zone d'en-but (et pas en contact avec l'extérieur du terrain), il y a point.
+    - Si un joueur qui attrape le disque dans l'a zone d'en-but, entre en contact avec l'extérieur puis échappe le
+      disque avant d'
+      établir la possession, c'est un revirement hors-limites (*out-of-bound turnover*) peut importe s'il conserve la
+      possession avant que le disque ne touche le sol.
 
+### 14.5. Être en contact avec la zone d'en-but (14.1.1.)
 
+Si un joueur atterrit clairement sur ses orteils puis continue en descendant sur ses talons, ses orteils sont le premier
+point de contact au sol. Si un joueur atterrit plutôt les pieds à plat et qu'il n'est pas possible de déterminer quelle
+partie de
+son pied a toucher le sol en premier, le pied entier est son premier point de contact au sol.+
+Rappel: Les lignes de la zone d'en-but ne font pas partie de la zone d'en-but.+
 
+### 14.6. Contester un point (14.2.)
 
+Après un point contesté ou rétracté où le réceptionneur maintient la possession, tous les joueurs doivent revenir à
+l'endroit où ils se trouvaient quand le joueur a établi la possession.
 
- 
+Si un joueur peut raisonablement considérer que son équipé a marqué un point et agit comme tel (par exemple en célébrant
+le point), Ceci doit être considéré comme un appel de point (*goal call*). Ce appel arrete le jeu et les actions
+supplémentaires ne sont plus prises en compte.
 
+### 14.7 Appel de point et les limites de temps (14.4.)
 
+S'il y a des discussions à propos du point et qu'après discussion le point est confirmé, du fait des règles de limite
+de temps, le point est considéré terminé lorsque la possession est établie et que le joueur est en contact avec la zone
+d'en-but. Cependant, la limite de temps entre deux points ne commencera qu'une fois la discussion terminée.
 
+## 15. Appeler les fautes, infractions et violations
 
+### 15.1. Appeler une transgression ou un revirement (15.)
 
+Un joueur qui appel une faute, violation, infraction ou un revirement doit avoir des raisons de penser qu'une
+transgression ou un revirement ait eu lieu, mais il n'est pas tenu d'en être certain.
+Si un joueur considère qu'il y a des raisons de penser à une transgression ou un revirement, il peut appeler un arret de
+jeu (sans faire d'appel spécifique) pour permettre aux joueurs d'échanger sur la situation et déterminer ce qu'il s'est
+passé et comment il faut reprendre.
 
+### 15.2. Contact accidentel
 
+Un contact non-mineur accidentel est une faute. Il n'y a pas besoin qu'il soit intentionnel. En principe, il ne doit pas
+y avoir de contact intentionnel à l'Ultimate.
 
+### 15.3. Infraction arretant le jeu (15.2.)
 
+Le jeu ne s'arrete pas lors d'un appel d'infraction. Cependant, le marché ou les infractions de marquage peuvent
+conduire à un arret de jeu, par exemple, si après une infraction de marché une passe est lancée, après une infraction de
+marquage flagrante, ou après une infraction contestée.
 
+### 15.4. Informer l'adversaire d'une transgression (15.4)
+
+Si une transgression est commis mais n'est pas appelée, le joueur commettant l'infraction doit informer son adversaire
+ou son équipe. Cependant, le jeu ne doit pas s'arreter pour autant.
+
+### 15.5. Appeler une infraction (15.5)
+
+Seul le lanceur peut appeler une infraction de marquage, excepté dans le cas du double marquage (*double team*).
+En dehors du double marquage, les autres joueurs peuvent avertir le lanceur de l'infraction de marquage mais cet
+avertissement n'a pas d'effet (ce n'est pas un appel). Le lanceur peut alors faire l'appel par lui même et dans ce cas,
+l'adversaire doit en tenir compte.
+
+N'importe quel attquant peut faire un appel de double marquage, cependant si l'appel n'est pas fait par le lanceur,
+l'appel doit être fait assez fort pour que le lanceur et le marqueur puissent l'entendre. Si le lanceur répete l'appel
+au double marquage de son équipe, ce doit être considéré comme le même appel. (le compte n'est réduit qu'une fois).
+
+N'importe quel joueur adverse peut faire un appel de marché, cependant si l'appel n'est pas fait par le marqueur,
+l'appel doit être assez fort pour que le lanceur et le marqueur puissent l'entendre.
+
+### 15.6 Appeler une transgression immédiatement (15.8.)
+
+Si un joueur ne peut pas faire un appel à une transgression qu'il reconnait (par exemple un chevauchement (*straddle*)
+pour un receptionneur), la transgression peut toujours être appelée quand le joueur pouvant faire l'appel la reconnait.
+Cependant, si par exemple, le marqueur voit que le lanceur a établi son pivot au mauvais endroit, il ne peut pas
+attendre que le compte atteigne 6 avant de faire son appel de marché.
+
+Si le jeu est arrété pour une discussion, un joueur peut toujours faire un appel pendant la discussion.
+
+### 15.7. arrêts du jeu incorrects (15.9.)
+
+Exemple 1: Un defenseur demande à un réceptionneur de s'arrêter, mais le jeu n'aurait pas du s'arreter et la passe à
+ce receptionneur échoue. Le disque doit revenir au lanceur et le compte doit reprendre à "Compté un" (comme pour 9.5.1.)
+
+Si il y a un désaccord sur qui a arreter le jeu de manière incorrecte, le disque doit revenir au dernier lanceur non
+contesté.
+
+### 15.8 Contester un appel (15.10.)
+
+Si un joueur a qui on reproche une transgression pense que la transgression n'a pas été suffisament
+significative pour changer le resultat d'une action, il peut contester l'appel.
+
+### 15.9 Rétracter un appel (15.11.)
+
+Si par exemple un marqueur appel une faute sur le lanceur, et après discussion le marqueur se retracte, le compte
+reprend à "Compté un" (comme pour 9.5.1.)
+
+### 15.10 Résoudre des transgressions simultanées
+
+Par exemple, le marqueur appel une faute offensive sur le lanceur pendant le lancé, puis un receptionneur appel une
+faute défensive sur un défenseur pendant la réception d'une passe incomplète.
+Les fautes sont résolues dans l'ordre inverse de la séquence. D'abord, la faute de réception (qu'on suppose acceptée
+ici), donne la possession au réceptionneur, puis la faute au lancé (supposée acceptée ici), retourne le disque au
+lanceur. +
+Si le disque revient au lanceur, le compte doit reprendre selon la règle 9.5.4.1
+
+## 16. Reprendre après un appel
+
+### 16.1 Comment le jeu reprend après ces scenarii (16.2)
+
+- Exemple 1: Le marqueur appelle une faute sur le lanceur et le lanceur tente une passe. La passe est incomplète.
+    - Le revirement persiste.
+    - Selon la règle 16.2.4.1, l'équipe qui a appelé la faute ou la violation gagne ou maintient la possession après la
+      passe, le résultat de l’action est maintenu. Le jeu peut continuer
+- Exemple 2: Le lanceur appelle une faute sur le marqueur pendant le geste de lancé. Le lancé n'est pas impacté et la
+  passe atteint sa cible, mais le réceptionneur rate sa réception.
+    - le revirement persiste.
+    - Règle 16.3 : Quel que soit le moment de l'appel, si les joueurs impliqués des deux équipes s'accordent sur le fait
+      que
+      l’incident n'a pas affecté le résultat de l'action, ce résultat est maintenu.
+    - Si la faute provoque un changement de direction ou fait vaciller le disque alors la faute a raisonnablement
+      impacter le jeu. Dans ce cas, le disque revient au lanceur, (16.2.4.2.1.)
+- Exemple 3: Une obstruction (*pick*) a gauche de la file (*stack*) alors que le disque passe à droite, le disque est en
+  l'air au moment de l'appel. Un attaquant attrape le disque.
+    - La possession persiste et le joueur qui a appelé l'obstruction avant là où il pense qu'il aurait du être.
+    - La règlge 16.3. L'obstruction n'affecte pas la possession.
+    - Si l'attaquant échappe le disque, il y a revirement (16.2.4.1.)
+    - Si l'obstruction a été appelé avant le lancé, ni l'obstruction, ni l'appel de l'obstruction n'affecte le jeu, le
+      revirement persiste.
+
+### 16.2. Un appel affecte le jeu (16.2., 16.3.)
+
+Un évènement (incluant une faute, violation ou injury) ou un appel affecte le jeu si le résultat qui aurait du survenir,
+ne se produit pas. Par exemple, un appel affecte le jeu si le receptionneur est avisé de la faute avant le lancé et
+qu'il ralendit en conséquence, ratant ainsi la passe.
+Pendant un arret de jeu pour une discussion sur cette situation, il est raisonnable d'échanger pour savoir si l'
+évènement a affecté le résultat. Si l'adversaire pense que le jeu a été affecté, ils doivent le justifier.
+
+### 16.3
 
 
  

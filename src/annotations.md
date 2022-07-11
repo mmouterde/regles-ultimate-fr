@@ -1160,12 +1160,109 @@ qu'il ralendit en conséquence, ratant ainsi la passe.
 Pendant un arret de jeu pour une discussion sur cette situation, il est raisonnable d'échanger pour savoir si l'
 évènement a affecté le résultat. Si l'adversaire pense que le jeu a été affecté, ils doivent le justifier.
 
-### 16.3
+### 16.3. Faute de marquage avant un lancé (16.2.)
 
+- Exemple 1: Si le lanceur appelle une faute avant le lancé, le jeu doit s'arreter. Si le lanceur reprend pas
+  correctement le jeu, le disque lui revient sans que 16.3. ne s'applique.
+    - Si le lanceur subit une faute avant le lancé, que la faute est toujours en cours pendant le lancé, la règle 15.9.
+      s'applique.
 
- 
+### 16.4. Une Obstruction/faute n'impliquant pas le lanceur est appelée prendant le lancé (16.2.)
 
+Contrairement à la version précédente de la règle, la règle de continuation ne s'applique pas aux appels fait pendant le
+lancé (s'il n'implique pas le lanceur).
+Donc si une faute est appelée par le réceptionneur au dump alors que le lanceur effectue son lancé, le jeu doit
+s'arreter immédiatement. Si le lanceur continue le lancé, sans être impacté par l'appel à la faute, le résultat de la
+passe
+persiste (16.3.).
+Cependant, si le lanceur entend l'appel à la faute pendant son lancé, et que celui-ci est impacté par l'appel et donne
+lieu à une passe incomplète, la règle 16.3. ne s'appliquerait pas et le disque reviendrait au lanceur.
+De plus, si une obstruction est appellée lors du lancé et que le lanceur tente d'interrompre son lancé en conséquence,
+si la passe est incomplete, le disque lui est retourné.
 
+### 16.5. "Play on" appelé avant que la possession ne doit établie (16.2.4.1.)
 
+Si "Play on" est appelé avant que la possession ne soit établie et qu'ensuite l'équipe qui a appelé la faute perd ou ne
+maintient pas la possession, l'appel "play on" doit être ignoré et le jeu arreté. Les joueurs concernés doivent
+déterminer si la transgression a effectivement affecté le resultat avant de determiner si le resultat doit persister.
 
+### 16.6. "Play on" non appelé (16.2.4.1.)
+
+N'importe quel joueur qui remarque que le jeu doit continuer sans interruption doit annoncer "play on" +
+Si le joueur qui a appelé la transgression n'appelle par "play on" et que l'adversaire n'est pas certain de savoir si le
+jeu doit continuer, l'équipe adverse peut interrompre le jeu en appelant une violation. +
+
+### 16.7. L'équipe qui gagne ou maintient la possession peut choisir d'arreter le jeu (16.2.4.1.)
+
+Si l'équipe qui a appeler la faute gagne ou maintient la possession mais que la faute l'a empèché de continuer à jouer,
+ils peuvent appeler une faute indirecte une fois la possession établie. Ceci arrete le jeu et lui permet de réajuster
+leurs placements désavantageux provoqués par l’incident.
+
+### 16.8. La faute est appelé avant d'établir la possession (16.3.)
+
+Si un réceptionneur attaquant appel une faute sur un contact avant que la possession ne soit établie, il est possible de
+continuer à jouer le disque. Si le défenseur interromp le jeu pour discuter de l'appel à la faute, ou contester la
+faute, le jeu ne s'arrete pas tant que la possession n'est pas établie. Une fois que la position est établie le jeu
+s'arrete mais, comme précisé par la règle 16.2.4.1, si le receptionneur attrape la passe, la reception persiste.
+
+### 16.9. Plus d'une passe (16.3.)
+
+Il n'y a pas de limite spécifique au nombre de passes qui peuvent être faite avant d'appliquer la règle 16.3. Cependant,
+une fois qu'une première passe ait été complétée, il devient d'avantage probable que l'incident ou l'appel n'ai pas
+affecter le résulat.
+
+## 17. Les fautes
+
+### 17.1. Contact mineur impliquant mains/bras (17.)
+
+Un contact avec les bras tendus ou les mains d'un adversaire qui sont en contacts avec le disque ou qui sont sur le
+point d'être, ne sont pas considérés comme un contact mineur.
+Un contact avec la main d'un lanceur lors du mouvement de lancé n'est pas considéré comme un contact mineur.
+
+### 17.2. Jeu dangeureux (17.1)
+
+Les fautes de jeu dangeureux peuvent être appelées avant un incident pour éviter une potentielle collision, par exemple
+si un défenseur qui court de manière à ce qu'un accident pourrait survenir si l'attaquant poursuit sa course.
+Lorsque cela arrive il est correcte de ne pas faire d'action sur le disque et d'appeler une faute de jeu dangeureux.
+Les joueurs appelant une faute de jeu dangereux avant un potentiel incident doit avoir une raison valable de le faire.
+Ils doivent avoir été en situation de voir effectivement que l'autre joueur arriver et avoir des raisons de croire que
+ce dernier n'évitera pas le contact. Ce qui peut inclure un précédent où ce joueur n'aurait pas évité le contact.
+
+Vous ne pouvez pas appeler un jeu dangeureux si vous sentiez que vous pouviez faire une action sur le disque mais que
+cela aurait initié un contact. Dans ce cas, vous devez vous retenir de faire une action sur le disque.
+
+Voici une liste non exaustives d'exemples de jeu dangeureux :+
+
+- une collision significative avec un adversaire plutôt stationnaire
+- sauter dans un groupe de joueurs stationnaires
+- un plongeon à coté ou sur un joueur produisant un contact avec son dos ou ses jambes.
+- courrir sans regarder dans une direction où il y a une probabilité d'y avoir d'autres joueurs
+- sauter ou quitter le sol où une collision significative se produirait
+- des gestes de lancé violents ou incontrollés
+- initier un contact avec la tête d'un joueur
+- initier un contact avec le bas du corp d'un joueur en l'air l'empéchant de retomber sur ses pieds
+- sauter juste devant un joueur qui sprint de manière à ce que le contact soit inévitable
+
+### 17.3. Faute d'un coéquipier (17.2)
+
+Si un joueur A initie un contact avec un adversaire B qui entraine un contact de B sur un joueur C de l'équipe de A, le
+joueur C ne peut pas appeler de faute sur B car il n'initie pas le contact.
+
+### 17.4. Faute de réception quand le disque n'est pas clairement attrapable (17.2.)
+
+- Exemple 1: Un attaquant court après une longue passe et trébuche à cause d'un défenseur. Ce n'est pas évident de
+  savoir
+  si l'attaquant aurait pu avoir le disque si la faute n'avait pas eu lieu.
+    - Si l'attaquant pense que le défenseur a initier un contact non mineur il peut appeler une faute.
+    - Si le défenseur reconnait avoir commis une faute mais qu'il ne pense pas que l'attaquant avait raisonablement une
+      chance d'avoir le disque, il peut invoquer la règle 16.3. et déterminer avec l'attaquant si le résultat persiste.
+    - Si les joueurs ne s'accordent pas sur ce qui ce s'est passer sur le jeu, le disque doit revenir au lanceur et les
+      joueurs doivent retourner à l'endroit où ils se trouvaient au moment où le disque a été lancé (règle 1.12. et
+      10.2.2.).
+    - S'il est claire pour les autres joueurs que l'attaquant n'avait aucune change d'avoir le disque même sans la
+      faute, ils doivent encourager l'attaquant à accepter un turnover.
+    - Si la faute est acceptée, qu'un accord ressort sur l'impact sur le jeu, l'attaquant gagne la possession à l'
+      endroit de la faute et non à l'endroit où il aurait attrapé le disque.
+
+### 17.5. Fautes de réception (17.2.)
 

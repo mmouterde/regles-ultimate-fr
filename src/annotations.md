@@ -389,7 +389,7 @@ tous les joueurs peuvent se déplacer.
 
 Si d'autres joueurs sont en mouvement vers le disque (une situation fréquente après un revirement (*turnover*)), le
 joueur le plus proche peut décider de ne pas ramasse le disque, ce n'est pas une infration aux règles. Si aucun
-attaquant ne se dirige vers le disque puis le revirement, c'est une transgression aux règles.
+attaquant ne se dirige vers le disque puis le revirement (*turnover*), c'est une transgression aux règles.
 
 Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connait la règle avant de lui opposer une
 limite de temps.
@@ -843,8 +843,8 @@ possession du disque.
 
 ### 13.1. le disque touche le sol alors qu'il n'est pas en la possession d'un attaquant (13.1.1.)
 
-Ce n'est pas un revirement si le joueur attrape mal le disque avant d'établir complètement la possession dans le cas où
-il voulait prendre la possession du disque après un revirement ou après un engagement où le disque à déjà touché le
+Ce n'est pas un revirement (*turnover*) si le joueur attrape mal le disque avant d'établir complètement la possession dans le cas où
+il voulait prendre la possession du disque après un revirement (*turnover*) ou après un engagement où le disque à déjà touché le
 sol. (voir 8.1.4.)
 
 ### 13.2. le disque touche le sol alors qu'il n'est pas en la possession d'un attaquant (13.1.1.)
@@ -854,16 +854,16 @@ ensuite toucher le sol, il n'est pas down tant que le joueur maintient sa prise 
 réceptionneur peut changer les parties de son corps qui lui servent à tenir le disque, et tant que le disque est
 toujours maintenu par au moins une ce ces partie pendant le changement. Il s'agit toujours de la même réception. Si un
 réceptionneur a pincé le disque entre ses doigts et que quand le disque touche le sol, le choc le disque n'est plus
-pincé au même endroit, ce n'est pas une réception maintenu, c'est un revirement.
+pincé au même endroit, ce n'est pas une réception maintenu, c'est un revirement (*turnover*).
 
 Si, après une reception d'un disque qui a ensuite touché le sol, le réceptionneur ensuite perdu le controle du disque
 alors que celui ci ne touchait plus le sol, la réception initial n'est pas annulée, le disque peut encore être attrapé
 par n'importe quel joueur.
 
-### 13.3. Revirement par interception (13.1.2.)
+### 13.3. Revirement (*turnover*) par interception (13.1.2.)
 
 Un défenseur de l'équipe A intercepte une passe en étant en l'air, puis lance le disque avant de retoucher le sol, que
-la passe est incomplète c'est un revirement par l'équipe A, l'équipe B doit reprendre la possession du disque.
+la passe est incomplète c'est un revirement (*turnover*) par l'équipe A, l'équipe B doit reprendre la possession du disque.
 
 Un défenseur peut intentionnellement pousser une passe vers sa zone d'en-but, mais s'il touche ensuite le disque avant
 qu'il ne touche le sol, c'est un marché d'après la règle 18.2.5.5..
@@ -873,13 +873,13 @@ qu'il ne touche le sol, c'est un marché d'après la règle 18.2.5.5..
 Si l'échappée du disque à l'engagement ("dropper pull") est contestée l'équipe qui a engagé peut choisir de refaire l'
 engagement ou de se rétracter.
 
-### 13.5. revirement du fait d'une passe à soi même ("self-catch turnover") (13.2.5.)
+### 13.5. revirement (*turnover*) du fait d'une passe à soi même ("self-catch turnover") (13.2.5.)
 
 - Exemple 1 : Un lanceur relache accidentellement le disque lors de son pivot puis le rattrappe sans qu'aucun autre
   joueur
   ne touche le disque.
     - Ce n'est pas une passe à soi même, le marqueur peut continuer le compte. Si le lanceur a bouger son pied pivot, un
-      marché peut être appelé. Un revirement du fait d'une passe à soi même ne peut arriver qu'après que le lanceur ait
+      marché peut être appelé. Un revirement (*turnover*) du fait d'une passe à soi même ne peut arriver qu'après que le lanceur ait
       tenté une passe. Un passe est défini (en tant que Lancer) comme "Un disque en vol après un mouvement du lancer,
       incluant la perte de contact entre le lanceur et le disque après une feinte ou une perte intentionnelle de
       disque.". Dans cet exemple, le disque n'a pas volé après un mouvement de lancer ou une feinte. Aucune passe n'a eu
@@ -889,7 +889,7 @@ Si le disque est accidentellement laché pendant le mouvement de lancer d'une fe
 disque tant qu'un autre joueur n'y a pas toucher.
 
 Le lanceur peut touhcer le disque qu'il a lancer, par exemple pour éviter qu'un adversaire l'attrape ou pour le pousser
-à un co-équipier. Si le lanceur attrape sa propre passe, l'endroit du revirement est celui où se trouvait le lanceur
+à un co-équipier. Si le lanceur attrape sa propre passe, l'endroit du revirement (*turnover*) est celui où se trouvait le lanceur
 quand il a attrapé la passe.
 
 ### 13.6. Aider intentionnellement le mouvement d'un coéquipier (13.2.6.)
@@ -948,17 +948,17 @@ pourquoi le point pivot doit être établi sur la ligne de la zone d'en-but à c
 déplacer le cone. Notez que le joueur doit avoir suffisament de place pour pivoter autour de son pied de pivot (sinon
 des situations risquées pourrait survenir lors du pivot).
 
-### 13.12. Où établir le pied de pivot après un revirement quand le disque dans le terrain (13.9.)
+### 13.12. Où établir le pied de pivot après un revirement (*turnover*) quand le disque dans le terrain (13.9.)
 
 - Exemple 1 : Si l'endroit du « turnover » est dans la zone centrale, le lanceur doit établir un point pivot à cet
   endroit.
     - Le lanceur doit ramasser le disque et placer son pivot à l'endroit du disque (+). La règle 13.9. dit que le
-      lanceur doit établir son pivot à l'endroit du revirement.
+      lanceur doit établir son pivot à l'endroit du revirement (*turnover*).
 
 Le pivot doit être aussi proche que possible de l'endroit du disque. Le joueur ne doit pas placer son pied droit à
-l'endroit du revirement et utiliser ensuite son pied gauche comme pivot. c'est une infraction de marché (18.2.5.1.)
+l'endroit du revirement (*turnover*) et utiliser ensuite son pied gauche comme pivot. c'est une infraction de marché (18.2.5.1.)
 
-### 13.13 Signaux visuels après un revirement dans la zone d'en-but défendu (13.11.2.1.)
+### 13.13 Signaux visuels après un revirement (*turnover*) dans la zone d'en-but défendu (13.11.2.1.)
 
 Montrer la ligne de but peut être utile pour communiquer aux autres joueurs que l'option de la ligne de but est
 choisie pour établir le pivot et relancer le jeu. Si le geste est fait, le lanceur doit se rendre à la ligne de but.
@@ -973,7 +973,7 @@ marcher lentement ou non. (+).
 
 Le joueur doit remettre le disque en jeu à l'endroit du disque ou sur la ligne de but, pas entre les deux. (+)
 
-### 13.14. Etablir son pied de pivot après un revirement dans la zone d'en-but défendue (13.11.3.)
+### 13.14. Etablir son pied de pivot après un revirement (*turnover*) dans la zone d'en-but défendue (13.11.3.)
 
 Si le lanceur viole la règle 13.11.1., c'est considéfé comme une infraction de marché. Le jeu ne s'arrête pas mais le
 lanceur doit revenir au bon endroit.
@@ -986,7 +986,7 @@ ligne de but.
 ### 14.1. Le Callahan (14.1.)
 
 - Exemple 1 : Un défenseur intercepte un disque directement dans sa zone d'en but (la zone qu'il attaquerait au prochain
-  revirement).
+  revirement (*turnover*)).
     - Le défenseur marque un point.
     - La règle 14.1. dit qu'un point est marqué quand un joueur attrape une passe légale et que le premier contact avec
       le sol se trouve dans la zone d'en-but attaquée. Elle ne dit pas que la passe doit être faite par un membre de la
@@ -1007,7 +1007,7 @@ ligne de but.
     - Les joueurs peuvent faire appel aux personnes sur la touche pour déterminer si le point marqué, cependant, c'est
       aux joueurs informés de prendre la décision finale.
     - Si le joueur fait une passe incomplète après avoir attrapé le disque dans la zone d'en-but, mais sans avoir
-      maintenu le catch lors des contacts avec le sol lié à ce « catch », il y a revirement.
+      maintenu le catch lors des contacts avec le sol lié à ce « catch », il y a revirement (*turnover*).
     - Tout le monde peut se déplacer lorsque le lanceur resort de la zone d'en-but après un catch dont la course fini
       dans la zone d'en-but.
 
@@ -1056,9 +1056,9 @@ d'en-but. Cependant, la limite de temps entre deux points ne commencera qu'une f
 
 ### 15.1. Appeler une transgression ou un revirement (15.)
 
-Un joueur qui appel une faute, violation, infraction ou un revirement doit avoir des raisons de penser qu'une
-transgression ou un revirement ait eu lieu, mais il n'est pas tenu d'en être certain.
-Si un joueur considère qu'il y a des raisons de penser à une transgression ou un revirement, il peut appeler un arret de
+Un joueur qui appel une faute, violation, infraction ou un revirement (*turnover*) doit avoir des raisons de penser qu'une
+transgression ou un revirement (*turnover*) ait eu lieu, mais il n'est pas tenu d'en être certain.
+Si un joueur considère qu'il y a des raisons de penser à une transgression ou un revirement (*turnover*), il peut appeler un arret de
 jeu (sans faire d'appel spécifique) pour permettre aux joueurs d'échanger sur la situation et déterminer ce qu'il s'est
 passé et comment il faut reprendre.
 
@@ -1133,12 +1133,12 @@ Si le disque revient au lanceur, le compte doit reprendre selon la règle 9.5.4.
 ### 16.1 Comment le jeu reprend après ces scenarii (16.2)
 
 - Exemple 1: Le marqueur appelle une faute sur le lanceur et le lanceur tente une passe. La passe est incomplète.
-    - Le revirement persiste.
+    - Le revirement (*turnover*) persiste.
     - Selon la règle 16.2.4.1, l'équipe qui a appelé la faute ou la violation gagne ou maintient la possession après la
       passe, le résultat de l’action est maintenu. Le jeu peut continuer
 - Exemple 2: Le lanceur appelle une faute sur le marqueur pendant le geste de lancer. Le lancé n'est pas impacté et la
   passe atteint sa cible, mais le réceptionneur rate sa réception.
-    - le revirement persiste.
+    - le revirement (*turnover*) persiste.
     - Règle 16.3 : Quel que soit le moment de l'appel, si les joueurs impliqués des deux équipes s'accordent sur le fait
       que
       l’incident n'a pas affecté le résultat de l'action, ce résultat est maintenu.
@@ -1148,9 +1148,9 @@ Si le disque revient au lanceur, le compte doit reprendre selon la règle 9.5.4.
   l'air au moment de l'appel. Un attaquant attrape le disque.
     - La possession persiste et le joueur qui a appelé l'obstruction avant là où il pense qu'il aurait du être.
     - La règlge 16.3. L'obstruction n'affecte pas la possession.
-    - Si l'attaquant échappe le disque, il y a revirement (16.2.4.1.)
+    - Si l'attaquant échappe le disque, il y a revirement (*turnover*) (16.2.4.1.)
     - Si l'obstruction a été appelé avant le lancé, ni l'obstruction, ni l'appel de l'obstruction n'affecte le jeu, le
-      revirement persiste.
+      revirement (*turnover*) persiste.
 
 ### 16.2. Un appel affecte le jeu (16.2., 16.3.)
 
@@ -1294,7 +1294,7 @@ une zone d’en-but. Le jeu reprend par un « check » à l'endroit de la faute,
 l’endroit le plus proche sur la ligne de but (14.2.). Tous les joueurs peuvent bouger dès le check et le marqueur ne
 peut compter qu'une fois le pivot établi sur la ligne de la zone d'en-but.
 
-Si le réceptionneur lâche le disque au sol alors qu'il marche vers la ligne d'en-but, il y a revirement et le jeu est
+Si le réceptionneur lâche le disque au sol alors qu'il marche vers la ligne d'en-but, il y a revirement (*turnover*) et le jeu est
 vivant.
 
 ### 17.7. Faute d'arrachage, *strip* (17.3.)
@@ -1521,10 +1521,153 @@ naturellement dû s'arreté d'après le mouvement précédent.
 
 ### 18.11. Prendre de l'élan pour lancer (18.2.5.3.)
 
-Après un engagement, un revirement hors de la zone centrale, ou un déplacement hors du terrain pour pouvoir s'arreter,
+Après un engagement, un revirement (*turnover*) hors de la zone centrale, ou un déplacement hors du terrain pour pouvoir s'arreter,
 un lanceur ne peut pas prendre de l'élan pour faire une passe sans avoir établi un point de pivot.
 
-### 18.12. 
+### 18.12. Mal attraper (18.2.5.5.)
+
+Tout contact avec le disque qui ne conduit pas à une réception propre peut être considéré comme "mal attraper" ou "met
+du temps à bien maitriser".
+
+Si un joueur retarde la maitrise du disque intentionnellement pour pouvoir avancer et le maitriser dans la zone d'en-but
+et marquer un point, c'est une infraction de marché.
+
+Si un joueur rate une réception mais fini par controller le disque dans la zone d'en-but, il y a point dès lors que les
+ratés ne sont pas intentionnels.
+
+Si un joueur contacte plusieurs fois le disque uniquement pour lui permettre d'attraper correctement un disque qu'il
+n'aurait pas maitrisé sinon, ce n'est pas une infraction de marché.
+
+### 18.13. Continuer à jouer après un appel de marché (18.2.6.)
+
+Exemple : Un appel à l'infraction de marché est accepté et le lanceur n'a pas relaché le disque.
+
+- Le jeu ne s'arrete pas. Le lanceur soit établir son pivot au bon endroit (18.2.6.).
+- Si l'appel est accepté, tous les joueurs, excepté le lanceur, sont libres de se déplacer n'importe où sur le terrain.
+- Le jeu ne s'arrete pas, mais le disque est vivant, il peut y avoir revirement (*turnover*) (par exemple si le lanceur échappe le
+  disque) +
+- Si la défense n'indique pas au lanceur où le marché à eu lieu, ou si le lanceur souhaite contester l'endroit indiqué,
+  le lanceur doit appeler une violation, arreter le jeu et expliquer que l'endroit n'est pas correcte ou pas indiqué. +
+- Si l'appel de marché est contesté, les joueurs doivent retourner où ils étaient au moment de l'appel.
+- Si une passe est complétée, le jeu s'arrete et le disque revient au lanceur.
+
+### 18.14 Reprendre après une violation de marché (18.2.7.)
+
+Après une violation de marché, Le lanceur doit retourner à l'endroit qu'il occupait au moment de l'infraction, et non
+pas à
+l'endroit où il aurait du être.
+Après un revirement hors limite (*out-of-bound turnover*), si une infraction de marché est appelé parce que il a établi
+son pivot sur la ligne de touche plutôt que sur la ligne d'en-but et qu'il a lancé une passe complété, le jeu doit
+s'arreter. Le disque est retourné au lanceur et doit être checké à l'endroit de l'infraction : sur la ligne de touche.
+Une fois que le disque est checké, il doit se déplacer sur la ligne d'en-but pour établir un pivot au bon endroit. Tous
+les joueurs peuvent se déplacer dès que le disque est checké. Le disque est considéré mort tant que le pivot n'est pas
+établi.
+
+### 18.15 Appeler un obsruction (*pick*) (18.3.1.)
+
+Une obstruction ne peut être appelée que si le joueur bloqué se trouve à moins de 3 mètres du joueur gardé _au
+moment du l'obstruction_. Cependant, il n'est pas nécessaire d'être à moins de 3 mètres _au moment de l'appel_ parce que
+l'
+obstruction peut rapidement agrandir la distance entre les joueurs avant l'appel.
+
+Une obstruction peut venir d'un contact ou la nécessité d'éviter un joueur.
+
+Une obstruction ne peut être appelé par l'attaque.
+
+Une obstruction ne peut pas être appeler par un défenseur bloqué alors qu'il tente une action sur le disque, ce n'est
+pas lié à sa capacité à poursuivre le joueur qu'il garde. En revanche il peut appler une violation 12.7. si applicable.
+
+Après un appel d'obstruction accepté, le défenseur lésé rattrape sa position perdue à cause de l'obstruction. S'il
+poursuivait son joueur à 2.5m derrière lui, il peut se remettre à 2.5m de son joueur mais pas immédiatement à coté. +
+
+Si l'attaque conserve la possession, après un appel d'obstruction accepté, le défenseur lésé peut aller à l'endroit où
+il aurait été sans l'obstruction. Tous les autres joueurs, incluant le joueur gardé par ce défenseur doivent se
+positionner selon la règle 10.2..
+
+Si le défenseur retarde son appel à l'obstruction selon 18.3.1.1., l'obstruction est considéré étant appelé au moment de
+effective de l'appel.
+
+Si le défenseur retarde de plus de 2 secondes son appel 15.9. s'applique.
+
+## 19. Interuptions de sécurité
+
+### 19.1. Interruption pour Blessure (*Injury*) (19.1.2.)
+
+Le joueur bléssé doit choisir une des deux options proposées. Cependant si son équipe n'a plus de temps-mort, il doit
+être remplacé.
+
+"faire prendre un temps-mort à sa propre équipe" signifie qu'un temps-mort est décompté de ceux autorisés pour cette
+mi-temps, cependant, l'équipe ne peut pas en profiter pour discuter de tactiques ou se poser comme lors d'un temps-mort
+habituel de 75 secondes.
+
+S'il y a un désaccord sur qui est à l'origine de la blessure, alors 19.1.3. s'applique.
+
+Si le joueur A est remplacé pour cause de blessure, et qu'une autre blessure requière une autre remplacement, le joueur
+A peut revenir jouer.
+
+Si une interruption pour blessure est appelé pendant un temps mort, l'équipe adverse doit être notifiée dès que la
+blessure est découverte.
+
+### 19.2. Interruption pour blessure et reprise du jeu (19.1.6.)
+
+Si une interruption pour blessure est appelée alors que le disque est en l'air et que les joueurs s'arretent
+pour aider un joueur séverement blessé, il est raisonable de traiter cette interruption comme une interruption technique
+et d'autoriser le disque à revenir au lanceur.
+
+### 19.3. condition qui met en danger les joueurs (19.2.1.)
+
+Un joueur peut appeler une interruption technique pour elever ou ajuster un objet potentiellement dangeureux (comme une
+pierre, un morceau de métal, de bois ou de verre) trouvé sur le terrain.
+
+Le réceptionneur n'est pas tenu de continuer à jouer dans une situation dangeureuse, comme un enfant qui erre sur le
+terrain. Dans ce cas, le réceptionneur doit s'arreter de jouer le disque pour prioriser sa sécurité et celle des autres
+et le disque doit revenir au lanceur dès que la situation dangeureuse est résolue. +
+
+### 19.4. blessures ouvertes ou saignantes (19.2.1.)
+
+Une blessure ouverte ou saignantes est "résolue efficacement" si elle est recouverte d'un pansement suffisamment solide
+pour résister aux exigences de l'activité et capable d'empêcher fluides corporels d'entrer en contact avec d'autres
+joueurs.
+
+Les joueurs qui aurait recu du sang sur les vêtements doivent se faire désinfecter les zones touchées ou doivent changer
+de vêtements avant de retourner jouer.
+
+Le fait qu'un joueur puisse ou non retourner au jeu est déterminé par personnel médical approprié. Si le personnel
+médical n'est pas disponible, les capitaines et les entraîneurs peuvent convenir qu'une blessure a été efficacement
+couverte et que tout problème vestimentaire a été traité. +
+
+L'arrêt ne devrait être utilisé que pour régler le problème du sang.
+
+### 19.5. Interruption technique pour un disque sévèrement endommagé (19.2.2.)
+
+Un disque sévèrement endommagé est un disque fendu, déchiré, profondément creusé, tordu,
+perforé ou déformé (plié). Un disque légèrement déformé, humide ou sale ne peut être qualifié de sévèrement endommagé.
+
+## 20. Temps-morts
+
+### 20.1. Appeler un temps mort pendant le jeu (20.3.)
+
+Si un lanceur peut ou doit se déplacer pour établir son pivot un à endroit différent de celui où il a établi la
+possession, il peut appeller un temps-mort avant d'établir son pivot au bon endroit. Cela signifie que si le lanceur
+ramasse le disque après un revirement (*turnover*) et que l'endroit du revirement (*turnover*) n'est pas dans la zone centrale, il peut appeler un
+temps-mort immédiatement. S'il le fait, il doit placer le disque à l'endroit où il établira son pivot après le temps
+mort.
+
+### 20.2. Retard non nécessaire après un temps-mort (20.3.)
+
+La règle du retard non nécessaire (10.5) s'applique aussi lors de la reprise après un temps-mort.
+
+Pour les matchs utilisant l'annexe, se référer à la section des timings spécifiques.
+
+### 20.3. Temps-mort entre les points ou pendant une interruption (20.4.)
+
+Si une équipe appelle un temps-mort entre deux points ou pendant une interruption mais qu'elle n'en a plus, l'appel au
+temps-mort est sans effet.
+
+
+
+
+
 
 
 

@@ -8,10 +8,12 @@ Version officielle effective au 01/01/2021
 
 Produite par le sous comité aux règles de l'Ultimate de la WFDF
 
+Traduction de Martin Mouterde @mmouterde (Ultimate Thorigné Fouillard)
+
 ## Introduction
 
 Ces Annotations complètent le document *Les Règles de l'Ultimate 2021-2024 de la WFDF*.
-Les joueurs y trouveront des élèments pour appliquer les règles de manière correcte et résoudre les éventuels problèmes
+Les joueurs y trouveront des éléments pour appliquer les règles de manière correcte et résoudre les éventuels problèmes
 sur le terrain.
 
 Même si les règles sont écrites de manière à être aussi compréhensibles, claires, simples et précises que possible,
@@ -19,12 +21,12 @@ il s'avère qu'il n'est pas toujours facile pour les joueurs de comprendre comme
 Ces Annotations apportent donc quelques exemples classiques de comment les règles devraient être appliquées.
 
 Dans un sport arbitré, chaque transgression de règle est soumise à l'appréciation d'un arbitre qui juge de leur
-caractère significatif sur la suite du jeu. L'ultimate, quant à lui, est un sport auto-arbitré. Ces Annotations sont
+caractère significatif sur la suite du jeu. L'Ultimate, quant à lui, est un sport auto-arbitré. Ces Annotations sont
 donc également un moyen de fournir une base de connaissances communes sur quelles transgressions doivent être considérer
 comme significatives.
 
 Bien que les Annotations Officielles ne fassent pas parties des règles du jeu, elles définissent des conventions qui
-devraient être suivies pour établir une manière commune de jouer. Concrêtement, si un exemple de ce document est
+devraient être suivies pour établir une manière commune de jouer. Concrètement, si un exemple de ce document est
 rencontré sur le
 terrain, les indications de ces Annotations Officielles devraient être suivies.
 
@@ -52,7 +54,7 @@ permettent de guider dans la résolution du problème :
   doit reprendre comme avant l'appel (*call*).
 
 Note : Certaines de ces annotations ont été extraites de "2020-21 USA Ultimate Official Rules of Ultimate" avec la
-permission de USA Ultimate. Elles sont indiquées par un symbol +.
+permission de USA Ultimate. Elles sont indiquées par un symbole (†).
 
 ## Annotations officielles
 
@@ -64,7 +66,7 @@ Pour qu'une transgression des règles soit considérée comme flagrante il faut 
 règles qui ne devrait pas se produire dans un jeu standard d'Ultimate, ou une pour laquelle il n'y a pas de
 justification raisonnable dans les règles.
 
-- Exemple 1 : Un défenseur commet un jeu dangereux flagrant entrainant une faute sur un réceptionneur qui s’apprêtait à
+- Exemple 1 : Un défenseur commet un jeu dangereux flagrant entraînant une faute sur un réceptionneur qui s’apprêtait à
   réceptionner le disque dans la zone d'en-but qu'il attaquait.
 
     - Les capitaines peuvent choisir d'accepter le point ou que le réceptionneur gagne la possession et reprenne depuis
@@ -80,7 +82,7 @@ justification raisonnable dans les règles.
   offensif et fait une interception du disque au lancé (*block*).
     - Les capitaines peuvent choisir de retourner le disque au lanceur.
 
-#### 1.2 Expliquer leur point de vue clairement et brièvement (1.3.4)
+#### 1.2 Fournir une preuve pour appuyer un appel (1.3.4)
 
 C'est essentiel, pour un bon esprit du jeu, qu'un joueur soit préparé à expliquer brièvement, si besoin, la
 raison objective de son appel (*call*) ou de sa contestation.
@@ -112,7 +114,7 @@ doivent pas commencer à faire plus d'appels simplement parce que la fin du matc
 Les joueurs doivent avoir un degrés raisonnable de tolérance envers les infractions mineures impliquant des
 légères variations sur la distance et le temps.
 
-- Exemple 1 : Si un lanceur etablit un point pivot à un centimètre du l'endroit approprié alors le marché (*travel*) ne
+- Exemple 1 : Si un lanceur établit un point pivot à un centimètre du l'endroit approprié alors le marché (*travel*) ne
   doit pas être appelé.
 
 #### 1.5 Intimidation (1.6.3.)
@@ -133,7 +135,7 @@ C'est toujours aux joueurs de faire l'appel. Les non joueurs ne doivent pas inte
 concerné ne le demande pas.
 Si le jeu a été arrêté et qu'un joueur n'est pas en mesure d'appeler la faute, par exemple à cause d'une blessure ou de
 la barrière de la langue, alors un coéquipier peut faire l'appel (*call*) à sa place.
-Les équipes peuvent faire intervenir un non joueur comme interprete pour aider à la communication pendant une
+Les équipes peuvent faire intervenir un non joueur comme interprète pour aider à la communication pendant une
 interruption.
 
 #### 1.8 Usage de technologie (1.10.)
@@ -141,17 +143,17 @@ interruption.
 Les joueurs peuvent visionner des photos ou des vidéos d'un appel si cela est disponible.
 Cependant, le jeu ne peut pas être trop retarder pour cela. Voir l'*Annexe* pour plus de détails.
 
-Par exemple, une redifussion instantanée du jeu par les équipements du stade peut être utilisé par les joueurs
+Par exemple, une rediffusion instantanée du jeu par les équipements du stade peut être utilisé par les joueurs
 pour résoudre un appel à la faute contesté.
-Les joueurs ne peuvent cependant pas demander qu'un extrait specifique soit repasser à l'écran.
-Si, après le visionnage de la video, le desaccord persiste, les joueurs ne doivent pas retarder davantage le match en
-visionnant plusieurs fois la vidéo. Dans ce cas, le match doir reprendre comme dans le cas normal d'une faute
-contestée. (+)
+Les joueurs ne peuvent cependant pas demander qu'un extrait spécifique soit repasser à l'écran.
+Si, après le visionnage de la vidéo, le désaccord persiste, les joueurs ne doivent pas retarder davantage le match en
+visionnant plusieurs fois la vidéo. Dans ce cas, le match doit reprendre comme dans le cas normal d'une faute
+contestée. (†)
 
 #### 1.9 Les appels par les capitaines (1.11.)
 
 Un capitaine ne doit pas faire d'appel qui arrête le jeu si il n'est pas directement dans le jeu.
-Cependant un capitaine peut intervenir pour résoudre un appel qui a déjà arrété le jeu.
+Cependant un capitaine peut intervenir pour résoudre un appel qui a déjà arrêté le jeu.
 
 #### 1.10 Discussion autour d'un fait de jeu (1.12.)
 
@@ -161,9 +163,9 @@ passé,
 et écouter le point de vue de l'adversaire ou des autres joueurs avec une bonne perspective sur l'action.
 
 Si la discussion est rendu difficile du fait de la barrière de la langue alors les gestes ou une reconstitution de
-l'incident peut être utilisés pour illustrer ce qu'il s'est passé lors de l'incident. (par exemple, tapper sa propre
+l'incident peut être utilisés pour illustrer ce qu'il s'est passé lors de l'incident. (par exemple, taper sa propre
 main pour montrer qu'on a subi un contact sur celle-ci au moment d'attraper le disque).
-Les équipes peuvent faire appel à un non joueur comme interprete pour aider à la communication pendant l'interruption.
+Les équipes peuvent faire appel à un non joueur comme interprète pour aider à la communication pendant l'interruption.
 
 Parfois il n'est pas possible d'être raisonnablement certain de ce qu'il s'est produit. (par exemple si personne n'a de
 bonne perspective, ou si cela s'est passé trop vite). Parfois, il est difficile de savoir si quelque chose à affecter le
@@ -171,32 +173,34 @@ jeu. Dans ces circonstances, le disque doit être retourné au dernier lanceur n
 
 Les discussions doivent être aussi brèves que possible et se finir sur un appel accepté ou contesté.
 Cependant s'il devient clair qu'une telle résolution n'arrivera pas, le disque doit revenir au dernier lanceur non
-contesté. La durée maximum suggérée pour une discussion lors d'une interuption est de quarante-cinq (45) secondes.
+contesté. La durée maximum suggérée pour une discussion lors d'une interruption est de quarante-cinq (45) secondes.
 Voir l'*Annexe* pour des compléments sur les règles concernant les durées.
 
 ### 2. Aire de jeu (2.1)
 
 L'aire de jeu est longue de cent (100) mètres et large de trente-sept (37) mètres. L'aire de jeu est découpée en une
-zone centrale de soixante-quatre mètres de long et deux zones d'enbut prodondent de
+zone centrale de soixante-quatre mètres de long et deux zones d'en-but prodondent de
 dix-huit mètres à chaque extrémité de la zone centrale.
 
-Toutes les lignes ont une largeur comprises entre soixante-quinze (75) et cent-vingt (120) milimètres et tracées avec un
+Toutes les lignes ont une largeur comprises entre soixante-quinze (75) et cent-vingt (120) millimètres et tracées avec
+un
 produit non caustique.
 
-S'il n'y a pas assez d'espace pour tracer un terrain dans les bonnes dimensions, les zones d'enbut doivent être réduites
+S'il n'y a pas assez d'espace pour tracer un terrain dans les bonnes dimensions, les zones d'en-but doivent être
+réduites
 avant la zone centrale. Voir l'*Annexe* pour plus de détails.
 
 S'il n'y a pas de lignes tracées et que les cônes utilisés pour matérialiser une ligne ne sont pas alignés,
-alors la limite est considérée comme étant la droite entre les deux cônes des zones d'enbut concernés.
-Par exemple, si un joueur est proche d'une ligne latérale dans la zone d'enbut, ceux sont les deux premiers cônes des
+alors la limite est considérée comme étant la droite entre les deux cônes des zones d'en-but concernés.
+Par exemple, si un joueur est proche d'une ligne latérale dans la zone d'en-but, ceux sont les deux premiers cônes des
 deux zones
 d'en-but de ce coté du terrain qui sont concernés.
-Si un joueur est proche d'une ligne latérale dans une zone d'enbut, ceux sont les deux cônes de cette même zone
+Si un joueur est proche d'une ligne latérale dans une zone d'en-but, ceux sont les deux cônes de cette même zone
 d'en-but, de ce coté du terrain qui sont concernés.
 
 ### 3. Equipement
 
-#### 3.1. Les équipements dangeureux ne doivent pas être portés. (3.4.)
+#### 3.1. Les équipements dangereux ne doivent pas être portés. (3.4.)
 
 Ceci inclut les bracelets montre, les bracelets, les boucles et bijoux saillant.
 Les crampons métalliques, longs crampons, et crampons tranchant ne sont pas autorisés.
@@ -205,7 +209,7 @@ Les crampons métalliques, longs crampons, et crampons tranchant ne sont pas aut
 
 Ceci inclut les équipements surdimensionnés, longs tissus etc...
 Le type de gants habituellement portés par les joueurs d'Ultimate sont autorisés, mais ils ne doivent en aucune manière
-abimer le disque ou laisser de résidu sur le disque.
+abîmer le disque ou laisser de résidu sur le disque.
 
 ### 4. Point et Jeu
 
@@ -251,14 +255,14 @@ Il est recommandé que les représentants des équipes utiliser la procédure d�
 
 #### 7.1. Un délai raisonnable avant le pull (7.1.1.)
 
-Les activités suivantes sont considérées comme raisonable avant un pull :
+Les activités suivantes sont considérées comme raisonnable avant un pull :
 
 - célébrer un point
 - Déterminer qui jouera au prochain point
 - Déterminer les tactiques de l'équipe pour le point
     - qui marque qui
     - les positions offensives
-    - quelle type de défence et/ou attaque sera utilisée
+    - quelle type de défense et/ou attaque sera utilisée
 
 Pour avoir un ordre de grandeur, le pull devrait être lancé dans les soixante-quinze secondes après le début du
 point (qui commence au début de la mi-temps ou quand le point précédent est marqué).
@@ -267,12 +271,12 @@ Voir l'*Annexe* pour plus de détails qui peuvent s'appliquer dans certaines com
 ### 7.2. Le *puller* (7.2.)
 
 Le *puller* est un défenseur qui effectuera le Pull.
-L'équipe qui engage peut désigner un nouveau *puller* n'importe quand avant le pull (+)
+L'équipe qui engage peut désigner un nouveau *puller* n'importe quand avant le pull (†)
 
 ### 7.3 Lisibilité des signalements (7.3., 7.4.)
 
 L'attaque doit est légalement positionnée et tous les non-joueurs de l'équipe attaquante doivent être en dehors du
-terrain avant que l'attaque puisse officiellement se signaller prête.
+terrain avant que l'attaque puisse officiellement se signaler prête.
 
 Tous les non-joueurs de l'équipe défensive doivent être en dehors du terrain avant que le pull ne soit lancé.
 
@@ -285,10 +289,10 @@ significative pour faire une différence sur l'action à venir.
 L'hors-jeu ne peut être appelé que par les joueurs sur le terrain. Tout appel par un non-joueur n'a pas de effet.
 Cependant les non-joueurs peut aider à surveiller un hors-jeu et peut conseiller avec leur perspective.
 
-Un hors-jeu contesté interromp le jeu et nécessite de refaire l'engagement.
+Un hors-jeu contesté interrompt le jeu et nécessite de refaire l'engagement.
 Pour contester un appel d'hors-jeu, un joueur de l'équipe qui conteste doit avoir une perspective au moins aussi bonne
 que la personne qui fait l'appel. Si l'appel est fait avec l'aide d'un non-joueur, seule une personne placée de manière
-identique peut etre considéré comme ayant une meilleure perspective.
+identique peut être considéré comme ayant une meilleure perspective.
 
 ### 7.5. Reprendre le jeu après un appel d'hors-jeu (7.5)
 
@@ -307,8 +311,9 @@ s'appliquent.
     - L'appel de hors-jeu n'a aucune incidence et le jeu se poursuit comme si l'appel n'avait pas eu lieu
 - Exemple 3 : La défense est hors-jeu et l'attaque appelle hors-jeu puis le disque tombe au sol et s'arrête dans la zone
   défendu par l'attaque
-    - L'attaque peut ramasser le disque et reprendre le jeu depuis le point de brick le plus proche de leur zone d'enbut
-      déffendu. Le Check n'est pas nécessaire.
+    - L'attaque peut ramasser le disque et reprendre le jeu depuis le point de brick le plus proche de leur zone d'
+      en-but
+      défendu. Le Check n'est pas nécessaire.
 - Exemple 4 : L'attaque est hors-jeu et la défense appelle hors-jeu une fois que l'attaque a attrapé le disque
     - L'appel de hors-jeu n'a aucune incidence et le jeu se poursuit comme si l'appel n'avait pas eu lieu
 - Exemple 5 : L'attaque est hors-jeu et la défense appelle hors-jeu alors que le disque est en l'air, puis le disque
@@ -323,23 +328,23 @@ retourner à la position qu'ils occupaient au moment de l'appel et reprendre le 
 
 ### 7.6. Lors d'un engagement, la défense arrête le disque qui roule (7.7.)
 
-- Exemple 1 : Lors de l'engagement, le disque touche le sol et commence à rouler vers la zone défendue, un defenseur
+- Exemple 1 : Lors de l'engagement, le disque touche le sol et commence à rouler vers la zone défendue, un défenseur
   arrête
   le disque avant même qu'un attaquant y touche.
     - La règle 8.4. autorise cette action. Si le défenseur repousse le disque vers la zone d'en-but de l'attaque, le
-      disque
-      peut être mis en jeu là où le disque a été touché. (8.4.1.)
+      disque peut être mis en jeu là où le disque a été touché. (8.4.1.)
 
 Lors de l'engagement, si le disque est toujours en l'air et que l'attaque n'y a pas encore touché, aucun défenseur ne
 peut y toucher, même si le vent le fait revenir en arrière. Si un défenseur le touche, l'attaque peut demander de
-refaire l'engagement. Si le disque atterit dans la zone d'en-but attaquée (ex: un engagement très court), l'attaque doit
+refaire l'engagement. Si le disque atterrit dans la zone d'en-but attaquée (ex: un engagement très court), l'attaque
+doit
 le prendre sur la ligne de l'en-but.
 N'importe quel attaquant peut également arrêter le disque de rouler. Ce joueur n'est pas obligé de ramasser le disque
-après l'avoir arreté.
+après l'avoir arrêté.
 
 ### 7.7 Appel de *Brick*
 
-Si un attaquant signale et appele un *brick*, un autre attaquant peut ramasser le disque.
+Si un attaquant signale et appelle un *brick*, un autre attaquant peut ramasser le disque.
 Si un joueur qui a une bonne perspective sur le jeu n'est pas d'accord sur le caractère hors limite de l'engagement,
 le point situé au milieu des deux pivots proposés doit être utilisé.
 
@@ -357,19 +362,19 @@ plus expérimenté doivent lui préciser l'appel à faire (règle 1.8.).
 ### 8.2. Le disque touche le sol (8.1.4.)
 
 Un disque est considéré comme ayant touché le sol quand il entre en contact avec le sol et qu'aucun joueur le l'a
-attrapé avant son contact au sol ou quand, après une récepition, le joueur perd le controle du disque à cause d'un
+attrapé avant son contact au sol ou quand, après une réception, le joueur perd le contrôle du disque à cause d'un
 contact au sol.
 
 Lors d'un engagement ou d'un revirement (*turnover*) quand le disque tombe au sol dans le terrain,
 si un attaquant tente de ramasser le disque mais le disque lui échappe et tombe, ce n'est pas un revirement *turnover*,
-tant que l'attaquant n'a pas eu le controle complet sur le disque avant de lacher accidentellement le disque.
+tant que l'attaquant n'a pas eu le contrôle complet sur le disque avant de lâcher accidentellement le disque.
 
 ### 8.3. Se déplacer pendant le jeu mort (8.1.5)
 
 Si après un revirement hors limite (*out-of-bound turnover*), le lanceur revient avec le disque vers le terrain de jeu,
 tous les joueurs peuvent se déplacer.
 
-### 8.4. Alterer significativement la position du disque (8.4.)
+### 8.4. Altérer significativement la position du disque (8.4.)
 
 - Exemple 1 : En essayant d'arrêter un disque qui roule, un joueur frappe le disque vers sa zone d'en-but attaqué.
     - L'adversaire peut demander à ce que le pivot soit établi là où le disque a été touché, en le verbalisant ou en
@@ -388,23 +393,24 @@ tous les joueurs peuvent se déplacer.
       ne doit pas attendre pour ramasser le disque.
 
 Si d'autres joueurs sont en mouvement vers le disque (une situation fréquente après un revirement (*turnover*)), le
-joueur le plus proche peut décider de ne pas ramasse le disque, ce n'est pas une infration aux règles. Si aucun
+joueur le plus proche peut décider de ne pas ramasse le disque, ce n'est pas une infraction aux règles. Si aucun
 attaquant ne se dirige vers le disque puis le revirement (*turnover*), c'est une transgression aux règles.
 
-Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connait la règle avant de lui opposer une
+Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connaît la règle avant de lui opposer une
 limite de temps.
 
 ### 8.6. Limitation de temps après un revirement (*turnover*) (8.5.1.)
 
 Pour imposer une limite de temps de 10 ou 20 secondes, la défense doit utiliser un pré-compte en décomptant à haute voix
-la limite de temps par interval de 5 secondes. Le pré-compte doit être audible par le joueur de l'attaque le plus proche
+la limite de temps par intervalle de 5 secondes. Le pré-compte doit être audible par le joueur de l'attaque le plus
+proche
 du disque. Le joueur qui compte n'est pas nécessairement celui qui sera le marqueur. Si le disque tombe hors limites, et
 roule pour revenir dans le terrain, les limites de temps décrites en 8.5.1. ne s'appliquent pas. (à moins que la
 compétition
 n'utilisent les règles WFDF d'Ultimate *Annexe*)
 Pour les compétitions où l'*Annexe* est utilisé, les limites de temps s'appliquent aussi pour les disques hors limites
 et pour l'engagement.
-Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connait la règle avant de lui opposer une
+Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connaît la règle avant de lui opposer une
 limite de temps.
 Si l'attaque considère que les limites de temps sont décomptées trop rapidement, elle peut appeler un *fast count* (
 compte rapide).
@@ -412,15 +418,15 @@ La défense doit laisser un accès dégagé au disque et au point pivot.
 
 ### 8.7. Commencer à compter après un délai de jeu (8.5.2.1)
 
-Après un appel à *delay of game*, l'attaque dispose de two (2) secondes pour corriger l'infraction avant que le compte
+Après un appel à *delay of game*, l'attaque dispose de deux (2) secondes pour corriger l'infraction avant que le compte
 ne commence.
 
 ## 9. *Stall Count* Le compte
 
 ### 9.1. Communiquer clairement le compte (9.2.)
 
-Le compte est habituellement communiqué verballement pour démarrer le compte. Les équipes peuvent se mettre d'accord sur
-une autre méthode en cas de cisrconstances particulières.
+Le compte est habituellement communiqué verbalement pour démarrer le compte. Les équipes peuvent se mettre d'accord sur
+une autre méthode en cas de circonstances particulières.
 
 ### 9.2. Quand démarrer le compte (9.3.)
 
@@ -428,11 +434,11 @@ une autre méthode en cas de cisrconstances particulières.
     - Même si le lanceur doit encore s'arrêter, se relever ou même re-rentrer dans le terrain parce que son élan l'en a
       fait sortir, le marquer peut commencer à compter.
 
-Si l'attaquant a besoin de temps parcequ'il a un obstacle, en dehors de terrain, à éviter (par sécurité, il ne devrait
+Si l'attaquant a besoin de temps parce-qu'il a un obstacle, en dehors de terrain, à éviter (par sécurité, il ne devrait
 pas y en avoir, mais en pratique cela peut arriver) le marqueur ne doit pas compter jusqu'à ce que l'attaquant ait eu ce
 délai.
 
-Si un lanceur re-établit la possession du disque après l'avoir laché accidentellement avant que ce dernier ne touche le
+Si un lanceur re-établit la possession du disque après l'avoir lâché accidentellement avant que ce dernier ne touche le
 sol
 et qu'aucun autre joueur ne le touche, la possession est considéré comme ayant été continue.
 
@@ -440,7 +446,7 @@ Si le lanceur re-établit la possession du disque après l'avoir accidentellemen
 sol mais
 après qu'un autre joueur y touche, c'est une nouvelle possession.
 
-Si un lanceur réceptionne une pass dans la zone centrale, mais que l'élan l'entraine en hors limite, le marqueur peut
+Si un lanceur réceptionne une passe dans la zone centrale, mais que l'élan l'entraîne en hors limite, le marqueur peut
 commencer ou continuer le compte s'il sont à sont à 3 mètre du point de pivot, y compris s'il n'est pas à 3 mètres du
 lanceur.
 
@@ -449,7 +455,7 @@ l'équipe 1 n'a pas établit de pivot, peut importe si le lanceur est hors limit
 
 Si le joueur fait une interception en courant, le marqueur doit attendre que que pivot soit établit avant de compter.
 
-### 9.3. Autres apppels (9.5.4.)
+### 9.3. Autres appels (9.5.4.)
 
 Les autres appels incluent :
 
@@ -466,25 +472,25 @@ Les autres appels incluent :
   réception
   contestée est appelé sur le résultat de la passe.
     - Le disque revient au lanceur et d'après la règle 9.5.4.1., le compte reprend à "Compté 8".
-- Exemple 2 : Une faute de marquage acceptée est appelé par le lanceur pendant que le disque est laché. Une faute de
-  réception contestée est appellée sur le résultat de la passe.
+- Exemple 2 : Une faute de marquage acceptée est appelé par le lanceur pendant que le disque est lâché. Une faute de
+  réception contestée est appelée sur le résultat de la passe.
     - Le disque revient au lanceur et d'après la règle 9.5.4.1., le compte reprend à "Compté 1".
 
 ### 9.5. Reprendre le compte après une violation du check (9.5.4.2)
 
 - Exemple 1 : Le jeu est interrompu par une faute acceptée par le lanceur. Le compte va reprendre à "Compté 8". La
   défense se déplace avant le check et une violation est appelée par l'attaque.
-    - Même si c'est une transgression de la défence, la règle 9.5.4.2. indique que le compte reprendra quand même à "
+    - Même si c'est une transgression de la défense, la règle 9.5.4.2. indique que le compte reprendra quand même à "
       Compté 8".
 
 ### 9.6. Le compte (9.6)
 
 Si après un appel, le compte doit reprendre à un maximum de 6 et que :
 
-- le compte a été arrété à 4, le compte repart à "Compté 5"
-- le compte a été arrété à 8, le compte repart à "Compté 6"
+- le compte a été arrêté à 4, le compte repart à "Compté 5"
+- le compte a été arrêté à 8, le compte repart à "Compté 6"
 
-Il n'es tpas nécessaire d'avoir un délai entre le "Compté" et le nombre du compte.
+Il n'est pas nécessaire d'avoir un délai entre le "Compté" et le nombre du compte.
 
 S'il y a un désaccord, qui ne peut pas être résolu, à propos du nombre auquel le compte doit reprendre, le nombre entre
 les deux propositions arrondi au nombre inférieur doit être utiliser.
@@ -513,26 +519,26 @@ règle 18.2.5.3).
 ### 10.2 Positionnement après un appel (10.2.2.1)
 
 Si une longue passe a été faite et qu'il y a une faute contestée à la réception, les joueurs doivent revenir à l'endroit
-où ils étaient au moment du lancer (et non pas à la fin de leurs courses après le disque). (+)
+où ils étaient au moment du lancer (et non pas à la fin de leurs courses après le disque). (†)
 
 ### 10.3. Equipement incorrecte (10.3.)
 
 Les équipements incorrectes incluent, par exemple, les lacets dénoués, un disque tordu ou une chaussure enlevée.
-Cependant, il est de la responsabilité des joueurs de limiter ce genre de perturbation en s'assurant que leur equipement
+Cependant, il est de la responsabilité des joueurs de limiter ce genre de perturbation en s'assurant que leur équipement
 personnel est en bon état.
 
 ### 10.4. "delay of game" lors d'un check (10.5.)
 
 - Exemple 1 : Un retard non-nécessaire inclut les discussions des équipes sur les tactiques (qui garde qui, qui doit
   réceptionner la prochaine passe). Un retard non-nécessaire inclut se tenir dos au disque pour gagner du temps...).
-  Prétendre ne pas retarder le jeu, est un retard non-nécessaire. (+)
+  Prétendre ne pas retarder le jeu, est un retard non-nécessaire. (†)
     - Après un "Delay of game" appelé sur la défense et que le retard continue, le lanceur peut appeler "Disc In" et
       faire une passe immédiatement.
 
 La personne qui "check" le disque doit s'assurer que tous les joueurs sont immobiles et correctement positionné avant
 de "checker" le disc.
 
-Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connait la règle avant de lui d'appliquer cette
+Il est recommandé d'avertir l'équipe adverse et de s'assurer qu'elle connaît la règle avant de lui d'appliquer cette
 règle.
 
 ### 10.5. Procédure préférée pour checker le disque (10.6.)
@@ -545,7 +551,7 @@ Il est recommandé de suivre les étapes avant de checker le disque :
 - Disc In, dans 3..2..1
 
 Si le défenseur doit toucher le disque, le défenseur doit délibérément toucher le disque. Le lanceur ne peut pas initier
-un contact sur le disque avec le defenseur.
+un contact sur le disque avec le défenseur.
 
 ### 10.6. Perte de la possession sur un check au sol (10.6.1.2.)
 
@@ -561,7 +567,7 @@ bougé avant le *check*.
 ### 11.1. "Le Meilleur Jeu au monde" (11.3.1.)
 
 - Exemple 1 : Un attaquant réalise qu'il ne peut pas attraper le disque dans les limites et saute depuis l'intérieur
-  de l'aire de jeu, attrape le disque et le relance avant d'atterir en dehors de limites.
+  de l'aire de jeu, attrape le disque et le relance avant d'atterrir en dehors de limites.
     - C'est une passe valide, la règle 11.3.1 dit qu'un joueur en l'air qui à sauté depuis l'intérieur de l'aire de jeu
       est
       considéré dedans. C'est pourquoi le disque n'est pas "out". Un joueur peut lancer un disque en l'air d'après la
@@ -571,21 +577,21 @@ Un joueur ne peut pas attraper son propre "meilleur" lancer sans que celui ci n'
 avant, d'après la règle 13.2.5.
 
 S'il y a une réception contestée après un "meilleur" lancer, le joueur qui a lancé le "meilleur" lancer est considéré
-comme le dernier lanceur. Il doit établir son point de pivot au plus proche de l'endroit où le disque à été laché (ou
+comme le dernier lanceur. Il doit établir son point de pivot au plus proche de l'endroit où le disque à été lâché (ou
 sur la ligne de but si le pivot se trouve dans sa zone d'en-but attaquée).
 
 ### 11.2. Qu'appeler en cas d'en-jeu ou hors-limites (11.4.)
 
-Si un adversaire considère qu'un attaquant a attraper le disque hors-limites il soit appeller immédiatement "
+Si un adversaire considère qu'un attaquant a attraper le disque hors-limites il doit appeler immédiatement "
 Out-of-bounds" ou, plus court : "Out"
 
 "Regarde tes pieds" n'est pas un appel et n'arrête pas le jeu.
 
-Le joueur appelant un "Out" doit être raisonablement certain que le joueur est bien hors-limites, sans quoi il ne doit
+Le joueur appelant un "Out" doit être raisonnablement certain que le joueur est bien hors-limites, sans quoi il ne doit
 pas faire l'appel.
 
 Si ce n'est pas clair que le joueur était hors-limites alors le jeu doit s'arrêter pour que les joueurs ayant la
-meilleur perspective discute de l'appel. Les joueurs peuvent demander aux personnes sur la touche, cpeendant c'est
+meilleur perspective discute de l'appel. Les joueurs peuvent demander aux personnes sur la touche, cependant c'est
 toujours aux joueurs concernés de prendre la décision finale. Si l'appel est contesté le disque doit revenir au lanceur
 précédent.
 
@@ -604,7 +610,7 @@ Si un joueur qui attrape le disque dans l'aire de jeu entre en contact avec l'ex
 établir la possession, c'est un revirement hors-limites (*out-of-bound turnover*) peut importe s'il conserve la
 possession avant que le disque ne touche le sol.
 
-### 11.4. Reception en contact avec l'extérieur de l'aire de jeu (11.4.)
+### 11.4. réception en contact avec l'extérieur de l'aire de jeu (11.4.)
 
 Si les pieds d'un réceptionneur sont dans l'aire de jeu, mais que ses cheveux ou ses habits touchent le sol
 hors-limites, il est considéré hors-limites.
@@ -622,13 +628,13 @@ sur la touche pour se cacher.
 
 - Exemple 1 : Une longue passe depuis la ligne de touche ne revient pas dans le terrain. Où doit ont établir le point de
   pivot pour reprendre le jeu ?
-    - Un defenseur est toujours dans l'aire de jeu quand fait une action sur le disque (11.2.). Ceci implique que si un
+    - Un défenseur est toujours dans l'aire de jeu quand fait une action sur le disque (11.2.). Ceci implique que si un
       défenseur touche le disque à l'extérieur, le disque doit être joué depuis le point le plus proche dans la zone
       centrale (11.8.2.). Si un défenseur touche le disque mais le vent le ramène dans le terrain, le jeu est vivant.
     - Les attaquants peuvent sortir (11.6.). Ceci signifie que dans cette même situation, si l'attaque touche le disque
       en premier alors il y a un revirement (*turnover*) et le disque revient là où il a croisé la ligne du périmètre (
       le dernier endroit avant de sortir). (11.8.1.).
-    - Si un attaquant saute depuis l'aire de jeu et touche le disque avant d'atterir, alors le disque était dans l'aire
+    - Si un attaquant saute depuis l'aire de jeu et touche le disque avant d'atterrir, alors le disque était dans l'aire
       de jeu. Si le résultat de cette passe est un revirement (*turnover*), sans que le réceptionneur ne puisse établir
       la possession, le disque doit repartir au point le plus proche de l'attaquant qui a touché le disque.
     - Si un réceptionneur attrape la passe et lance en étant en l'air et le disque tombe dans l'air de jeu alors le
@@ -637,7 +643,7 @@ sur la touche pour se cacher.
 Si les joueurs qui ont une bonne perspective sur le jeu ne sont pas d'accord sur l'endroit où le disque est sorti, le
 jeu doit reprendre au milieu des deux pivots possibles.
 
-Si un défenseur saute, intercepte une passe et atterit en dehors de l'aire de jeu ce n'est pas un double revirement (*
+Si un défenseur saute, intercepte une passe et atterrit en dehors de l'aire de jeu ce n'est pas un double revirement (*
 turnover*), le
 défenseur conserve la possession.
 
@@ -648,13 +654,13 @@ défenseur conserve la possession.
       trois derniers mètres. C'est pourquoi le lanceur doit quitter le terrain sur 3 mètre et revenir. Il peut ensuite
       établir son pivot et reprendre le jeu.
 
-Si un lanceur recommance à jouer sans être sorti à 3 mètres, l'adversaire peut appeler une violation et le jeu reprend
+Si un lanceur recommence à jouer sans être sorti à 3 mètres, l'adversaire peut appeler une violation et le jeu reprend
 par un check. Cependant, si l'adversaire considère ne pas avoir été désavantagé par un disque retourné au lanceur, le
 jeu peut continuer.
 
 Les non-joueurs peuvent aussi intercepter un disque sorti qui roule qui est à plus de 3 mètre du point de pivot.
 
-L'équipe en possession du disque peut choisir de remplacer le disque sorti, et gagner du temps en le remplacant. Le
+L'équipe en possession du disque peut choisir de remplacer le disque sorti, et gagner du temps en le remplaçant. Le
 lanceur doit quand même porter le disque sur les 3 derniers mètres vers le terrain. Le lanceur doit avertir le défenseur
 le plus proche de la substitution du disque.
 
@@ -665,7 +671,7 @@ Les non-joueurs ne peuvent pas toucher le disque avant qu'il ne sorte.
 ### 12.1 Attraper le disque (12.1.)
 
 Les règles ont évolué depuis 2017 pour distinguer "réceptionner" (*catch*) et "possession". Une réception (*catch*") est
-quand le disque commence à être controllé par le réceptionneur. Une fois que le joueur a réceptionné le disque, il peut
+quand le disque commence à être contrôllé par le réceptionneur. Une fois que le joueur a réceptionné le disque, il peut
 sortir, ou le disque peut toucher le sol, et ce n'est pas un revirement (*turnover*) tant qu'il maintient se réception
 en
 dehors ou tant que le disque touche le sol, et c'est après qu'il établit la possession de la passe.
@@ -692,12 +698,12 @@ c'est considéré comme la même réception).
 ### 12.2. Contacts consécutifs à la réception (12.1.1.)
 
 Le contact avec le sol ou avec un autre joueur peut être considéré comme consécutif à la réception si il se produit
-directement après la réception, s'il résulte d'un attérissage après un plongeon pour attraper le disque, ou s'il
+directement après la réception, s'il résulte d'un attérrissage après un plongeon pour attraper le disque, ou s'il
 survient quand le joueur perd l'équilibre après avoir attrapé le disque. Si, par exemple, un joueur attrape dans sa
 course dans la zone d'en-but puis établit la possession lors des premiers pas après la réception, continue à courir pour
 célébrer son point et trébuche, alors la perte de possession ne peut être considérée comme consécutive à la réception.
 Un moyen de distinguer un contact consécutif à une réception est qu'une fois que le joueur a pu avoir le choix de s'
-arrêter et être immobile, et controler ses mouvement, toutes actions qui suiveraient ne sont pas relative à la
+arrêter et être immobile, et contrôler ses mouvement, toutes actions qui suivraient ne sont pas relative à la
 réception, même si il ne décide pas de s'arrêter.
 
 ### 12.3. Se déplacer de manière imprudente (12.5.)
@@ -709,7 +715,7 @@ s'ajuster à un mouvement légitime de l'adversaire.
 
 Le joueur A, qui fait une action sur le disque, peut ralentir pour empêcher le mouvement d'un adversaire d'
 action sur le disque. Cependant le joueur A ne doit pas se déplacer de manière à ce que son adversaire ne puisse
-raisonablement pas l'éviter. C'est une faute de blocage (17.6.). Dans ces circonstances, un contact mineur peut arriver
+raisonnablement pas l'éviter. C'est une faute de blocage (17.6.). Dans ces circonstances, un contact mineur peut arriver
 mais les contacts mineurs ne sont pas des fautes.
 
 Si le joueur A ne fait pas d'action sur le disque, mais permet à un coéquipier de faire une action sur le disque, le
@@ -720,7 +726,7 @@ Le mot clé dans cette règle est "uniquement". L'intention derrière les mouvem
 motivé par l'idée d'empêcher l'adversaire de prendre une une trajectoire inoccupée pour jouer le disque, tant que c'est
 un partie de l'effort général pour faire action sur le disque.
 
-Si un poursuivant se heutre avec le joueur devant lui, c'est presque toujorus une faute du poursuivant.
+Si un poursuivant se heurte avec le joueur devant lui, c'est presque toujours une faute du poursuivant.
 
 Après un revirement (*turnover*) et/ou lorsqu'un lanceur n'est pas au l'emplacement du point de pivot, la défense doit
 laisse un trajectoire inoccupée à l'attaque vers le disque et/ou l'emplacement du point de pivot.
@@ -740,7 +746,7 @@ Un contact qui implique une force physique minimale et ne modifie pas les mouvem
 Si un contact non-mineur survient, le résultat de l'action ne sera probablement pas le même si la transgression affecte
 le jeu.
 
-Une transgression affecte le jeu s'il est raisonable de dire que le résulat de l'action de jeu aurait été
+Une transgression affecte le jeu s'il est raisonnable de dire que le résultat de l'action de jeu aurait été
 significativement différent si la transgression n'avait pas eu lieu. C'est à dire, si le joueur n'aurait pas été capable
 d'
 intercepter la passe sans causer un contact significatif avec son adversaire, ou si l'adversaire aurait été en mesure de
@@ -764,39 +770,39 @@ pris en compte pour définir si quelque chose affecte le jeu ou non.
   joueur B heurte le dos du joueur A et trébuchent tous les deux.
     - Le Joueur B commet une faute sur le joueur A. Le Joueur A peut ralentir pour faire une action sur le jeu. Le
       joueur B peut
-      raisonablement éviter le joueur A et c'est pourquoi c'est lui qui initie le contact.
+      raisonnablement éviter le joueur A et c'est pourquoi c'est lui qui initie le contact.
 - Exemple 2 : Le joueur A court après le disque et s'arrête soudainement puis cours en arrière vers son défenseur. Le
-  joueur B heutre le dos sur joueur A.
-    - Le joueur A commet une faute sur le joueur B. Le Joueur B ne peut pas raisonablement éviter le joueur A, c'est
+  joueur B heurte le dos sur joueur A.
+    - Le joueur A commet une faute sur le joueur B. Le Joueur B ne peut pas raisonnablement éviter le joueur A, c'est
       pourquoi c'est le joueur A a initié le contact.
 - Exemple 3 : Le joueur A court après le disque, ralentit et serpente pour éviter que le joueur B ne le dépasse pour
   jouer le disque. Le joueur B heurte le dos du joueur A. Le joueur A attrape le disque.
     - Le Joueur B commet une faute sur le joueur A. Le joueur A a la possession donc n'a pas besoin d'appeler de faute
       et doit appeler 'play on' s'il avait appelé la faute. Le joueur A a le droit de ralentir et d'empêcher les
-      mouvements d'un joueur pour faire une action sur le disque. Le joueur B aurait pu raisonablement éviter le joueur
+      mouvements d'un joueur pour faire une action sur le disque. Le joueur B aurait pu raisonnablement éviter le joueur
       A, c'est pourquoi c'est lui qui initie le contact. empêcher les mouvements d'un joueur est différent d'initier un
       contact. Dans ces circonstances, un contact mineur peut arriver mais les contacts mineurs ne sont pas des fautes.
 - Exemple 4 : Le joueur A et le joueur B sont coéquipiers et courent après le disque. Le joueur B ralentit et serpente
   pour empêcher le joueur C de les dépasser et d'agir sur le disque. Le joueur A attrape le disque.
     - Le joueur C peut appeler une violation sur le joueur B. Le joueur B ne fait pas d'action sur le disque. Le joueur
       C fait une action sur le disque c'est pourquoi le joueur B n'a pas le droit d'empêcher intentionnellement ses
-      mouvements. Si le joueur B est immobile il a le droit de rester, même s'il empeche le joueur C de jouer le disque.
+      mouvements. Si le joueur B est immobile il a le droit de rester, même s'il empêche le joueur C de jouer le disque.
       Cependant, si le joueur B utilise ses bras pour empêcher le joueur C, c'est là aussi considéré comme un mouvement
       pour empêcher les mouvements du joueur C et c'est une violation.
 - Exemple 5 : Le joueur A est immobile et attend d'attraper le disque. Le joueur B court vers le joueur A, saute et
   intercepte la passe puis entre en collision avec le joueur A.
-    - Le joueur B commet une faute sur A. La règle 12.6. dit expressement que faire action de jeu sur le
+    - Le joueur B commet une faute sur A. La règle 12.6. dit expressément que faire action de jeu sur le
       disque n'est pas une excuse valide pour créer un contact avec d'autres joueurs. En faisant un action de jeu sur le
-      disque, les joueurs doivent s'assurer de ne pas provoquer de collision invévitable avec la position d'un autre
+      disque, les joueurs doivent s'assurer de ne pas provoquer de collision inévitable avec la position d'un autre
       joueur immobile, ou selon sa vitesse et direction établie, avant, pendant ou après l'action sur le
       disque.
 - Exemple 6 : Le joueur A est immobile et attend d'attraper le disque. Le joueur B court et saute de manière à éviter le
   joueur A et intercepte la passe. Le joueur 1 se déplace vers la trajectoire du joueur B pendant que le joueur B est en
   l'air. Il y a contact entre le joueur A et le joueur B.
-    - Le joueur A commet une faute sur le joueur B. Le joueur A a initité un contact en se déplaçant vers une position
-      que son adversaire ne pouvait évité. C'est une faure de blocage.
+    - Le joueur A commet une faute sur le joueur B. Le joueur A a initié un contact en se déplaçant vers une position
+      que son adversaire ne pouvait évité. C'est une faute de blocage.
 
-### 12.8. Se déplacer simultanéement vers un même point (12.8.)
+### 12.8. Se déplacer simultanément vers un même point (12.8.)
 
 - Exemple 1 : Deux adversaires se déplace vers un même point pour faire action sur le disque. Ils sont conscients de la
   présence l'un de l'autre et savent que des contacts mineurs peuvent arriver. Un contact mineur survient.
@@ -818,7 +824,7 @@ pris en compte pour définir si quelque chose affecte le jeu ou non.
             - Même si les deux sont à l'origine du contact, le joueur qui initie le contact avec le bras commet une
               faute qui n'est pas un contact mineur.
 
-Ces scénarios ne s'applique que si les deux joueurs provoque un contact simultanéement. Si un joueur initie clairement
+Ces scénarios ne s'applique que si les deux joueurs provoque un contact simultanément. Si un joueur initie clairement
 le contact, ce joueur commet une faute.
 
 Si un joueur ne voit pas le contact venir, que l'autre joueur pouvait l'anticiper, ce dernier doit l'éviter et appeler
@@ -843,8 +849,10 @@ possession du disque.
 
 ### 13.1. le disque touche le sol alors qu'il n'est pas en la possession d'un attaquant (13.1.1.)
 
-Ce n'est pas un revirement (*turnover*) si le joueur attrape mal le disque avant d'établir complètement la possession dans le cas où
-il voulait prendre la possession du disque après un revirement (*turnover*) ou après un engagement où le disque à déjà touché le
+Ce n'est pas un revirement (*turnover*) si le joueur attrape mal le disque avant d'établir complètement la possession
+dans le cas où
+il voulait prendre la possession du disque après un revirement (*turnover*) ou après un engagement où le disque à déjà
+touché le
 sol. (voir 8.1.4.)
 
 ### 13.2. le disque touche le sol alors qu'il n'est pas en la possession d'un attaquant (13.1.1.)
@@ -856,14 +864,15 @@ toujours maintenu par au moins une ce ces partie pendant le changement. Il s'agi
 réceptionneur a pincé le disque entre ses doigts et que quand le disque touche le sol, le choc le disque n'est plus
 pincé au même endroit, ce n'est pas une réception maintenu, c'est un revirement (*turnover*).
 
-Si, après une reception d'un disque qui a ensuite touché le sol, le réceptionneur ensuite perdu le controle du disque
+Si, après une réception d'un disque qui a ensuite touché le sol, le réceptionneur ensuite perdu le contrôle du disque
 alors que celui ci ne touchait plus le sol, la réception initial n'est pas annulée, le disque peut encore être attrapé
 par n'importe quel joueur.
 
 ### 13.3. Revirement (*turnover*) par interception (13.1.2.)
 
 Un défenseur de l'équipe A intercepte une passe en étant en l'air, puis lance le disque avant de retoucher le sol, que
-la passe est incomplète c'est un revirement (*turnover*) par l'équipe A, l'équipe B doit reprendre la possession du disque.
+la passe est incomplète c'est un revirement (*turnover*) par l'équipe A, l'équipe B doit reprendre la possession du
+disque.
 
 Un défenseur peut intentionnellement pousser une passe vers sa zone d'en-but, mais s'il touche ensuite le disque avant
 qu'il ne touche le sol, c'est un marché d'après la règle 18.2.5.5..
@@ -875,11 +884,12 @@ engagement ou de se rétracter.
 
 ### 13.5. revirement (*turnover*) du fait d'une passe à soi même ("self-catch turnover") (13.2.5.)
 
-- Exemple 1 : Un lanceur relache accidentellement le disque lors de son pivot puis le rattrappe sans qu'aucun autre
+- Exemple 1 : Un lanceur relâche accidentellement le disque lors de son pivot puis le rattrape sans qu'aucun autre
   joueur
   ne touche le disque.
     - Ce n'est pas une passe à soi même, le marqueur peut continuer le compte. Si le lanceur a bouger son pied pivot, un
-      marché peut être appelé. Un revirement (*turnover*) du fait d'une passe à soi même ne peut arriver qu'après que le lanceur ait
+      marché peut être appelé. Un revirement (*turnover*) du fait d'une passe à soi même ne peut arriver qu'après que le
+      lanceur ait
       tenté une passe. Un passe est défini (en tant que Lancer) comme "Un disque en vol après un mouvement du lancer,
       incluant la perte de contact entre le lanceur et le disque après une feinte ou une perte intentionnelle de
       disque.". Dans cet exemple, le disque n'a pas volé après un mouvement de lancer ou une feinte. Aucune passe n'a eu
@@ -888,13 +898,14 @@ engagement ou de se rétracter.
 Si le disque est accidentellement laché pendant le mouvement de lancer d'une feinte, le lanceur ne peut pas attraper le
 disque tant qu'un autre joueur n'y a pas toucher.
 
-Le lanceur peut touhcer le disque qu'il a lancer, par exemple pour éviter qu'un adversaire l'attrape ou pour le pousser
-à un co-équipier. Si le lanceur attrape sa propre passe, l'endroit du revirement (*turnover*) est celui où se trouvait le lanceur
+Le lanceur peut toucher le disque qu'il a lancer, par exemple pour éviter qu'un adversaire l'attrape ou pour le pousser
+à un coéquipier. Si le lanceur attrape sa propre passe, l'endroit du revirement (*turnover*) est celui où se trouvait
+le lanceur
 quand il a attrapé la passe.
 
 ### 13.6. Aider intentionnellement le mouvement d'un coéquipier (13.2.6.)
 
-Un joueur n'a pas le droit de pousser intentionnellement un coéquipier pour qu'il saute plus haut. (+)
+Un joueur n'a pas le droit de pousser intentionnellement un coéquipier pour qu'il saute plus haut. (†)
 
 ### 13.7. Contester un revirement de fin de compte (*stall out turnover*) (13.4.)
 
@@ -912,11 +923,11 @@ et il peut soit :
 - conserver le disque et l'ancien lanceur de l'équipe B relance le jeu par un check.
 
 Un marqueur ne doit pas automatiquement appelé une fin de compte (*stall out*) parce que le compte arrive à dix. Il doit
-être certain que le disque n'était pas déjà relaché et que son compte n'était pas trop rapide. (+)
+être certain que le disque n'était pas déjà relaché et que son compte n'était pas trop rapide. (†)
 
-### 13.9. Interception incontrollé au sol (13.5.1)
+### 13.9. Interception incontrôlé au sol (13.5.1)
 
-Si lors de sa tentative intercepter une passe, le défensseur de l'équipe A perd le controle du disque à cause d'un
+Si lors de sa tentative intercepter une passe, le défenseur de l'équipe A perd le contrôle du disque à cause d'un
 contact au sol, ou qu'il échappe accidentellement le disque, alors la possession n'est considéré établie et n'importe
 quel joueur de l'équipe A peut prendre la possession du disque.
 
@@ -938,25 +949,27 @@ tentative de passe qui est incomplète, le joueur doit avoir le bénéfice du do
 
 L'emplacement officiel est juste à coté de la ligne (puisque la ligne ne fait pas parti de l'aire de jeu) mais un pied
 de pivot sur la ligne est aussi acceptable. En effet, étant donné que les lignes de périmètre sont larges de
-quelques centimètres seulement, l'erreur est trop peu significative. Alos que la règles dit que le point pivot doit être
+quelques centimètres seulement, l'erreur est trop peu significative. Alors que la règles dit que le point pivot doit
+être
 établi dans le terrain, la règle 11.3.3 indique également que ce n'est pas un problème si le pied pivot touche l'
 extérieur de l'aire de jeu.
 
-Si le disque sort par le coté de la zone d'en-but, il y a un cone là où le point de pivot doit être établi. La règle
-2.6. dit que la limite de la zone centrale doit être marquée par un cone, le joueur ne doit donc pas le déplacer. C'est
-pourquoi le point pivot doit être établi sur la ligne de la zone d'en-but à coté du cone. Les joueurs ne doivent pas
-déplacer le cone. Notez que le joueur doit avoir suffisament de place pour pivoter autour de son pied de pivot (sinon
+Si le disque sort par le coté de la zone d'en-but, il y a un cône là où le point de pivot doit être établi. La règle
+2.6. dit que la limite de la zone centrale doit être marquée par un cône, le joueur ne doit donc pas le déplacer. C'est
+pourquoi le point pivot doit être établi sur la ligne de la zone d'en-but à coté du cône. Les joueurs ne doivent pas
+déplacer le cône. Notez que le joueur doit avoir suffisamment de place pour pivoter autour de son pied de pivot (sinon
 des situations risquées pourrait survenir lors du pivot).
 
 ### 13.12. Où établir le pied de pivot après un revirement (*turnover*) quand le disque dans le terrain (13.9.)
 
 - Exemple 1 : Si l'endroit du « turnover » est dans la zone centrale, le lanceur doit établir un point pivot à cet
   endroit.
-    - Le lanceur doit ramasser le disque et placer son pivot à l'endroit du disque (+). La règle 13.9. dit que le
+    - Le lanceur doit ramasser le disque et placer son pivot à l'endroit du disque (†). La règle 13.9. dit que le
       lanceur doit établir son pivot à l'endroit du revirement (*turnover*).
 
 Le pivot doit être aussi proche que possible de l'endroit du disque. Le joueur ne doit pas placer son pied droit à
-l'endroit du revirement (*turnover*) et utiliser ensuite son pied gauche comme pivot. c'est une infraction de marché (18.2.5.1.)
+l'endroit du revirement (*turnover*) et utiliser ensuite son pied gauche comme pivot. c'est une infraction de marché (
+18.2.5.1.)
 
 ### 13.13 Signaux visuels après un revirement (*turnover*) dans la zone d'en-but défendu (13.11.2.1.)
 
@@ -968,14 +981,14 @@ pas signalé.
 La défense peut demander au lanceur s'il choisir l'option de la ligne de but et c'est de bon esprit d'y répondre par
 un geste de la main, autrement ce n'est pas obligatoire.
 
-Si un joueur établit son pivot sur la ligne de but, le joueur peu transporter le disque à vitesse contante ou non, et
-marcher lentement ou non. (+).
+Si un joueur établit son pivot sur la ligne de but, le joueur peu transporter le disque à vitesse constante ou non, et
+marcher lentement ou non. (†).
 
-Le joueur doit remettre le disque en jeu à l'endroit du disque ou sur la ligne de but, pas entre les deux. (+)
+Le joueur doit remettre le disque en jeu à l'endroit du disque ou sur la ligne de but, pas entre les deux. (†)
 
 ### 13.14. Etablir son pied de pivot après un revirement (*turnover*) dans la zone d'en-but défendue (13.11.3.)
 
-Si le lanceur viole la règle 13.11.1., c'est considéfé comme une infraction de marché. Le jeu ne s'arrête pas mais le
+Si le lanceur viole la règle 13.11.1., c'est considéré comme une infraction de marché. Le jeu ne s'arrête pas mais le
 lanceur doit revenir au bon endroit.
 
 Le lanceur ne peut pas ramasser le disque, regarder s'il y a un joueur prêt pour une passe et puis se déplacer à la
@@ -1008,14 +1021,14 @@ ligne de but.
       aux joueurs informés de prendre la décision finale.
     - Si le joueur fait une passe incomplète après avoir attrapé le disque dans la zone d'en-but, mais sans avoir
       maintenu le catch lors des contacts avec le sol lié à ce « catch », il y a revirement (*turnover*).
-    - Tout le monde peut se déplacer lorsque le lanceur resort de la zone d'en-but après un catch dont la course fini
+    - Tout le monde peut se déplacer lorsque le lanceur ressort de la zone d'en-but après un catch dont la course fini
       dans la zone d'en-but.
 
 ### 14.3. « Catcher » le point (14.1.)
 
-Si un joueur dans la zone d'en-but referme ses mains sur le disque, controle le disque un moment puis perd le controle
-et le disque touhce le sol, il s'agit d'un « clap spike ». Un « clap spike » n'est pas un point puisque le joueur ne
-maintient pas le catch plus qu'un instant perseptible et durant les contacts avec le sol relatif au « catch ».
+Si un joueur dans la zone d'en-but referme ses mains sur le disque, contrôle le disque un moment puis perd le contrôle
+et le disque touche le sol, il s'agit d'un « clap spike ». Un « clap spike » n'est pas un point puisque le joueur ne
+maintient pas le catch plus qu'un instant perceptible et durant les contacts avec le sol relatif au « catch ».
 
 ### 14.4. « Catcher » le point proche de la touche (14.1.)
 
@@ -1034,15 +1047,16 @@ maintient pas le catch plus qu'un instant perseptible et durant les contacts ave
 Si un joueur atterrit clairement sur ses orteils puis continue en descendant sur ses talons, ses orteils sont le premier
 point de contact au sol. Si un joueur atterrit plutôt les pieds à plat et qu'il n'est pas possible de déterminer quelle
 partie de
-son pied a toucher le sol en premier, le pied entier est son premier point de contact au sol.+
-Rappel: Les lignes de la zone d'en-but ne font pas partie de la zone d'en-but.+
+son pied a toucher le sol en premier, le pied entier est son premier point de contact au sol.(+)
+Rappel: Les lignes de la zone d'en-but ne font pas partie de la zone d'en-but.()
 
 ### 14.6. Contester un point (14.2.)
 
 Après un point contesté ou rétracté où le réceptionneur maintient la possession, tous les joueurs doivent revenir à
 l'endroit où ils se trouvaient quand le joueur a établi la possession.
 
-Si un joueur peut raisonablement considérer que son équipé a marqué un point et agit comme tel (par exemple en célébrant
+Si un joueur peut raisonnablement considérer que son équipé a marqué un point et agit comme tel (par exemple en
+célébrant
 le point), Ceci doit être considéré comme un appel de point (*goal call*). Ce appel arrête le jeu et les actions
 supplémentaires ne sont plus prises en compte.
 
@@ -1056,9 +1070,11 @@ d'en-but. Cependant, la limite de temps entre deux points ne commencera qu'une f
 
 ### 15.1. Appeler une transgression ou un revirement (15.)
 
-Un joueur qui appel une faute, violation, infraction ou un revirement (*turnover*) doit avoir des raisons de penser qu'une
+Un joueur qui appel une faute, violation, infraction ou un revirement (*turnover*) doit avoir des raisons de penser
+qu'une
 transgression ou un revirement (*turnover*) ait eu lieu, mais il n'est pas tenu d'en être certain.
-Si un joueur considère qu'il y a des raisons de penser à une transgression ou un revirement (*turnover*), il peut appeler un arret de
+Si un joueur considère qu'il y a des raisons de penser à une transgression ou un revirement (*turnover*), il peut
+appeler un arrêt de
 jeu (sans faire d'appel spécifique) pour permettre aux joueurs d'échanger sur la situation et déterminer ce qu'il s'est
 passé et comment il faut reprendre.
 
@@ -1067,10 +1083,10 @@ passé et comment il faut reprendre.
 Un contact non-mineur accidentel est une faute. Il n'y a pas besoin qu'il soit intentionnel. En principe, il ne doit pas
 y avoir de contact intentionnel à l'Ultimate.
 
-### 15.3. Infraction arretant le jeu (15.2.)
+### 15.3. Infraction arrêtant le jeu (15.2.)
 
 Le jeu ne s'arrête pas lors d'un appel d'infraction. Cependant, le marché ou les infractions de marquage peuvent
-conduire à un arret de jeu, par exemple, si après une infraction de marché une passe est lancée, après une infraction de
+conduire à un arrêt de jeu, par exemple, si après une infraction de marché une passe est lancée, après une infraction de
 marquage flagrante, ou après une infraction contestée.
 
 ### 15.4. Informer l'adversaire d'une transgression (15.4)
@@ -1085,8 +1101,8 @@ En dehors du double marquage, les autres joueurs peuvent avertir le lanceur de l
 avertissement n'a pas d'effet (ce n'est pas un appel). Le lanceur peut alors faire l'appel par lui même et dans ce cas,
 l'adversaire doit en tenir compte.
 
-N'importe quel attquant peut faire un appel de double marquage, cependant si l'appel n'est pas fait par le lanceur,
-l'appel doit être fait assez fort pour que le lanceur et le marqueur puissent l'entendre. Si le lanceur répete l'appel
+N'importe quel attaquant peut faire un appel de double marquage, cependant si l'appel n'est pas fait par le lanceur,
+l'appel doit être fait assez fort pour que le lanceur et le marqueur puissent l'entendre. Si le lanceur répète l'appel
 au double marquage de son équipe, ce doit être considéré comme le même appel. (le compte n'est réduit qu'une fois).
 
 N'importe quel joueur adverse peut faire un appel de marché, cependant si l'appel n'est pas fait par le marqueur,
@@ -1094,16 +1110,16 @@ l'appel doit être assez fort pour que le lanceur et le marqueur puissent l'ente
 
 ### 15.6 Appeler une transgression immédiatement (15.8.)
 
-Si un joueur ne peut pas faire un appel à une transgression qu'il reconnait (par exemple un chevauchement (*straddle*)
-pour un réceptionneur), la transgression peut toujours être appelée quand le joueur pouvant faire l'appel la reconnait.
+Si un joueur ne peut pas faire un appel à une transgression qu'il reconnaît (par exemple un chevauchement (*straddle*)
+pour un réceptionneur), la transgression peut toujours être appelée quand le joueur pouvant faire l'appel la reconnaît.
 Cependant, si par exemple, le marqueur voit que le lanceur a établi son pivot au mauvais endroit, il ne peut pas
 attendre que le compte atteigne 6 avant de faire son appel de marché.
 
-Si le jeu est arrété pour une discussion, un joueur peut toujours faire un appel pendant la discussion.
+Si le jeu est arrêté pour une discussion, un joueur peut toujours faire un appel pendant la discussion.
 
 ### 15.7. arrêts du jeu incorrects (15.9.)
 
-Exemple 1: Un defenseur demande à un réceptionneur de s'arrêter, mais le jeu n'aurait pas du s'arrêter et la passe à
+Exemple 1: Un défenseur demande à un réceptionneur de s'arrêter, mais le jeu n'aurait pas du s'arrêter et la passe à
 ce réceptionneur échoue. Le disque doit revenir au lanceur et le compte doit reprendre à "Compté un" (comme pour 9.5.1.)
 
 Si il y a un désaccord sur qui a arrêter le jeu de manière incorrecte, le disque doit revenir au dernier lanceur non
@@ -1111,12 +1127,12 @@ contesté.
 
 ### 15.8 Contester un appel (15.10.)
 
-Si un joueur a qui on reproche une transgression pense que la transgression n'a pas été suffisament
-significative pour changer le resultat d'une action, il peut contester l'appel.
+Si un joueur a qui on reproche une transgression pense que la transgression n'a pas été suffisamment
+significative pour changer le résultat d'une action, il peut contester l'appel.
 
 ### 15.9 Rétracter un appel (15.11.)
 
-Si par exemple un marqueur appel une faute sur le lanceur, et après discussion le marqueur se retracte, le compte
+Si par exemple un marqueur appel une faute sur le lanceur, et après discussion le marqueur se rétracte, le compte
 reprend à "Compté un" (comme pour 9.5.1.)
 
 ### 15.10 Résoudre des transgressions simultanées
@@ -1125,7 +1141,7 @@ Par exemple, le marqueur appel une faute offensive sur le lanceur pendant le lan
 faute défensive sur un défenseur pendant la réception d'une passe incomplète.
 Les fautes sont résolues dans l'ordre inverse de la séquence. D'abord, la faute de réception (qu'on suppose acceptée
 ici), donne la possession au réceptionneur, puis la faute au lancé (supposée acceptée ici), retourne le disque au
-lanceur. +
+lanceur.
 Si le disque revient au lanceur, le compte doit reprendre selon la règle 9.5.4.1
 
 ## 16. Reprendre après un appel
@@ -1147,7 +1163,7 @@ Si le disque revient au lanceur, le compte doit reprendre selon la règle 9.5.4.
 - Exemple 3: Une obstruction (*pick*) a gauche de la file (*stack*) alors que le disque passe à droite, le disque est en
   l'air au moment de l'appel. Un attaquant attrape le disque.
     - La possession persiste et le joueur qui a appelé l'obstruction avant là où il pense qu'il aurait du être.
-    - La règlge 16.3. L'obstruction n'affecte pas la possession.
+    - La règle 16.3. L'obstruction n'affecte pas la possession.
     - Si l'attaquant échappe le disque, il y a revirement (*turnover*) (16.2.4.1.)
     - Si l'obstruction a été appelé avant le lancé, ni l'obstruction, ni l'appel de l'obstruction n'affecte le jeu, le
       revirement (*turnover*) persiste.
@@ -1157,7 +1173,7 @@ Si le disque revient au lanceur, le compte doit reprendre selon la règle 9.5.4.
 Un évènement (incluant une faute, violation ou injury) ou un appel affecte le jeu si le résultat qui aurait du survenir,
 ne se produit pas. Par exemple, un appel affecte le jeu si le réceptionneur est avisé de la faute avant le lancé et
 qu'il ralendit en conséquence, ratant ainsi la passe.
-Pendant un arret de jeu pour une discussion sur cette situation, il est raisonnable d'échanger pour savoir si l'
+Pendant un arrêt de jeu pour une discussion sur cette situation, il est raisonnable d'échanger pour savoir si l'
 évènement a affecté le résultat. Si l'adversaire pense que le jeu a été affecté, ils doivent le justifier.
 
 ### 16.3. Faute de marquage avant un lancé (16.2.)
@@ -1167,7 +1183,7 @@ Pendant un arret de jeu pour une discussion sur cette situation, il est raisonna
     - Si le lanceur subit une faute avant le lancé, que la faute est toujours en cours pendant le lancé, la règle 15.9.
       s'applique.
 
-### 16.4. Une Obstruction/faute n'impliquant pas le lanceur est appelée prendant le lancé (16.2.)
+### 16.4. Une Obstruction/faute n'impliquant pas le lanceur est appelée pendant le lancé (16.2.)
 
 Contrairement à la version précédente de la règle, la règle de continuation ne s'applique pas aux appels fait pendant le
 lancé (s'il n'implique pas le lanceur).
@@ -1183,33 +1199,33 @@ si la passe est incomplete, le disque lui est retourné.
 ### 16.5. "Play on" appelé avant que la possession ne doit établie (16.2.4.1.)
 
 Si "Play on" est appelé avant que la possession ne soit établie et qu'ensuite l'équipe qui a appelé la faute perd ou ne
-maintient pas la possession, l'appel "play on" doit être ignoré et le jeu arreté. Les joueurs concernés doivent
-déterminer si la transgression a effectivement affecté le resultat avant de determiner si le resultat doit persister.
+maintient pas la possession, l'appel "play on" doit être ignoré et le jeu arrêté. Les joueurs concernés doivent
+déterminer si la transgression a effectivement affecté le résultat avant de déterminer si le résultat doit persister.
 
 ### 16.6. "Play on" non appelé (16.2.4.1.)
 
-N'importe quel joueur qui remarque que le jeu doit continuer sans interruption doit annoncer "play on" +
+N'importe quel joueur qui remarque que le jeu doit continuer sans interruption doit annoncer "play on" (†)
 Si le joueur qui a appelé la transgression n'appelle par "play on" et que l'adversaire n'est pas certain de savoir si le
-jeu doit continuer, l'équipe adverse peut interrompre le jeu en appelant une violation. +
+jeu doit continuer, l'équipe adverse peut interrompre le jeu en appelant une violation. (†)
 
 ### 16.7. L'équipe qui gagne ou maintient la possession peut choisir d'arrêter le jeu (16.2.4.1.)
 
-Si l'équipe qui a appeler la faute gagne ou maintient la possession mais que la faute l'a empèché de continuer à jouer,
+Si l'équipe qui a appeler la faute gagne ou maintient la possession mais que la faute l'a empêché de continuer à jouer,
 ils peuvent appeler une faute indirecte une fois la possession établie. Ceci arrête le jeu et lui permet de réajuster
 leurs placements désavantageux provoqués par l’incident.
 
 ### 16.8. La faute est appelé avant d'établir la possession (16.3.)
 
 Si un réceptionneur attaquant appel une faute sur un contact avant que la possession ne soit établie, il est possible de
-continuer à jouer le disque. Si le défenseur interromp le jeu pour discuter de l'appel à la faute, ou contester la
+continuer à jouer le disque. Si le défenseur interrompt le jeu pour discuter de l'appel à la faute, ou contester la
 faute, le jeu ne s'arrête pas tant que la possession n'est pas établie. Une fois que la position est établie le jeu
-s'arrête mais, comme précisé par la règle 16.2.4.1, si le réceptionneur attrape la passe, la reception persiste.
+s'arrête mais, comme précisé par la règle 16.2.4.1, si le réceptionneur attrape la passe, la réception persiste.
 
 ### 16.9. Plus d'une passe (16.3.)
 
 Il n'y a pas de limite spécifique au nombre de passes qui peuvent être faite avant d'appliquer la règle 16.3. Cependant,
 une fois qu'une première passe ait été complétée, il devient d'avantage probable que l'incident ou l'appel n'ai pas
-affecter le résulat.
+affecter le résultat.
 
 ## 17. Les fautes
 
@@ -1219,33 +1235,33 @@ Un contact avec les bras tendus ou les mains d'un adversaire qui sont en contact
 point d'être, ne sont pas considérés comme un contact mineur.
 Un contact avec la main d'un lanceur lors du mouvement de lancer n'est pas considéré comme un contact mineur.
 
-### 17.2. Jeu dangeureux (17.1)
+### 17.2. Jeu dangereux (17.1)
 
-Les fautes de jeu dangeureux peuvent être appelées avant un incident pour éviter une potentielle collision, par exemple
+Les fautes de jeu dangereux peuvent être appelées avant un incident pour éviter une potentielle collision, par exemple
 si un défenseur qui court de manière à ce qu'un accident pourrait survenir si l'attaquant poursuit sa course.
-Lorsque cela arrive il est correcte de ne pas faire d'action sur le disque et d'appeler une faute de jeu dangeureux.
+Lorsque cela arrive il est correcte de ne pas faire d'action sur le disque et d'appeler une faute de jeu dangereux.
 Les joueurs appelant une faute de jeu dangereux avant un potentiel incident doit avoir une raison valable de le faire.
 Ils doivent avoir été en situation de voir effectivement que l'autre joueur arriver et avoir des raisons de croire que
 ce dernier n'évitera pas le contact. Ce qui peut inclure un précédent où ce joueur n'aurait pas évité le contact.
 
-Vous ne pouvez pas appeler un jeu dangeureux si vous sentiez que vous pouviez faire une action sur le disque mais que
+Vous ne pouvez pas appeler un jeu dangereux si vous sentiez que vous pouviez faire une action sur le disque mais que
 cela aurait initié un contact. Dans ce cas, vous devez vous retenir de faire une action sur le disque.
 
-Voici une liste non exaustives d'exemples de jeu dangeureux :+
+Voici une liste non exhaustives d'exemples de jeu dangereux : (†)
 
 - une collision significative avec un adversaire plutôt stationnaire
 - sauter dans un groupe de joueurs stationnaires
 - un plongeon à coté ou sur un joueur produisant un contact avec son dos ou ses jambes.
-- courrir sans regarder dans une direction où il y a une probabilité d'y avoir d'autres joueurs
+- courir sans regarder dans une direction où il y a une probabilité d'y avoir d'autres joueurs
 - sauter ou quitter le sol où une collision significative se produirait
-- des gestes de lancer violents ou incontrollés
+- des gestes de lancer violents ou incontrôlés
 - initier un contact avec la tête d'un joueur
-- initier un contact avec le bas du corp d'un joueur en l'air l'empéchant de retomber sur ses pieds
+- initier un contact avec le bas du corps d'un joueur en l'air l'empêchant de retomber sur ses pieds
 - sauter juste devant un joueur qui sprint de manière à ce que le contact soit inévitable
 
 ### 17.3. Faute d'un coéquipier (17.2)
 
-Si un joueur A initie un contact avec un adversaire B qui entraine un contact de B sur un joueur C de l'équipe de A, le
+Si un joueur A initie un contact avec un adversaire B qui entraîne un contact de B sur un joueur C de l'équipe de A, le
 joueur C ne peut pas appeler de faute sur B car il n'initie pas le contact.
 
 ### 17.4. Faute de réception quand le disque n'est pas clairement attrapable (17.2.)
@@ -1254,7 +1270,7 @@ joueur C ne peut pas appeler de faute sur B car il n'initie pas le contact.
   savoir
   si l'attaquant aurait pu avoir le disque si la faute n'avait pas eu lieu.
     - Si l'attaquant pense que le défenseur a initier un contact non mineur il peut appeler une faute.
-    - Si le défenseur reconnait avoir commis une faute mais qu'il ne pense pas que l'attaquant avait raisonablement une
+    - Si le défenseur reconnaît avoir commis une faute mais qu'il ne pense pas que l'attaquant avait raisonnablement une
       chance d'avoir le disque, il peut invoquer la règle 16.3. et déterminer avec l'attaquant si le résultat persiste.
     - Si les joueurs ne s'accordent pas sur ce qui ce s'est passer sur le jeu, le disque doit revenir au lanceur et les
       joueurs doivent retourner à l'endroit où ils se trouvaient au moment où le disque a été lancé (règle 1.12. et
@@ -1276,14 +1292,14 @@ disque a été
 attrapé, ou après que l'adversaire ne peut plus jouer le disque, n'est pas une condition
 suffisante pour une faute (17.2.1.1.)
 
-Si le disque est en l'air et que les joueurs concernés par la faute étaient en train de courrir pour recevoir ou
+Si le disque est en l'air et que les joueurs concernés par la faute étaient en train de courir pour recevoir ou
 défendre la passe suivante, il s'agit alors d'une faute indirecte (17.8.)
 
 Une faute offensive acceptée donne lieu à un turnover (17.2.2.) contrairement à une faute défensive indirecte acceptée (
 17.8.2.)
 
 Si les joueurs doivent plonger pour faire une action sur le disque, le disque est touché mais pas attrapé, et ensuite un
-des joueurs fait une seconde tentative mais il est géné par l'autre joueur, ce n'est pas une faute de ce dernier, à
+des joueurs fait une seconde tentative mais il est gêné par l'autre joueur, ce n'est pas une faute de ce dernier, à
 moins qu'il ait délibérément fait obstruction (dans ce cas c'est une violation de la règle 12.5.1. même s'il n'y a pas
 de contacts)
 
@@ -1294,45 +1310,47 @@ une zone d’en-but. Le jeu reprend par un « check » à l'endroit de la faute,
 l’endroit le plus proche sur la ligne de but (14.2.). Tous les joueurs peuvent bouger dès le check et le marqueur ne
 peut compter qu'une fois le pivot établi sur la ligne de la zone d'en-but.
 
-Si le réceptionneur lâche le disque au sol alors qu'il marche vers la ligne d'en-but, il y a revirement (*turnover*) et le jeu est
+Si le réceptionneur lâche le disque au sol alors qu'il marche vers la ligne d'en-but, il y a revirement (*turnover*) et
+le jeu est
 vivant.
 
 ### 17.7. Faute d'arrachage, *strip* (17.3.)
 
 Un joueur ne peut appeler la faute d'arrachage si n'a eu qu'un contact momentané avec le disque ou s'il a perdu le
-controle du disque avant que son adversaire ne touche le disque.
+contrôle du disque avant que son adversaire ne touche le disque.
 
-Si un défenseur frappe le disque en vol avant que ce dernier ne soit attapé par le réceptionneur, et que ce contact avec
+Si un défenseur frappe le disque en vol avant que ce dernier ne soit attrapé par le réceptionneur, et que ce contact
+avec
 le disque provoque un échappement du disque des mains du réceptionneur, alors ce n'est pas un arrachage. Le défenseur a
 le droit de frapper un disque en vol, c'est quand il frappe un disque attrapé par le réceptionneur qu'il s'agit d'une
-fautre d'arrachage *strip*.
+faute d'arrachage *strip*.
 
 ### 17.8. Faute d'arrachage *strip* lors d'un callahan (17.3.2.)
 
-Si un attaquant provoque et accepte une faute d'arrachage d'une passe inteceptée par la défense dans la zone où la
+Si un attaquant provoque et accepte une faute d'arrachage d'une passe interceptée par la défense dans la zone où la
 défense peut marquer un but, ce doit être considéré comme un point pour la défense.
 
 ### 17.9. Faute de blocage (17.4.)
 
 Chaque joueur dispose d'un espace réservé dans la direction de son déplacement. La taille de cet espace dépend de
 beaucoup de facteurs (vitesse, direction, surface de jeu, etc.) autant que pour répondre à la question "Si un arbre se
-matérialise brusquement dans cet espace, le joueur pourait-il l'éviter (sans effectuer une manoeuvre qui risquerait sa
+matérialise brusquement dans cet espace, le joueur pourrait-il l'éviter (sans effectuer une manœuvre qui risquerait sa
 santé) ?"
 
 Se déplacer de façon à agrandir exagérément cet espace (comme en courant à pleine vitesse, les yeux fermés sans vérifier
-régulièrement devant soit, serait un exemple extreme) est considéré comme téméraire.
+régulièrement devant soit, serait un exemple extrême) est considéré comme téméraire.
 
 Si deux joueurs ont le même espace réservé au même moment et qu'un contact survient, celui qui initie le contact est
 responsable de la faute.
 
-Les joueurs sont libres de se réplacer comme ils le souhaitent tant qu'il ne provoque pas d'inévitable collision.
+Les joueurs sont libres de se replacer comme ils le souhaitent tant qu'il ne provoque pas d'inévitable collision.
 Une collision est évitable si le joueur peut réagir à temps pour l'éviter, compte tenu des circonstances incluant sa
 vitesse et son angle de vision.
 
 ### 17.10. Faute d'expulsion *force out*
 
 Une faute d'expulsion ne s'applique pas à un joueur en l'air. Si, par exemple, un réceptionneur attrape le disque dans
-la zone d'en-but, mais avant qu'il n'établisse la possession, il se fait bousculer, la faute lui fait perdre le controle
+la zone d'en-but, mais avant qu'il n'établisse la possession, il se fait bousculer, la faute lui fait perdre le contrôle
 du disque puis il arrive à établir la possession dans la zone centrale, c'est une faute d'expulsion et il y a point.
 
 ### 17.11. Contact lorsque le disque est relaché (faute offensive ou défensive) (17.6., 17.7.)
@@ -1366,7 +1384,7 @@ Exemple 1: Un défenseur initie un contact non-mineur avec le lanceur avant le g
 
 ### 17.14. Fautes indirectes (17.8.)
 
-Exemple 1 : Un attaquant renverse accidentellement un défesseur. Le lanceur n'a pas lancé le disque. Le défenseur
+Exemple 1 : Un attaquant renverse accidentellement un défenseur. Le lanceur n'a pas lancé le disque. Le défenseur
 appelle une faute.
 
 - Le jeu s'arrête. Le défenseur reprend position en compensant son désavantage causé par la faute. (17.8.).
@@ -1377,22 +1395,22 @@ appelle une faute.
   possession, le défenseur peut rattraper le désavantage causé par la faute et le jeu reprend par un check (16.3.2).
 
 Si l'attaquant commet une faute après avoir établi la possession en l'air, mais que la faute a été causé par une action
-qui n'est pas relative à la reception (par exemple en essayant d'atterrir intentionnellement dans la zone d'en-but),
+qui n'est pas relative à la réception (par exemple en essayant d'atterrir intentionnellement dans la zone d'en-but),
 ceci doit être traité comme une faute indirecte.
 
-### 17.15. Faute simulténée lors de la réception (17.9.2.)
+### 17.15. Faute simultanée lors de la réception (17.9.2.)
 
 Il arrive que les deux joueurs aient le droit d'accéder à un espace et qu'aucun d'eux ne puisse être considéré comme
 ayant initié le contact. Dans ce cas, si le contact affecte le résultat du jeu, la faute doit être traitée comme une
 faute simultanée (17.9.2.). Le disque doit retourner au lanceur (sauf si 17.9.2.1 s'applique).
 
-Un contact mineur peut survenir lorsque deux joueurs ou plus se déplace simultanéement vers un même point mais ce ne
+Un contact mineur peut survenir lorsque deux joueurs ou plus se déplace simultanément vers un même point mais ce ne
 doit pas être considéré comme une faute.
 
 Les joueurs concernés par cet incident doivent garder en tête qu'ils n'ont souvent pas la meilleur perspective pour
 déterminer qui a initié le contact et doivent demander aux autres joueurs ayant une meilleur perspective.
 
-Si deux adversaires produivent un contact non dangeureux en sautant simultanéement au même endroit pour attraper une
+Si deux adversaires produisent un contact non dangereux en sautant simultanément au même endroit pour attraper une
 passe, et qu'un joueur attrape le disque avant le contact, le résultat de l'action en maintenu. Cependant, si une faute
 simultanée est appelée, tous les joueurs qui seraient tombés suite au contact pourront se relever avant que le jeu ne
 reprenne.
@@ -1412,7 +1430,7 @@ pas partir d'un compte négatif).
 
 Le lanceur peut choisir d'appeler Distance *disc space* aussi bien en cas de chevauchement ou d'encerclement. Cependant,
 le lanceur peut aussi appeler une violation plus spécifique pour une meilleur communication avec le marqueur sur ce
-qu'il doit corriger. +
+qu'il doit corriger. (†)
 
 ### 18.3. Encerclement (18.1.1.4.)
 
@@ -1427,10 +1445,10 @@ Exemple 1 : Deux défenseurs ou plus se trouve dans les 3 mètres autour du lanc
   attaquant,
   ou qu'il ne font que passer en courant.
 - En défense de zone il est fréquent qu'un défenseur entre dans les 3 mètres autour du lanceur quand une autre attaquant
-  entre lui aussi dans cet espace. Pour éviter un double marquage le défenseur doit garder un attaquant ce qui inclu de
+  entre lui aussi dans cet espace. Pour éviter un double marquage le défenseur doit garder un attaquant ce qui inclue de
   tenter d'intercepter une passe à ce joueur.
 - Si la défense ne pense pas avoir commis une infraction de double marquage, elle peut contester et le jeu doit
-  s'arreter, elle ne peut pas simplement l'ignorer.
+  s'arrêter, elle ne peut pas simplement l'ignorer.
 - Il n'y a pas de limite au nombre de défenseur pouvant garder un même attaquant qui n'a pas le disque.
 - Lorsqu'une infraction de double marquage est appelée est acceptée, le marqueur doit d'abord attendre que le
   positionnement illégale soit corrigé (18.1.4.) puis reprendre le compte au dernier nombre entièrement prononcé avant
@@ -1438,7 +1456,7 @@ Exemple 1 : Deux défenseurs ou plus se trouve dans les 3 mètres autour du lanc
   moins 1 (18.1.3.).
 - N'importe quel attaquant peut appeler une violation de double marquage, cependant si l'appel n'est pas fait par le
   lanceur, l'appel doit être fait assez fort pour que le lanceur et le marqueur puissent l'entendre. Si le lanceur
-  répete l'appel au double marquage de son équipe, ce doit être considéré comme le même appel. (le compte n'est réduit
+  répète l'appel au double marquage de son équipe, ce doit être considéré comme le même appel. (le compte n'est réduit
   qu'une fois).
 - Si un défenseur commet intentionnellement un double marquage, sans avoir d'attaquant et fait une interception, ceci
   doit être adressé par la règle 1.2.1.
@@ -1448,16 +1466,17 @@ Exemple 1 : Deux défenseurs ou plus se trouve dans les 3 mètres autour du lanc
 Après une infraction de marquage contestée appelée alors qu'une passe a été complétée, c'est de la responsabilité du
 marqueur d'annoncer si le jeu est affecté selon la règle 16.3.
 Dans de rare situations d'infraction de marquage contestée, le marqueur peut choisir que le jeu a été affecté si l'appel
-à la violation de marquage lui a fait interrompre rapidement et raisonablement son marquage pour vérifier rapidement son
+à la violation de marquage lui a fait interrompre rapidement et raisonnablement son marquage pour vérifier rapidement
+son
 positionnement. Par exemple, si le lanceur appelle une infraction de chevauchement et que le marqueur regarde ses pieds
-pour vérifier et que le lanceur en profite pour lancer. Si, en conséquence, le marqeur conteste cet appel parce qu'il
+pour vérifier et que le lanceur en profite pour lancer. Si, en conséquence, le marqueur conteste cet appel parce qu'il
 pense ne pas avoir commis d'infraction, il peut dire que le jeu a été affecté et le disque doit être retourné au
-lanceur. +
+lanceur. (†)
 
 ### 18.6. Reprendre le compte après une infraction de marquage (18.1.3.)
 
 Lorsqu'une infraction de marquage est appelée, le marqueur doit immédiatement interrompre le compte. Le défenseur doit
-corriger son infraction et le marqueur peut reprendre le compte au nombre approprié. +
+corriger son infraction et le marqueur peut reprendre le compte au nombre approprié. (†)
 Pour reprendre le compte au dernier nombre entièrement prononcé avant l'appel moins 1, c'est comme soustraire deux
 secondes au
 compte. (ex: Stalling One, Two, Tree, Fast Count, Two, Tree).
@@ -1468,7 +1487,7 @@ moins 1.
 ### 18.7. Un marqueur qui ne corrige pas le compte après un appel à une infraction de marquage
 
 Si le marqueur ne corrige pas le compte, le lanceur peut appeler une infraction de Compte Rapide *fast count*. Si le
-marqueur persite à ne pas corriger le compte, le lanceur peut appeler une violation. Le jeu s'arrête et l'infraction
+marqueur persiste à ne pas corriger le compte, le lanceur peut appeler une violation. Le jeu s'arrête et l'infraction
 doit être expliqué au marqueur.
 
 ### 18.8. infraction de marquage flagrante (18.1.5.3.)
@@ -1484,7 +1503,7 @@ ralentir, et après deux contacts supplémentaire avec le sol.
 
 - C'est autorisé tant que le joueur ralentissait aussi vite que possible et qu'il était en contact avec le terrain lors
   du geste de lancé.
-- Une fois que le lanceur a laché le disque il n'a pas besoin de s'arreter.
+- Une fois que le lanceur a laché le disque il n'a pas besoin de s'arrêter.
 
 ### 18.10. Appeler une infraction de marché (18.2.5.)
 
@@ -1497,10 +1516,10 @@ En particulier :
 - une joueur n'est pas autorisé à maintenir sa vitesse constante alors qu'il attrape et lance le disque, a moins qu'il
   attrape et lance en étant en l'air, ou qu'un maximum de deux points de contacts avec le sol ne soient fait entre la
   réception et le laché du disque.
-- Un joueur ne doit pas jamais avoir besoin de plus de 5 pas pour s'arreter.
+- Un joueur ne doit pas jamais avoir besoin de plus de 5 pas pour s'arrêter.
   Tant que la défense n'a pas de preuve parmi ces lignes, ils ne doivent pas appeler d'infraction de marché.
 
-Dans certaine situation, un réceptionneur peut avoir besoin de maintenir sa vitesse brievement ou de changer légèrement
+Dans certaine situation, un réceptionneur peut avoir besoin de maintenir sa vitesse brièvement ou de changer légèrement
 de
 direction pour éviter un contact avec une défenseur qui plonge ou qui saute. C'est attendu dans une telle situation et
 ne doit pas être considéré comme une infraction de marché.
@@ -1508,31 +1527,32 @@ ne doit pas être considéré comme une infraction de marché.
 Si le marché est uniquement provoqué par un contact initié par un adversaire, il ne doit pas être considéré comme une
 infraction.
 
-Si le jeu est arrété, le lanceur peut changer la partie de son corp en contact avec le point pivot, ce n'est pas une
+Si le jeu est arrêté, le lanceur peut changer la partie de son corps en contact avec le point pivot, ce n'est pas une
 infraction.
 
-Si un joueur prévois de lancer sans s'arreter (en accord avec 18.2.2.1) mais qu'il change d'avir et s'arrete sans lacher
-le disque après plus de deux points de contact avec le sol supplémentaires, c'est une infraction de travel dès lors qu'
+Si un joueur prévois de lancer sans s'arrêter (en accord avec 18.2.2.1) mais qu'il change d'avis et s'arrête sans lâcher
+le disque après plus de deux points de contact avec le sol supplémentaires, c'est une infraction de marché dès lors qu'
 il n'a pas réduit sa vitesse.
 
-Un joueur est considéré comme changeant de direction après une réception s'il y a des mouvements lattéraux de sont
+Un joueur est considéré comme changeant de direction après une réception s'il y a des mouvements latéraux de sont
 centre de masse avant que le pivot soit établi, ou si son point de pivot n'est pas établi là où ses pieds auraient
-naturellement dû s'arreté d'après le mouvement précédent.
+naturellement dû s'arrêté d'après le mouvement précédent.
 
 ### 18.11. Prendre de l'élan pour lancer (18.2.5.3.)
 
-Après un engagement, un revirement (*turnover*) hors de la zone centrale, ou un déplacement hors du terrain pour pouvoir s'arreter,
+Après un engagement, un revirement (*turnover*) hors de la zone centrale, ou un déplacement hors du terrain pour pouvoir
+s'arrêter,
 un lanceur ne peut pas prendre de l'élan pour faire une passe sans avoir établi un point de pivot.
 
 ### 18.12. Mal attraper (18.2.5.5.)
 
 Tout contact avec le disque qui ne conduit pas à une réception propre peut être considéré comme "mal attraper" ou "met
-du temps à bien maitriser".
+du temps à bien maîtriser".
 
-Si un joueur retarde la maitrise du disque intentionnellement pour pouvoir avancer et le maitriser dans la zone d'en-but
+Si un joueur retarde la maitrise du disque intentionnellement pour pouvoir avancer et le maîtriser dans la zone d'en-but
 et marquer un point, c'est une infraction de marché.
 
-Si un joueur rate une réception mais fini par controller le disque dans la zone d'en-but, il y a point dès lors que les
+Si un joueur rate une réception mais fini par contrôller le disque dans la zone d'en-but, il y a point dès lors que les
 ratés ne sont pas intentionnels.
 
 Si un joueur contacte plusieurs fois le disque uniquement pour lui permettre d'attraper correctement un disque qu'il
@@ -1542,14 +1562,16 @@ n'aurait pas maitrisé sinon, ce n'est pas une infraction de marché.
 
 Exemple : Un appel à l'infraction de marché est accepté et le lanceur n'a pas relaché le disque.
 
-- Le jeu ne s'arrete pas. Le lanceur soit établir son pivot au bon endroit (18.2.6.).
+- Le jeu ne s'arrête pas. Le lanceur soit établir son pivot au bon endroit (18.2.6.).
 - Si l'appel est accepté, tous les joueurs, excepté le lanceur, sont libres de se déplacer n'importe où sur le terrain.
-- Le jeu ne s'arrete pas, mais le disque est vivant, il peut y avoir revirement (*turnover*) (par exemple si le lanceur échappe le
-  disque) +
+- Le jeu ne s'arrête pas, mais le disque est vivant, il peut y avoir revirement (*turnover*) (par exemple si le lanceur
+  échappe le
+  disque) (†)
 - Si la défense n'indique pas au lanceur où le marché à eu lieu, ou si le lanceur souhaite contester l'endroit indiqué,
-  le lanceur doit appeler une violation, arreter le jeu et expliquer que l'endroit n'est pas correcte ou pas indiqué. +
+  le lanceur doit appeler une violation, arrêter le jeu et expliquer que l'endroit n'est pas correcte ou pas indiqué. (
+  †)
 - Si l'appel de marché est contesté, les joueurs doivent retourner où ils étaient au moment de l'appel.
-- Si une passe est complétée, le jeu s'arrete et le disque revient au lanceur.
+- Si une passe est complétée, le jeu s'arrête et le disque revient au lanceur.
 
 ### 18.14 Reprendre après une violation de marché (18.2.7.)
 
@@ -1558,12 +1580,12 @@ pas à
 l'endroit où il aurait du être.
 Après un revirement hors limite (*out-of-bound turnover*), si une infraction de marché est appelé parce que il a établi
 son pivot sur la ligne de touche plutôt que sur la ligne d'en-but et qu'il a lancé une passe complété, le jeu doit
-s'arreter. Le disque est retourné au lanceur et doit être checké à l'endroit de l'infraction : sur la ligne de touche.
+s'arrêter. Le disque est retourné au lanceur et doit être checké à l'endroit de l'infraction : sur la ligne de touche.
 Une fois que le disque est checké, il doit se déplacer sur la ligne d'en-but pour établir un pivot au bon endroit. Tous
 les joueurs peuvent se déplacer dès que le disque est checké. Le disque est considéré mort tant que le pivot n'est pas
 établi.
 
-### 18.15 Appeler un obsruction (*pick*) (18.3.1.)
+### 18.15 Appeler un obstruction (*pick*) (18.3.1.)
 
 Une obstruction ne peut être appelée que si le joueur bloqué se trouve à moins de 3 mètres du joueur gardé _au
 moment du l'obstruction_. Cependant, il n'est pas nécessaire d'être à moins de 3 mètres _au moment de l'appel_ parce que
@@ -1575,10 +1597,10 @@ Une obstruction peut venir d'un contact ou la nécessité d'éviter un joueur.
 Une obstruction ne peut être appelé par l'attaque.
 
 Une obstruction ne peut pas être appeler par un défenseur bloqué alors qu'il tente une action sur le disque, ce n'est
-pas lié à sa capacité à poursuivre le joueur qu'il garde. En revanche il peut appler une violation 12.7. si applicable.
+pas lié à sa capacité à poursuivre le joueur qu'il garde. En revanche il peut appeler une violation 12.7. si applicable.
 
 Après un appel d'obstruction accepté, le défenseur lésé rattrape sa position perdue à cause de l'obstruction. S'il
-poursuivait son joueur à 2.5m derrière lui, il peut se remettre à 2.5m de son joueur mais pas immédiatement à coté. +
+poursuivait son joueur à 2.5m derrière lui, il peut se remettre à 2.5m de son joueur mais pas immédiatement à coté. (†)
 
 Si l'attaque conserve la possession, après un appel d'obstruction accepté, le défenseur lésé peut aller à l'endroit où
 il aurait été sans l'obstruction. Tous les autres joueurs, incluant le joueur gardé par ce défenseur doivent se
@@ -1589,11 +1611,11 @@ effective de l'appel.
 
 Si le défenseur retarde de plus de 2 secondes son appel 15.9. s'applique.
 
-## 19. Interuptions de sécurité
+## 19. Interruptions de sécurité
 
 ### 19.1. Interruption pour Blessure (*Injury*) (19.1.2.)
 
-Le joueur bléssé doit choisir une des deux options proposées. Cependant si son équipe n'a plus de temps-mort, il doit
+Le joueur blessé doit choisir une des deux options proposées. Cependant si son équipe n'a plus de temps-mort, il doit
 être remplacé.
 
 "faire prendre un temps-mort à sa propre équipe" signifie qu'un temps-mort est décompté de ceux autorisés pour cette
@@ -1610,18 +1632,19 @@ blessure est découverte.
 
 ### 19.2. Interruption pour blessure et reprise du jeu (19.1.6.)
 
-Si une interruption pour blessure est appelée alors que le disque est en l'air et que les joueurs s'arretent
-pour aider un joueur séverement blessé, il est raisonable de traiter cette interruption comme une interruption technique
+Si une interruption pour blessure est appelée alors que le disque est en l'air et que les joueurs s'arrêtent
+pour aider un joueur sévèrement blessé, il est raisonnable de traiter cette interruption comme une interruption
+technique
 et d'autoriser le disque à revenir au lanceur.
 
 ### 19.3. condition qui met en danger les joueurs (19.2.1.)
 
-Un joueur peut appeler une interruption technique pour elever ou ajuster un objet potentiellement dangeureux (comme une
+Un joueur peut appeler une interruption technique pour élever ou ajuster un objet potentiellement dangereux (comme une
 pierre, un morceau de métal, de bois ou de verre) trouvé sur le terrain.
 
 Le réceptionneur n'est pas tenu de continuer à jouer dans une situation dangeureuse, comme un enfant qui erre sur le
-terrain. Dans ce cas, le réceptionneur doit s'arreter de jouer le disque pour prioriser sa sécurité et celle des autres
-et le disque doit revenir au lanceur dès que la situation dangeureuse est résolue. +
+terrain. Dans ce cas, le réceptionneur doit s'arrêter de jouer le disque pour prioriser sa sécurité et celle des autres
+et le disque doit revenir au lanceur dès que la situation dangeureuse est résolue. (†)
 
 ### 19.4. blessures ouvertes ou saignantes (19.2.1.)
 
@@ -1629,12 +1652,12 @@ Une blessure ouverte ou saignantes est "résolue efficacement" si elle est recou
 pour résister aux exigences de l'activité et capable d'empêcher fluides corporels d'entrer en contact avec d'autres
 joueurs.
 
-Les joueurs qui aurait recu du sang sur les vêtements doivent se faire désinfecter les zones touchées ou doivent changer
+Les joueurs qui aurait reçu du sang sur les vêtements doivent se faire désinfecter les zones touchées ou doivent changer
 de vêtements avant de retourner jouer.
 
 Le fait qu'un joueur puisse ou non retourner au jeu est déterminé par personnel médical approprié. Si le personnel
 médical n'est pas disponible, les capitaines et les entraîneurs peuvent convenir qu'une blessure a été efficacement
-couverte et que tout problème vestimentaire a été traité. +
+couverte et que tout problème vestimentaire a été traité. (†)
 
 L'arrêt ne devrait être utilisé que pour régler le problème du sang.
 
@@ -1648,8 +1671,9 @@ perforé ou déformé (plié). Un disque légèrement déformé, humide ou sale 
 ### 20.1. Appeler un temps mort pendant le jeu (20.3.)
 
 Si un lanceur peut ou doit se déplacer pour établir son pivot un à endroit différent de celui où il a établi la
-possession, il peut appeller un temps-mort avant d'établir son pivot au bon endroit. Cela signifie que si le lanceur
-ramasse le disque après un revirement (*turnover*) et que l'endroit du revirement (*turnover*) n'est pas dans la zone centrale, il peut appeler un
+possession, il peut appeler un temps-mort avant d'établir son pivot au bon endroit. Cela signifie que si le lanceur
+ramasse le disque après un revirement (*turnover*) et que l'endroit du revirement (*turnover*) n'est pas dans la zone
+centrale, il peut appeler un
 temps-mort immédiatement. S'il le fait, il doit placer le disque à l'endroit où il établira son pivot après le temps
 mort.
 

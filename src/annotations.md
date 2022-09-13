@@ -602,8 +602,8 @@ Pour les matchs sur terrain non tracé, le réceptionneur doit avoir le bénéfi
 - Exemple 1: Un joueur attrape une passe très proche de la ligne puis sort et établit la possession.
     - Tant que le joueur attrape la passe (en ayant un disque qui ne tourne plus entre au moins deux parties de son
       corps) alors qu'il est en contact avec l'aire de jeu (et ne pas être en contact avec l'extérieur) c'est une
-      réception
-      dans dans le périmètre. La règles 11.3.2. précise qu'une fois qu'un joueur a attrapé le disque, ils peuvent sortir
+      réception dans le périmètre. La règles 11.3.2. précise qu'une fois qu'un joueur a attrapé le disque, ils peuvent
+      sortir
       de l'aire de jeu tant qu'il maintient le disque jusqu'à établir la possession.
 
 Si un joueur qui attrape le disque dans l'aire de jeu entre en contact avec l'extérieur puis échappe le disque avant d'
@@ -960,7 +960,7 @@ pourquoi le point pivot doit être établi sur la ligne de la zone d'en-but à c
 déplacer le cône. Notez que le joueur doit avoir suffisamment de place pour pivoter autour de son pied de pivot (sinon
 des situations risquées pourrait survenir lors du pivot).
 
-### 13.12. Où établir le pied de pivot après un revirement (*turnover*) quand le disque dans le terrain (13.9.)
+### 13.12. Où établir le pied de pivot après un revirement (*turnover*) quand le disque est dans le terrain (13.9.)
 
 - Exemple 1 : Si l'endroit du « turnover » est dans la zone centrale, le lanceur doit établir un point pivot à cet
   endroit.

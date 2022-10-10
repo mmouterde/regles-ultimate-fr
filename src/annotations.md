@@ -1098,7 +1098,7 @@ ou son équipe. Cependant, le jeu ne doit pas s'arrêter pour autant.
 
 Seul le lanceur peut appeler une infraction de marquage, excepté dans le cas du double marquage (*double team*).
 En dehors du double marquage, les autres joueurs peuvent avertir le lanceur de l'infraction de marquage mais cet
-avertissement n'a pas d'effet (ce n'est pas un appel). Le lanceur peut alors faire l'appel par lui même et dans ce cas,
+avertissement n'a pas d'effet. Le lanceur peut alors faire l'appel par lui même et dans ce cas,
 l'adversaire doit en tenir compte.
 
 N'importe quel attaquant peut faire un appel de double marquage, cependant si l'appel n'est pas fait par le lanceur,

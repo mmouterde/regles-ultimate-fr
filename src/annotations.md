@@ -670,13 +670,13 @@ Les non-joueurs ne peuvent pas toucher le disque avant qu'il ne sorte.
 
 ### 12.1 Attraper le disque (12.1.)
 
-Les règles ont évolué depuis 2017 pour distinguer "réceptionner" (*catch*) et "possession". Une réception (*catch*") est
-quand le disque commence à être contrôllé par le réceptionneur. Une fois que le joueur a réceptionné le disque, il peut
+Les règles ont évolué depuis 2017 pour distinguer "réceptionner" (*catch*) et "possession". Une réception (*catch*) est
+quand le disque commence à être contrôlé par le réceptionneur. Une fois que le joueur a réceptionné le disque, il peut
 sortir, ou le disque peut toucher le sol, et ce n'est pas un revirement (*turnover*) tant qu'il maintient se réception
 en
 dehors ou tant que le disque touche le sol, et c'est après qu'il établit la possession de la passe.
 
-Un jouer établit la possession de la passe quand :
+Un joueur établit la possession de la passe quand :
 
 - il attrape une passe et ensuite maintient cette prise plus d'un instant perceptible et que
 - il maintient la prise tout au long des contacts avec le sol lié à ce « catch »,

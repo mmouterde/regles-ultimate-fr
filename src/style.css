@@ -279,3 +279,7 @@ html {
         scroll-padding-top: 100px;
     }
 }
+
+table li {
+    list-style: disc;
+}

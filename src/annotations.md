@@ -90,15 +90,12 @@ raison objective de son appel (*call*) ou de sa contestation.
 - Exemple 1 : Après avoir appelé un marché (*travel*), si on lui demande, le défenseur pourrait expliquer : "J'ai vu ton
   pied de pivot bouger alors que tu avais encore le disque en main."
     - Pourquoi: La raison objective est une raison qui peut être soumis à validation. Il est clair que l'appel (*call*)
-      n'est
-      pas basé sur une émotion ou sur ce que le joueur espérait ou attendait, mais sur ce qu'il a effectivement observé.
+      n'est pas basé sur une émotion ou sur ce que le joueur espérait ou attendait, mais sur ce qu'il a effectivement observé.
       Si un joueur n'est pas raisonnablement certain de la raison objective, il ne doit pas faire l'appel (*call*).
     - Extra : Les joueurs doivent être attentifs et compréhensifs aux problèmes de langues associées aux matchs
-      internationaux,
-      cependant, les adversaires doivent quand même être capables de communiquer, même par gestes, ce qu'ils ont vu. Les
+      internationaux, cependant, les adversaires doivent quand même être capables de communiquer, même par gestes, ce qu'ils ont vu. Les
       capitaines d'équipe et les autres joueurs devraient s'impliquer s'ils pensent que le joueur de leur équipe a tort
-      ou ne
-      se comporte pas correctement.
+      ou ne se comporte pas correctement.
 
 #### 1.3 Faire des appels à la faute (« call ») d'une manière cohérente au long d'un match (1.3.9.)
 
@@ -106,8 +103,7 @@ Les joueurs doivent faire des appels sans tenir compte du contexte du match. Cec
 doivent pas commencer à faire plus d'appels simplement parce que la fin du match approche et que le score est serré.
 
 - Exemple 1 : Si au début du match les marchés (*travels*) mineurs ne sont pas appelés, ils ne doivent pas être
-  d'avantage
-  appelés, plus tard dans le match.
+  d'avantage appelés, plus tard dans le match.
 
 #### 1.4 N'appeler que les infractions significative (1.3.10.)
 
@@ -145,7 +141,9 @@ Cependant, le jeu ne peut pas être trop retarder pour cela. Voir l'*Annexe* pou
 
 Par exemple, une rediffusion instantanée du jeu par les équipements du stade peut être utilisé par les joueurs
 pour résoudre un appel à la faute contesté.
+
 Les joueurs ne peuvent cependant pas demander qu'un extrait spécifique soit repasser à l'écran.
+
 Si, après le visionnage de la vidéo, le désaccord persiste, les joueurs ne doivent pas retarder davantage le match en
 visionnant plusieurs fois la vidéo. Dans ce cas, le match doit reprendre comme dans le cas normal d'une faute
 contestée. (†)

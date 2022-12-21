@@ -13,7 +13,28 @@
         "children": [
           {
             "id": "1.2.1.",
-            "text": "En cas de transgression délibérée ou flagrante des règles ou de l'Esprit du jeu, les capitaines devraient en discuter et déterminer une conséquence appropriée, même si cette conséquence n'est pas conforme à une règle spécifique."
+            "text": "En cas de transgression délibérée ou flagrante des règles ou de l'Esprit du jeu, les capitaines devraient en discuter et déterminer une conséquence appropriée, même si cette conséquence n'est pas conforme à une règle spécifique.",
+            "annotations": [
+              {
+                "text": "Pour qu'une transgression des règles soit considérée comme flagrante il faut qu'il s'agisse d'une transgression des règles qui ne devrait pas se produire dans un jeu standard d'Ultimate, ou une pour laquelle il n'y a pas de justification raisonnable dans les règles.",
+                "type": "text"
+              },
+              {
+                "type": "example",
+                "situation": "Un défenseur commet un jeu dangereux flagrant entraînant une faute sur un réceptionneur qui s’apprêtait à réceptionner le disque dans la zone d'en-but qu'il attaquait.",
+                "resolution": "Les capitaines peuvent choisir d'accepter le point ou que le réceptionneur gagne la possession et reprenne depuis la ligne de la zone d'en-but."
+              },
+              {
+                "type": "example",
+                "situation": "Un lanceur marche délibérément pour contourner son défenseur et gagner du terrain face au vent lors du revirement (*turnover*).",
+                "resolution": "les capitaines peuvent décider que l'endroit du revirement (*turnover*) se trouve à l'endroit effectif du lancer."
+              },
+              {
+                "type": "example",
+                "situation": "Un défenseur commet intentionnellement un double marquage (*double team*) non justifié par un autre joueur offensif et fait une interception du disque au lancé (*block*).",
+                "resolution": "Les capitaines peuvent choisir de retourner le disque au lanceur."
+              }
+            ]
           }
         ]
       },
@@ -23,7 +44,18 @@
         "children": [
           {
             "id": "1.3.4.",
-            "text": "expliquer leur point de vue clairement et brièvement;"
+            "text": "expliquer leur point de vue clairement et brièvement;",
+            "annotations": [
+              {
+                "text": "C'est essentiel, pour un bon esprit du jeu, qu'un joueur soit préparé à expliquer brièvement, si besoin, la raison objective de son appel (*call*) ou de sa contestation.",
+                "type": "text"
+              },
+              {
+                "type": "example",
+                "situation": "Après avoir appelé un marché (*travel*), si on lui demande, le défenseur pourrait expliquer : \"J'ai vu ton pied de pivot bouger alors que tu avais encore le disque en main.\"",
+                "resolution": "La raison objective est une raison qui peut être soumis à validation. Il est clair que l'appel (*call*) n'est pas basé sur une émotion ou sur ce que le joueur espérait ou attendait, mais sur ce qu'il a effectivement observé. Si un joueur n'est pas raisonnablement certain de la raison objective, il ne doit pas faire l'appel (*call*). Les joueurs doivent être attentifs et compréhensifs aux problèmes de langues associées aux matchs internationaux, cependant, les adversaires doivent quand même être capables de communiquer, même par gestes, ce qu'ils ont vu. Les capitaines d'équipe et les autres joueurs devraient s'impliquer s'ils pensent que le joueur de leur équipe a tort ou ne se comporte pas correctement."
+              }
+            ]
           },
           {
             "id": "1.3.5.",
@@ -43,11 +75,33 @@
           },
           {
             "id": "1.3.9.",
-            "text": "faire des [appels](#definitions-call) à la faute (*[call](#definitions-call)*) d'une manière cohérente au long d'un match, et"
+            "text": "faire des [appels](#definitions-call) à la faute (*[call](#definitions-call)*) d'une manière cohérente au long d'un match, et",
+            "annotations": [
+              {
+                "text": "Les joueurs doivent faire des appels sans tenir compte du contexte du match. Ceci implique que les joueurs ne\ndoivent pas commencer à faire plus d'appels simplement parce que la fin du match approche et que le score est serré.",
+                "type": "text"
+              },
+              {
+                "type": "example",
+                "situation": "Au début du match les marchés (*travels*) mineurs ne sont pas appelés.",
+                "resolution": "Ils ne doivent pas être d'avantage appelés, plus tard dans le match."
+              }
+            ]
           },
           {
             "id": "1.3.10.",
-            "text": "faire un [appel](#definitions-call) à une faute uniquement si une infraction est assez significative pour changer le résultat d'une action."
+            "text": "faire un [appel](#definitions-call) à une faute uniquement si une infraction est assez significative pour changer le résultat d'une action.",
+            "annotations": [
+              {
+                "text": "Les joueurs doivent avoir un degrés raisonnable de tolérance envers les infractions mineures impliquant des\nlégères variations sur la distance et le temps.",
+                "type": "text"
+              },
+              {
+                "type": "example",
+                "situation": "Un lanceur établit un point pivot à un centimètre du l'endroit approprié.",
+                "resolution": "Le marché (*travel*) ne doit pas être appelé."
+              }
+            ]
           }
         ]
       },
@@ -95,11 +149,23 @@
           },
           {
             "id": "1.6.3.",
-            "text": "provoquer ou intimider un [joueur](#definitions-joueur) adverse;"
+            "text": "provoquer ou intimider un [joueur](#definitions-joueur) adverse;",
+            "annotations": [
+              {
+                "text": "Un joueur pourrait être considéré comme se livrant à un comportement intimidant si, par exemple, ils crient fort à un adversaire avec l'intention de distraire l'adversaire pendant qu'ils sont sur le point de attraper le disque. Entreprendre simplement une action normale dans le match, comme faire une injonction à quelqu'un, ne doit pas être considéré comme de l'intimidation.",
+                "type": "text"
+              }
+            ]
           },
           {
             "id": "1.6.4.",
-            "text": "célébrer un point de façon irrespectueuse;"
+            "text": "célébrer un point de façon irrespectueuse;",
+            "annotation": [
+              {
+                "text": "Cela comprend le smash dirigé vers un adversaire et la raillerie de l'adversaire en leur \"montrant\" le disque. Ces actions doivent être évitées.",
+                "type": "text"
+              }
+            ]
           },
           {
             "id": "1.6.5.",
@@ -148,10 +214,32 @@
       {
         "id": "1.10.",
         "text": "Les [appels](#definitions-call) doivent être discutés par les [joueurs](#definitions-joueur) directement impliqués dans l’[action de jeu](#definitions-faire_action_sur_le_disque) et par les [joueurs](#definitions-joueur) qui ont eu la [meilleure perspective](#definitions-meilleure_perspective) sur l’action.",
+        "annotations": [
+          {
+            "type": "text",
+            "text": "Les joueurs peuvent visionner des photos ou des vidéos d'un appel si cela est disponible. Cependant, le jeu ne peut pas être trop retarder pour cela. Voir l'*Annexe* pour plus de détails. Par exemple, une rediffusion instantanée du jeu par les équipements du stade peut être utilisé par les joueurs pour résoudre un appel à la faute contesté. Les joueurs ne peuvent cependant pas demander qu'un extrait spécifique soit repasser à l'écran."
+          },
+          {
+            "type": "example",
+            "situation": "Après le visionnage de la vidéo, le désaccord persiste.",
+            "resolution":"les joueurs ne doivent pas retarder davantage le match en visionnant plusieurs fois la vidéo. Dans ce cas, le match doit reprendre comme dans le cas normal d'une faute contestée. (†)"
+          }
+        ],
         "children": [
           {
             "id": "1.10.1.",
-            "text": "Si un [joueur](#definitions-joueur) qui n’était pas directement impliqué croit qu’un coéquipier a fait un [appel](#definitions-call) incorrect ou a causé une faute ou une violation, il devrait informer son coéquipier. "
+            "text": "Si un [joueur](#definitions-joueur) qui n’était pas directement impliqué croit qu’un coéquipier a fait un [appel](#definitions-call) incorrect ou a causé une faute ou une violation, il devrait informer son coéquipier. ",
+            "annotations": [
+              {
+                "type": "text",
+                "text": "C'est toujours aux joueurs de faire l'appel. Les non joueurs ne doivent pas intervenir tant que les joueurs concerné ne le demande pas."
+              },
+              {
+                "type": "example",
+                "situation": "Le jeu a été arrêté et un joueur n'est pas en mesure d'appeler la faute, par exemple à cause d'une blessure ou de la barrière de la langue",
+                "resolution":"Un coéquipier peut faire l'appel (*call*) à sa place. Les équipes peuvent faire intervenir un non joueur comme interprète pour aider à la communication pendant une interruption."
+              }
+            ]
           },
           {
             "id": "1.10.2.",
@@ -161,11 +249,35 @@
       },
       {
         "id": "1.11.",
-        "text": "Les [joueurs](#definitions-joueur) et les capitaines sont seuls responsables pour faire et résoudre tous les appels."
+        "text": "Les [joueurs](#definitions-joueur) et les capitaines sont seuls responsables pour faire et résoudre tous les appels.",
+        "annotations": [
+          {
+            "type": "text",
+            "text":"Un capitaine ne doit pas faire d'appel qui arrête le jeu s(il n'est pas directement dans le jeu. Cependant un capitaine peut intervenir pour résoudre un appel qui a déjà arrêté le jeu."
+          }
+        ]
       },
       {
         "id": "1.12.",
         "text": "Si, après une discussion, les [joueurs](#definitions-joueur) ne trouvent pas d’accord ou que ce n’est pas clair et évident:",
+        "annotations": [
+          {
+            "type": "text",
+            "text": "Avant que le disque ne retourne au lanceur quand les joueurs ne sont pas d'accord, ils doivent discuter de ce qu'il s'est passé. Tous les joueurs concernés doivent expliquer clairement ce qu'ils pensent s'être passé, et écouter le point de vue de l'adversaire ou des autres joueurs avec une bonne perspective sur l'action."
+          },{
+            "type": "example",
+            "situation": "La discussion est rendu difficile du fait de la barrière de la langue.",
+            "resolution": "Les gestes ou une reconstitution de l'incident peut être utilisés pour illustrer ce qu'il s'est passé lors de l'incident. (par exemple, taper sa propre main pour montrer qu'on a subi un contact sur celle-ci au moment d'attraper le disque). Les équipes peuvent faire appel à un non joueur comme interprète pour aider à la communication pendant l'interruption."
+          },{
+            "type": "example",
+            "situation": "Il n'est pas possible d'être raisonnablement certain de ce qu'il s'est produit. (par exemple si personne n'a de bonne perspective, ou si cela s'est passé trop vite). Ou, qu'il est difficile de savoir si quelque chose à affecter le jeu.",
+            "resolution": "le disque doit être retourné au dernier lanceur non contesté."
+          },{
+            "type": "example",
+            "situation": "Les discussions doivent être aussi brèves que possible et se finir sur un appel accepté ou contesté. Cependant il devient clair qu'une telle résolution n'arrivera pas",
+            "resolution": "Le disque doit revenir au dernier lanceur non contesté. La durée maximum suggérée pour une discussion lors d'une interruption est de quarante-cinq (45) secondes. Voir l'*Annexe* pour des compléments sur les règles concernant les durées."
+          }
+        ],
         "children": [
           {
             "id": "1.12.1.",

@@ -685,9 +685,9 @@ Un joueur établit la possession de la passe quand :
 Pour qu'un disque soit considéré comme attrapé, il doit être tenu fermement entre au moins deux parties du corps et ne
 doit pas bouger relativement à ces parties du corps.
 
-Si un joueur initie la réception d'une passe puis, avant d'établir la possession, il ne maintient pas la prise ("
-maintenir la prise" signifie de continuer a tenir un disque sans rotation entre au moins deux parties du corps) le catch
-est alors considéré terminé.
+Si un joueur initie la réception d'une passe puis, avant d'établir la possession, il ne maintient pas la prise
+("maintenir la prise" signifie de continuer à tenir un disque sans rotation entre au moins deux parties du corps) le
+catch est alors considéré terminé.
 
 Un joueur peut changer les parties de son corps qu'il utilise pour tenir le disque et, tant que le disque continue à
 être tenu par au moins deux parties du corps pendant ce changement, c'est considéré comme la même réception. (par
@@ -697,14 +697,14 @@ c'est considéré comme la même réception).
 
 ### 12.2. Contacts consécutifs à la réception (12.1.1.)
 
-Le contact avec le sol ou avec un autre joueur peut être considéré comme consécutif à la réception si il se produit
-directement après la réception, s'il résulte d'un attérrissage après un plongeon pour attraper le disque, ou s'il
+Le contact avec le sol ou avec un autre joueur peut être considéré comme consécutif à la réception s'il se produit
+directement après la réception, s'il résulte d'un atterrissage après un plongeon pour attraper le disque, ou s'il
 survient quand le joueur perd l'équilibre après avoir attrapé le disque. Si, par exemple, un joueur attrape dans sa
 course dans la zone d'en-but puis établit la possession lors des premiers pas après la réception, continue à courir pour
 célébrer son point et trébuche, alors la perte de possession ne peut être considérée comme consécutive à la réception.
 Un moyen de distinguer un contact consécutif à une réception est qu'une fois que le joueur a pu avoir le choix de s'
 arrêter et être immobile, et contrôler ses mouvement, toutes actions qui suivraient ne sont pas relative à la
-réception, même si il ne décide pas de s'arrêter.
+réception, même s'il ne décide pas de s'arrêter.
 
 ### 12.3. Se déplacer de manière imprudente (12.5.)
 
@@ -720,16 +720,16 @@ mais les contacts mineurs ne sont pas des fautes.
 
 Si le joueur A ne fait pas d'action sur le disque, mais permet à un coéquipier de faire une action sur le disque, le
 joueur A ne doit pas empêcher un adversaire. Cependant si le joueur A est immobile ou n'empêche pas, ce n'est pas une
-violation, même si leur actions empêche effectivement l'adversaire.
+violation, même si leur action empêche effectivement l'adversaire.
 
 Le mot clé dans cette règle est "uniquement". L'intention derrière les mouvements du joueur peuvent être en partie
 motivé par l'idée d'empêcher l'adversaire de prendre une une trajectoire inoccupée pour jouer le disque, tant que c'est
-un partie de l'effort général pour faire action sur le disque.
+une partie de l'effort général pour faire action sur le disque.
 
 Si un poursuivant se heurte avec le joueur devant lui, c'est presque toujours une faute du poursuivant.
 
-Après un revirement (*turnover*) et/ou lorsqu'un lanceur n'est pas au l'emplacement du point de pivot, la défense doit
-laisse un trajectoire inoccupée à l'attaque vers le disque et/ou l'emplacement du point de pivot.
+Après un revirement (*turnover*) et/ou lorsqu'un lanceur n'est pas à l'emplacement du point de pivot, la défense doit
+laisser une trajectoire inoccupée à l'attaque vers le disque et/ou l'emplacement du point de pivot.
 
 ### 12.5. Faire action sur le disque (12.6.)
 
@@ -741,20 +741,18 @@ En faisant action sur le disque, les joueurs doivent s'assurer qu'ils ne vont pa
 d'autres joueurs (même s'ils sont immobiles, ou d'après leur position attendue selon leur vitesse et leur direction),
 avant, pendant ou après leur tentative sur le disque.
 
-Un contact qui implique une force physique minimale et ne modifie pas les mouvements ou la position d'un autre joueur.
+Un contact mineur est un contact qui implique une force physique minimale et ne modifie pas les mouvements ou la position d'un autre joueur.
 
 Si un contact non-mineur survient, le résultat de l'action ne sera probablement pas le même si la transgression affecte
 le jeu.
 
 Une transgression affecte le jeu s'il est raisonnable de dire que le résultat de l'action de jeu aurait été
-significativement différent si la transgression n'avait pas eu lieu. C'est à dire, si le joueur n'aurait pas été capable
-d'
-intercepter la passe sans causer un contact significatif avec son adversaire, ou si l'adversaire aurait été en mesure de
-jouer le disque si le joueur n'était pas entré en contact avec lui.
+significativement différent si la transgression n'avait pas eu lieu. C'est-à-dire, si le joueur n'aurait pas été capable
+d'intercepter la passe sans causer un contact significatif avec son adversaire, ou si l'adversaire aurait été en mesure
+de jouer le disque si le joueur n'était pas entré en contact avec lui.
 
 Les compétences relatives, la taille et/ou les capacités athlétiques des joueurs concernés ne doivent typiquement pas
-être
-pris en compte pour définir si quelque chose affecte le jeu ou non.
+être pris en compte pour définir si quelque chose affecte le jeu ou non.
 
 ### 12.6. Poser une main sur un adversaire (12.6.)
 
@@ -766,7 +764,7 @@ pris en compte pour définir si quelque chose affecte le jeu ou non.
 
 ### 12.7. Positionnement des joueurs quand le disque est en l'air (12.6. - 12.9.)
 
-- Exemple 1 : Le joueur 1 court après le disque et ralenti pour s'assurer de rester entre le joueur B et le disque. Le
+- Exemple 1 : Le joueur 1 court après le disque et ralentit pour s'assurer de rester entre le joueur B et le disque. Le
   joueur B heurte le dos du joueur A et trébuchent tous les deux.
     - Le Joueur B commet une faute sur le joueur A. Le Joueur A peut ralentir pour faire une action sur le jeu. Le
       joueur B peut
@@ -797,14 +795,14 @@ pris en compte pour définir si quelque chose affecte le jeu ou non.
       joueur immobile, ou selon sa vitesse et direction établie, avant, pendant ou après l'action sur le
       disque.
 - Exemple 6 : Le joueur A est immobile et attend d'attraper le disque. Le joueur B court et saute de manière à éviter le
-  joueur A et intercepte la passe. Le joueur 1 se déplace vers la trajectoire du joueur B pendant que le joueur B est en
+  joueur A et intercepte la passe. Le joueur A se déplace vers la trajectoire du joueur B pendant que le joueur B est en
   l'air. Il y a contact entre le joueur A et le joueur B.
     - Le joueur A commet une faute sur le joueur B. Le joueur A a initié un contact en se déplaçant vers une position
-      que son adversaire ne pouvait évité. C'est une faute de blocage.
+      que son adversaire ne pouvait éviter. C'est une faute de blocage.
 
 ### 12.8. Se déplacer simultanément vers un même point (12.8.)
 
-- Exemple 1 : Deux adversaires se déplace vers un même point pour faire action sur le disque. Ils sont conscients de la
+- Exemple 1 : Deux adversaires se déplacent vers un même point pour faire action sur le disque. Ils sont conscients de la
   présence l'un de l'autre et savent que des contacts mineurs peuvent arriver. Un contact mineur survient.
     - Même s'il y a eu un contact, ce n'est pas nécessairement une faute. Dans les circonstances où un joueur initie
       clairement le contact avec un autre, la personne qui a initié le contact est celle qui provoque la faute. (soit un
@@ -824,14 +822,14 @@ pris en compte pour définir si quelque chose affecte le jeu ou non.
             - Même si les deux sont à l'origine du contact, le joueur qui initie le contact avec le bras commet une
               faute qui n'est pas un contact mineur.
 
-Ces scénarios ne s'applique que si les deux joueurs provoque un contact simultanément. Si un joueur initie clairement
+Ces scénarios ne s'appliquent que si les deux joueurs provoque un contact simultanément. Si un joueur initie clairement
 le contact, ce joueur commet une faute.
 
 Si un joueur ne voit pas le contact venir, que l'autre joueur pouvait l'anticiper, ce dernier doit l'éviter et appeler
 Jeu dangereux si besoin.
 La règle 17.9.2.1. dit que si cela se produit après que le disque a été attrapé, ou après que le ou les joueurs
-concernés ne peuvent plus jouer le disque, cela doit être traité comme une faute indirecte (à
-l'exclusion du contact lié à la section 17.1).
+concernés ne peuvent plus jouer le disque, cela doit être traité comme une faute indirecte (à l'exclusion du contact
+lié à la section 17.1).
 
 Les joueurs concernés par cet incident doivent être conscient qu'ils n'ont souvent pas la meilleure perspective pour
 savoir qui a initié le contact et doivent demander aux joueurs alentours leur avis.
@@ -1687,11 +1685,3 @@ Pour les matchs utilisant l'annexe, se référer à la section des timings spéc
 
 Si une équipe appelle un temps-mort entre deux points ou pendant une interruption mais qu'elle n'en a plus, l'appel au
 temps-mort est sans effet.
-
-
-
-
-
-
-
-
